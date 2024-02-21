@@ -1,3 +1,6 @@
-export default function Page() {
-    return <h1>Hello, books Page!</h1>
-  }
+
+export default function View() {
+  return (
+    <p> hallo, isch bin books/view.js </p>
+  );
+}
