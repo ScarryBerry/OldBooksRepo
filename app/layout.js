@@ -11,9 +11,9 @@ export const metadata = {
 
 const RootLayout = ({ children }) => {
   return (
-    <>
-      <main>{children}</main>
-    </>
+    <html>
+      <body>{children}</body>
+    </html>
   );
 };
 
