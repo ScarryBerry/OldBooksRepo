@@ -1,1 +1,346 @@
+#####Abschnitt 1 und 2 Fehlen noch
 
+# Dritter Abschnitt
+# Die Produktion des absoluten Mehrwerts
+## Fünftes Kapitel
+## Arbeitsprozess und Verwertungsprozess
+### 1. Arbeitsprozess
+
+Der Gebrauch der Arbeitskraft ist die Arbeit selbst. Der Käufer der Arbeitskraf konsumiert sie, indem er ihren Verkäufer arbeiten lässt. Letztrer wird hierdurch actu *(tatsächlich) sich betätigende Arbeitskraft, Arbeiter, was er früher nur potenita *(dem Vermögen nach) war. Um seine Arbeit in Waren darzustellen, muss er sie vor allem in Gebrauchswerten darfstellen, Sachen die zur Befriedigung von Bedürfnissen irgendeiner Art dienen. Es ist also ein besondrer Gebrauchswert, ein bestimmter Artikel, den der Kapitalist vom Arbeiter anfertign lässt. Die Produktion von Gebrauchswerten oder Gütern ändert ihre  allgmeine Natur nicht dadurch, dass sie für den Kapitalisten und unter seiner Kontrolle vorgeht. Der Arbeitsprozess ist daher zunähst unabhängig von jeder bestimmten gesellschaftlichen Form zu betrachent
+  Die Arbeit ist zunächst ein Prozeß zwischen Mensch und Natur, ein
+Prozeß, worin der Mensch seinen Stoffwechsel mit der Natur durch seine
+eigne Tat vermittelt, regelt und kontrolliert. Er tritt dem Naturstoff selbst
+als eine Naturmacht gegenüber. Die seiner Leiblichkeit angehörigen Naturkräfte,
+Arme und Beine, Kopf und Hand, setzt er in Bewegung, um sich den
+Naturstoff in einer für sein eignes Leben brauchbaren Form anzueignen.
+Indem er durch diese Bewegung auf die Natur außer ihm wirkt und sie
+verändert, verändert er zugleich seine eigne Natur. Er entwickelt die in ihr
+schlummernden Potenzen und unterwirft das Spiel ihrer Kräfte seiner eignen
+Botmäßigkeit. Wir haben es hier nicht mit den ersten tierartig instinktmäßigen
+Formen der Arbeit zu tun. Dem Zustand, worin der Arbeiter als
+Verkäufer seiner eignen Arbeitskraft auf dem Warenmarkt auftritt, ist in
+urzeitlichen Hintergrund der Zustand entrückt, worin die menschliche Arbeit
+193
+ihre erste instinktartige Form noch nicht abgestreift hatte. Wir unterstellen
+die Arbeit in einer Form, worin sie dem Menschen ausschließlich angehört.
+Eine Spinne verrichtet Operationen, die denen des Webers ähneln, und eine
+Biene beschämt durch den Bau ihrer Wachszellen manchen menschlichen
+Baumeister. Was aber von vornherein den schlechtesten Baumeister vor der
+besten Biene auszeichnet, ist, daß er die Zelle in seinem Kopf gebaut hat,
+bevor er sie in Wachs baut. Am Ende des Arbeitsprozesses kommt ein Resultat
+heraus, das beim Beginn desselben schon in der Vorstellung des Arbeiters, also
+schon ideell vorhanden war. Nicht daß er nur eine Formveränderung des Na*
+türlichen bewirkt; er verwirklicht im Natürlichen zugleich seinen Zweck, den
+er weiß, der die Art und Weise seines Tuns als Gesetz bestimmt und dem er
+seinen Willen unterordnen muß. Und diese Unterordnung ist kein vereinzelter
+Akt. Außer der Anstrengung der Organe, die arbeiten, ist der zweckmäßige
+Wille, der sich als Aufmerksamkeit äußert, für die ganze Dauer der Arbeit
+erheischt, und um so mehr, je weniger sie durch den eignen Inhalt und
+die Art und Weise ihrer Ausführung den Arbeiter mit sich fortreißt, je weniger
+er sie daher als Spiel seiner eignen körperlichen und geistigen Kräfte
+genießt.
+  Die einfachen Momente des Arbeitsprozesses sind die zweckmäßige
+Tätigkeit oder die Arbeit selbst, ihr Gegenstand und ihr Mittel.
+Die Erde (worunter ökonomisch auch das Wasser einbegriffen), wie sie
+den Menschen ursprünglich mit Proviant, fertigen Lebensmitteln ausrüstet1,
+findet sich ohne sein Zutun als der allgemeine Gegenstand der menschlichen
+Arbeit vor. Alle Dinge, welche die Arbeit nur von ihrem unmittelbaren Zusammenhang
+mit dem Erdganzen loslöst, sind von Natur vorgefundne
+Arbeitsgegenstände. So der Fisch, der von seinem Lebenselement, dem
+Wasser, getrennt, gefangen wird, das Holz, das im Urwald gefällt, das Erz,
+das aus seiner Ader losgebrochen wird. Ist der Arbeitsgegenstand dagegen
+selbst schon sozusagen durch frühere Arbeit filtriert, so nennen wir ihn
+Rohmaterial. Z.B. das bereits losgebrochene Erz, das nun ausgewaschen
+wird. Alles Rohmaterial ist Arbeitsgegenstand, aber nicht jeder Arbeitsgegenstand
+ist Rohmaterial. Rohmaterial ist der Arbeitsgegenstand nur,
+sobald er bereits eine durch Arbeit vermittelte Veränderung erfahren hat.
+1 „Die naturwüchsigen Erzeugnisse der Erde, die in geringen Mengen und ganz
+unabhängig vom Menschen vorkommen, scheinen von der Natur in der gleichen Art
+gegeben zu sein, wie man einem jungen Mann eine knappe Summe gibt, um ihn auf
+den Weg des Fleißes und des Reichwerdens zu führen." (James Steuart, „Principles
+of Polit. Econ.", edit. Dublin 1770, v. I, p. 116.)
+
+194
+  Das Arbeitsmittel ist ein Ding oder ein Komplex von Dingen, die der
+Arbeiter zwischen sich und den Arbeitsgegenstand schiebt und die ihm als
+Leiter seiner Tätigkeit auf diesen Gegenstand dienen. Er benutzt die mechanischen,
+physikalischen, chemischen Eigenschaften der Dinge, um sie als
+Machtmittel auf andre Dinge, seinem Zweck gemäß, wirken zu lassen.2 Der
+Gegenstand, dessen sich der Arbeiter unmittelbar bemächtigt - abgesehn
+von der Ergreifung fertiger Lebensmittel, der Früchte z.B., wobei seine
+eignen Leibesorgane allein als Arbeitsmittel dienen - ist nicht der Arbeitsgegenstand,
+sondern das Arbeitsmittel. So wird das Natürliche selbst zum
+Organ seiner Tätigkeit, ein Organ, das er seinen eignen Leibesorganen hinzufügt,
+seine natürliche Gestalt verlängernd, trotz der Bibel. Wie die Erde
+seine ursprüngliche Proviantkammer, ist sie sein ursprüngliches Arsenal von
+Arbeitsmitteln. Sie liefert ihm z.B. den Stein, womit er wirft, reibt, drückt,
+schneidet usw. Die Erde selbst ist ein Arbeitsmittel, setzt jedoch zu ihrem
+Dienst als Arbeitsmittel in der Agrikultur wieder eine ganze Reihe andrer
+Arbeitsmittel und eine schon relativ hohe Entwicklung der Arbeitskraft
+voraus.3 Sobald überhaupt der Arbeitsprozeß nur einigermaßen entwickelt
+ist, bedarf er bereits bearbeiteter Arbeitsmittel. In den ältesten Menschenhöhlen
+finden wir Steinwerkzeuge und Steinwaffen. Neben bearbeitetem
+Stein, Holz, Knochen und Muscheln spielt im Anfang der Menschengeschichte
+das gezähmte, also selbst schon durch Arbeit veränderte, gezüchtete
+Tier die Hauptrolle als Arbeitsmittel.4 Der Gebrauch und die Schöpfung
+von Arbeitsmitteln, obgleich im Keim schon gewissen Tierarten eigen,
+charakterisieren den spezifisch menschlichen Arbeitsprozeß, und Franklin
+definiert daher den Menschen als „a toolmaking animal", ein Werkzeuge
+fabrizierendes Tier. Dieselbe Wichtigkeit, welche der Bau von Knochenreliquien
+für die Erkenntnis der Organisation untergegangner Tiergeschlechter,
+haben Reliquien von Arbeitsmitteln für die Beurteilung untergegangner
+ökonomischer Gesellschaftsformationen. Nicht was gemacht wird, sondern
+2 „Die Vernunft ist ebenso listig als mächtig. Die List besteht überhaupt in der
+vermittelnden Tätigkeit, welche, indem sie die Objekte ihrer eigenen Natur gemäß aufeinander
+einwirken und sich aneinander abarbeiten läßt, ohne sich unmittelbar in
+diesen Prozeß einzumischen, gleichwohl nur ihren Zweck zur Ausführung bringt."
+(Hegel, „Enzyklopädie", Erster Teil, „Die Logik", Berlin 1840, p.382.)
+8 In der sonst elenden Schrift: „Theorie de l'Econ. Polit.", Paris 1815, zählt Ganilh
+den Physiokraten gegenüber treffend die große Reihe von Arbeitsprozessen auf,welche
+die Voraussetzung der eigentlichen Agrikultur bilden.
+4 In den „Reflexions sur la Formation et la Distribution des Richesses" (1766) entwickelt
+Turgot gut die Wichtigkeit des gezähmten Tiers für die Anfänge der Kultur.
+
+
+195
+wie, mit welchen Arbeitsmitteln gemacht wird, unterscheidet die ökonomischen
+Epochen.5 Die Arbeitsmittel sind nicht nur Gradmesser der Entwicklung
+der menschlichen Arbeitskraft, sondern auch Anzeiger der gesellschaftlichen
+Verhältnisse, worin gearbeitet wird. Unter den Arbeitsmitteln selbst
+bieten die mechanischen Arbeitsmittel, deren Gesamtheit man das Knochenund
+Muskelsystem der Produktion nennen kann, viel entscheidendere Charaktermerkmale
+einer gesellschaftlichen Produktionsepoche als solche
+Arbeitsmittel, die nur zu Behältern des Arbeitsgegenstandes dienen und
+deren Gesamtheit ganz allgemein als das Gefäßsystem der Produktion bezeichnet
+werden kann, wie z.B. Röhren, Fässer, Körbe, Krüge usw. Erst in
+der chemischen Fabrikation spielen sie eine bedeutungsvolle Ro!le.5a
+  Im weitren Sinn zählt der Arbeitsprozeß unter seine Mittel außer den
+Dingen, welche die Wirkung der Arbeit auf ihren Gegenstand vermitteln
+und daher in einer oder der andren Weise als Leiter der Tätigkeit dienen,
+alle gegenständlichen Bedingungen, die überhaupt erheischt sind, damit der
+Prozeß stattfinde. Sie gehn nicht direkt in ihn ein, aber er kann ohne sie
+gar nicht oder nur unvollkommen vorgehn. Das allgemeine Arbeitsmittel
+dieser Art ist wieder die Erde selbst, denn sie gibt dem Arbeiter den locus
+standi1* und seinem Prozeß den Wirkungsraum (field of employment).
+Durch die Arbeit schon vermittelte Arbeitsmittel dieser Art sind z.B.
+Arbeitsgebäude, Kanäle, Straßen usw.
+  Im Arbeitsprozeß bewirkt also die Tätigkeit des Menschen durch das
+Arbeitsmittel eine von vornherein bezweckte Veränderung des Arbeitsgegenstandes.
+Der Prozeß erlischt im Produkt. Sein Produkt ist ein Gebrauchswert,
+ein durch Formveränderung menschlichen Bedürfnissen angeeigneter
+Naturstoff. Die Arbeit hat sich mit ihrem Gegenstand verbunden.
+Sie ist vergegenständlicht, und der Gegenstand ist verarbeitet. Was auf
+seiten des Arbeiters in der Form der Unruhe erschien, erscheint nun als
+ruhende Eigenschaft, in der Form des Seins, auf seiten des Produkts. Er hat
+gesponnen, und das Produkt ist ein Gespinst.
+5 Von allen Waren sind eigentliche Luxuswaren die unbedeutendsten für die technologische
+Vergleichung verschiedner Produktionsepochen.
+5a Note zur 2. Ausg. So wenig die bisherige Geschichtsschreibung die Entwicklung
+der materiellen Produktion, also die Grundlage alles gesellschaftlichen Lebens und
+daher aller wirklichen Geschichte kennt, hat man wenigstens die vorhistorische Zeit
+auf Grundlage naturwissenschaftlicher, nicht sog. historischer Forschungen nach dem
+Material der Werkzeuge und Waffen in Steinalter, Bronzealter und Eisenalter abgeteilt.
+*Standort
+
+
+196
+  Betrachtet man den ganzen Prozeß vom Standpunkt seines Resultats,
+des Produkts, so erscheinen beide, Arbeitsmittel und Arbeitsgegenstand, als
+Produktionsmittel6 und die Arbeit selbst als produktive Arbeit7.
+  Wenn ein Gebrauchswert als Produkt aus dem Arbeitsprozeß herauskommt,
+gehn andre Gebrauchswerte, Produkte frührer Arbeitsprozesse, als
+Produktionsmittel in ihn ein. Derselbe Gebrauchswert, der das Produkt
+dieser, bildet das Produktionsmittel jener Arbeit. Produkte sind daher nicht
+nur Resultat, sondern zugleich Bedingung des Arbeitsprozesses.
+  Mit Ausnahme der extraktiven Industrie, die ihren Arbeitsgegenstand
+von Natur vorfindet, wie Bergbau, Jagd, Fischfang usw. (der Ackerbau nur,
+soweit er in erster Instanz die jungfräuliche Erde selbst aufbricht), behandeln
+alle Industriezweige einen Gegenstand, der Rohmaterial, d. h. bereits
+durch die Arbeit filtrierter Arbeitsgegenstand, selbst schon Arbeitsprodukt
+ist. So z. B. der Samen in der Agrikultur. Tiere und Pflanzen, die
+man als Naturprodukte zu betrachten pflegt, sind nicht nur Produkte vielleicht
+der Arbeit vom vorigen Jahr, sondern, in ihren jetzigen Formen, Produkte
+einer durch viele Generationen unter menschlicher Kontrolle, vermittelst
+menschlicher Arbeit, fortgesetzten Umwandlung. Was aber die
+Arbeitsmittel insbesondre betrifft, so zeigt ihre ungeheure Mehrzahl dem
+oberflächlichsten Blick die Spur vergangner Arbeit.
+  Das Rohmaterial kann die Hauptsubstanz eines Produkts bilden oder
+nur als Hilfsstoff in seine Bildung eingehn. Der Hilfsstoff wird vom Arbeitsmittel
+konsumiert, wie Kohle von der Dampfmaschine, ö l vom Rade, Heu
+vom Zugpferd, oder dem Rohmaterial zugesetzt, um darin eine stoffliche
+Veränderung zu bewirken, wie Chlor zur ungebleichten Leinwand, Kohle
+zum Eisen, Farbe zur Wolle, oder er unterstützt die Verrichtung der Arbeit
+selbst, wie z. B. zur Beleuchtung und Heizung des Arbeitslokals verwandte
+Stoffe. Der Unterschied zwischen Hauptstoff und Hilfsstoff verschwimmt
+in der eigentlich chemischen Fabrikation, weil keines der angewandten Rohmaterialien
+als die Substanz des Produkts wieder erscheint.8
+6 Es scheint paradox, z.B. den Fisch, der noch nicht gefangen ist, ein Produktionsmittel
+für den Fischfang zu nennen. Bisher ist aber noch nicht die Kunst erfunden,
+Fische in Gewässern zu fangen, in denen sie sich nicht vorfinden.
+7 Diese Bestimmung produktiver Arbeit, wie sie sich vom Standpunkt des einfachen
+Arbeitsprozesses ergibt, reicht keineswegs hin für den kapitalistischen Produktionsprozeß.
+8 Storch unterscheidet das eigentliche Rohmaterial als „matiere" von den Hilfsstoffen
+als „materiaux"£56J; Cherbuliez bezeichnet die Hilfsstoffe als „matieres instrumentales"
+[57].
+
+197
+  Da jedes Ding vielerlei Eigenschaften besitzt und daher verschiedner
+Nutzanwendung fähig ist, kann dasselbe Produkt das Rohmaterial sehr verschiedner
+Arbeitsprozesse bilden. Korn z. B. ist Rohmaterial für Müller,
+Stärkefabrikant, Destillateur, Viehzüchter usw. Es wird Rohmaterial seiner
+eignen Produktion als Samen. So geht die Kohle als Produkt aus der Minenindustrie
+hervor und als Produktionsmittel in sie ein.
+  Dasselbe Produkt mag in demselben Arbeitsprozeß als Arbeitsmittel und
+Rohmaterial dienen. Bei der Viehmast z.B., wo das Vieh, das bearbeitete
+Rohmaterial, zugleich Mittel der Düngerbereitung ist.
+  Ein Produkt, das in einer für die Konsumtion fertigen Form existiert,
+kann von neuem zum Rohmaterial eines andren Produkts werden, wie die
+Traube zum Rohmaterial des Weins. Oder die Arbeit entläßt ihr Produkt in
+Formen, worin es nur wieder als Rohmaterial brauchbar ist. Rohmaterial
+in diesem Zustand heißt Halbfabrikat und hieße besser Stufenfabrikat, wie
+z. B. Baumwolle, Faden, Garn usw. Obgleich selbst schon Produkt, mag
+das ursprüngliche Rohmaterial eine ganze Staffel verschiedner Prozesse zu
+durchlaufen haben, worin es in stets veränderter Gestalt stets von neuem
+als Rohmaterial funktioniert bis zum letzten Arbeitsprozeß, der es als
+fertiges Lebensmittel oder fertiges Arbeitsmittel von sich abstößt.
+  Man sieht: Ob ein Gebrauchswert als Rohmaterial, Arbeitsmittel oder
+Produkt erscheint, hängt ganz und gar ab von seiner bestimmten Funktion
+im Arbeitsprozesse, von der Stelle, die er in ihm einnimmt, und mit dem
+Wechsel dieser Stelle wechseln jene Bestimmungen.
+  Durch ihren Eintritt als Produktionsmittel in neue Arbeitsprozesse verlieren
+Produkte daher den Charakter des Produkts. Sie funktionieren nur
+noch als gegenständliche Faktoren der lebendigen Arbeit. Der Spinner behandelt
+die Spindel nur als Mittel, womit, den Flachs nur als Gegenstand,
+den er spinnt. Allerdings kann man nicht spinnen ohne Spinnmaterial und
+Spindel. Das Vorhandensein dieser Produkte1* ist daher vorausgesetzt beim
+Beginn des Spinnens. In diesem Prozeß selbst aber ist es ebenso gleichgültig,
+daß Flachs und Spindel Produkte vergangner Arbeit sind, wie es im Akt der
+Ernährung gleichgültig ist, daß Brot das Produkt der vergangnen Arbeiten
+von Bauer, Müller, Bäcker usw. Umgekehrt. Machen Produktionsmittel im
+Arbeitsprozeß ihren Charakter als Produkte vergangner Arbeit geltend, so
+durch ihre Mängel. Ein Messer, das nicht schneidet, Garn, das beständig
+zerreißt usw., erinnern lebhaft an Messerschmied A und Garnwichser E.
+Im gelungnen Produkt ist die Vermittlung seiner Gebrauchseigenschaften
+durch vergangne Arbeit ausgelöscht.
+4. Auflage: dieses Produkts
+
+
+
+198
+  Eine Maschine, die nicht im Arbeitsprozeß dient, ist nutzlos. Außerdem
+verfällt sie der zerstörenden Gewalt des natürlichen Stoffwechsels. Das
+Eisen verrostet, das Holz verfault. Garn, das nicht verwebt oder verstrickt
+wird, ist verdorbne Baumwolle. Die lebendige Arbeit muß diese Dinge ergreifen,
+sie von den Toten erwecken, sie aus nur möglichen in wirkliche und
+wirkende Gebrauchswerte verwandeln. Vom Feuer der Arbeit beleckt, als
+Leiber derselben angeeignet, zu ihren begriffs- und berufsmäßigen Funktionen
+im Prozeß begeistet, werden sie zwar auch verzehrt, aber zweckvoll,
+als Bildungselemente neuer Gebrauchswerte, neuer Produkte, die fähig
+sind, als Lebensmittel in die individuelle Konsumtion oder als Produktionsmittel
+in neuen Arbeitsprozeß einzugehn.
+  Wenn also vorhandne Produkte nicht nur Resultate, sondern auch
+Existenzbedingungen des Arbeitsprozesses sind, ist andrerseits ihr Hineinwerfen
+in ihn, also ihr Kontakt mit lebendiger Arbeit, das einzige Mittel, um
+diese Produkte vergangner Arbeit als Gebrauchswerte zu erhalten und zu
+verwirklichen.
+  Die Arbeit verbraucht ihre stofflichen Elemente, ihren Gegenstand und
+ihr Mittel, verspeist dieselben und ist also Konsumtionsprozeß. Diese produktive
+Konsumtion unterscheidet sich dadurch von der individuellen
+Konsumtion, daß letztere die Produkte als Lebensmittel des lebendigen
+Individuums, erstere sie als Lebensmittel der Arbeit, seiner sich betätigenden
+Arbeitskraft, verzehrt. Das Produkt der individuellen Konsumtion ist
+daher der Konsument selbst, das Resultat der produktiven Konsumtion ein
+vom Konsumenten unte.rschiednes Produkt.
+  Sofern ihr Mittel und ihr Gegenstand selbst schon Produkte sind, verzehrt
+die Arbeit Produkte, um Produkte zu schaffen, oder vernutzt Produkte
+als Produktionsmittel von Produkten. Wie der Arbeitsprozeß aber ursprünglich
+nur zwischen dem Menschen und der ohne sein Zutun vorhandnen
+Erde vorgeht, dienen in ihm immer noch auch solche Produktionsmittel, die
+von Natur vorhanden, keine Verbindung von Naturstoff und menschlicher
+Arbeit darstellen.
+  Der Arbeitsprozeß, wie wir ihn in seinen einfachen und abstrakten Momenten
+dargestellt haben, ist zweckmäßige Tätigkeit zur Herstellung von
+Gebrauchswerten, Aneignung des Natürlichen für menschliche Bedürfnisse,
+allgemeine Bedingung des Stoffwechsels zwischen Mensch und Natur,
+ewige Naturbedingung des menschlichen Lebens und daher unabhängig
+von jeder Form dieses Lebens, vielmehr allen seinen Gesellschaftsformen
+gleich gemeinsam. Wir hatten daher nicht nötig, den Arbeiter im Verhältnis
+zu andren Arbeitern darzustellen. Der Mensch und seine Arbeit auf der
+
+199
+einen, die Natur und ihre Stoffe auf der andren Seite genügten. So wenig
+man dem Weizen anschmeckt, wer ihn gebaut hat, so wenig sieht man diesem
+Prozeß an, unter welchen Bedingungen er vorgeht, ob unter der brutalen
+Peitsche des Sklavenaufsehers oder unter dem ängstlichen Auge des
+Kapitalisten, ob Cincinnatus ihn verrichtet in der Bestellung seiner paar
+jugera1* oder der Wilde, der mit einem Stein eine Bestie erlegt.9
+  Kehren wir zu unsrem Kapitalisten in spe zurück. Wir verließen ihn,
+nachdem er auf dem Warenmarkt alle zu einem Arbeitsprozeß notwendigen
+Faktoren gekauft hatte, die gegenständlichen Faktoren oder die Produktionsmittel,
+den persönlichen Faktor oder die Arbeitskraft. Er hat mit schlauem
+Kennerblick die für sein besondres Geschäft, Spinnerei, Stiefelfabrikation
+usw., passenden Produktionsmittel und Arbeitskräfte ausgewählt. Unser
+Kapitalist setzt sich also daran, die von ihm gekaufte Ware, die Arbeitskraft,
+zu konsumieren, d.h., er läßt den Träger der Arbeitskraft, den Arbeiter,
+die Produktionsmittel durch seine Arbeit konsumieren. Die allgemeine
+Natur des Arbeitsprozesses ändert sich natürlich nicht dadurch, daß der
+Arbeiter ihn für den Kapitalisten, statt für sich selbst verrichtet. Aber auch
+die bestimmte Art und Weise, wie man Stiefel macht oder Garn spinnt,
+kann sich zunächst nicht ändern durch die Dazwischenkunft des Kapitalisten.
+Er muß die Arbeitskraft zunächst nehmen, wie er sie auf dem Markt
+vorfindet, also auch ihre Arbeit, wie sie in einer Periode entsprang, wo es
+noch keine Kapitalisten gab. Die Verwandlung der Produktionsweise selbst
+durch die Unterordnung der Arbeit unter das Kapital kann sich erst später
+ereignen und ist daher erst später zu betrachten.
+  Der Arbeitsprozeß, wie er als Konsumtionsprozeß der Arbeitskraft
+durch den Kapitalisten vorgeht, zeigt nun zwei eigentümliche Phänomene.
+  Der Arbeiter arbeitet unter der Kontrolle des Kapitalisten, dem seine
+Arbeit gehört. Der Kapitalist paßt auf, daß die Arbeit ordentlich vonstatten
+geht und die Produktionsmittel zweckmäßig verwandt werden, also kein
+9 Aus diesem höchst logischen Grund entdeckt wohl Oberst Torrens in dem Stein
+des Wilden - den Ursprung des Kapitals. „In dem ersten Stein, den der Wilde auf die
+Bestie wirft, die er verfolgt, in dem ersten Stock, den er ergreift, um die Frucht niederzuziehn,
+die er nicht mit den Händen fassen kann, sehn wir die Aneignung eines Artikels
+zum Zweck der Erwerbung eines andren und entdecken so - den Ursprung des
+Kapitals." (R.Torrens, „An Essay on the Production of Wealth etc.", p.70, 71.) Aus
+jenem ersten Stock ist wahrscheinlich auch zu erklären, warum stock im Englischen
+synonym mit Kapital ist.
+1* Morgen
+
+200
+Rohmaterial vergeudet und das Arbeitsinstrument geschont, d. h. nur so
+weit zerstört wird, als sein Gebrauch in der Arbeit ernötigt.
+  Zweitens aber: Das Produkt ist Eigentum des Kapitalisten, nicht des unmittelbaren
+Produzenten, des Arbeiters. Der Kapitalist zahlt z. B. den Tageswert
+der Arbeitskraft. Ihr Gebrauch, wie der jeder andren Ware, z. B. eines
+Pferdes, das er für einen Tag gemietet, gehört ihm also für den Tag. Dem
+Käufer der Ware gehört der Gebrauch der Ware, und der Besitzer der
+Arbeitskraft gibt in der Tat nur den von ihm verkauften Gebrauchswert,
+indem er seine Arbeit gibt. Von dem Augenblicke, wo er in die Werkstätte
+des Kapitalisten trat, gehörte der Gebrauchswert seiner Arbeitskraft, also
+ihr Gebrauch, die Arbeit, dem Kapitalisten. Der Kapitalist hat durch den
+Kauf der Arbeitskraft die Arbeit selbst als lebendigen Gärungsstoff den
+toten ihm gleichfalls gehörigen Bildungselementen des Produkts einverleibt.
+Von seinem Standpunkt ist der Arbeitsprozeß nur die Konsumtion der von
+ihm gekauften Ware Arbeitskraft, die er jedoch nur konsumieren kann, indem
+er ihr Produktionsmittel zusetzt. Der Arbeitsprozeß ist ein Prozeß
+zwischen Dingen, die der Kapitalist gekauft hat, zwischen ihm gehörigen
+Dingen. Das Produkt dieses Prozesses gehört ihm daher ganz ebensosehr
+als das Produkt des Gärungsprozesses in seinem Weinkeller.10
+2. Vervöerhmgsprozeß
+Das Produkt - das Eigentum des Kapitalisten - ist ein Gebrauchswert,
+Garn, Stiefel usw. Aber obgleich Stiefel z. B. gewissermaßen die Basis des
+gesellschaftlichen Fortschritts bilden und unser Kapitalist ein entschiedner
+10 „Die Produkte sind appropriiert, bevor sie m Kapital verwandelt werden; diese
+Verwandlung entzieht sie nicht jener Appropriation." (Cherbuliez, „Richesse ou Pauvrete",
+edit. Paris 1841, p. 54.) „ Indem der Proletarier seine Arbeit gegen ein bestimmtes
+Quantum Lebensmittel (approvisionnement) verkauft, verzichtet er vollständig auf
+jeden Anteil am Produkt. Die Appropriation der Produkte bleibt dieselbe wie vorher;
+sie ist in keiner Weise durch die erwähnte Konvention verändert. Das Produkt gehört
+ausschließlich dem Kapitalisten, der die Rohstoffe und das Approvisionnement geliefert
+hat. Es ist dies eine strenge Konsequenz des Gesetzes der Appropriation, dessen
+Fundamentalprinzip umgekehrt das ausschließliche Eigentumsrecht jedes Arbeiters an
+seinem Produkte war." (ibid., p.58.) James Mill, „Elements of Pol. Econ. etc.", p.70,
+71: „Wenn die Arbeiter für Arbeitslohn arbeiten, ist der Kapitalist Eigentümer nicht
+nur des Kapitals" (meint hier die Produktionsmittel), „sondern auch der Arbeit (of the
+labour also). Wenn man das, was für Arbeitslohn gezahlt wird, wie dies gebräuchlich;
