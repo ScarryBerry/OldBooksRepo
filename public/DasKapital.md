@@ -29,8 +29,7 @@ Baumeister. Was aber von vornherein den schlechtesten Baumeister vor der
 besten Biene auszeichnet, ist, daß er die Zelle in seinem Kopf gebaut hat,
 bevor er sie in Wachs baut. Am Ende des Arbeitsprozesses kommt ein Resultat
 heraus, das beim Beginn desselben schon in der Vorstellung des Arbeiters, also
-schon ideell vorhanden war. Nicht daß er nur eine Formveränderung des Na*
-türlichen bewirkt; er verwirklicht im Natürlichen zugleich seinen Zweck, den
+schon ideell vorhanden war. Nicht daß er nur eine Formveränderung des Natürlichen bewirkt; er verwirklicht im Natürlichen zugleich seinen Zweck, den
 er weiß, der die Art und Weise seines Tuns als Gesetz bestimmt und dem er
 seinen Willen unterordnen muß. Und diese Unterordnung ist kein vereinzelter
 Akt. Außer der Anstrengung der Organe, die arbeiten, ist der zweckmäßige
