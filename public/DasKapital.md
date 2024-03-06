@@ -7,59 +7,8 @@
 ### 1. Arbeitsprozess
 
 Der Gebrauch der Arbeitskraft ist die Arbeit selbst. Der Käufer der Arbeitskraf konsumiert sie, indem er ihren Verkäufer arbeiten lässt. Letztrer wird hierdurch actu *(tatsächlich) sich betätigende Arbeitskraft, Arbeiter, was er früher nur potenita *(dem Vermögen nach) war. Um seine Arbeit in Waren darzustellen, muss er sie vor allem in Gebrauchswerten darfstellen, Sachen die zur Befriedigung von Bedürfnissen irgendeiner Art dienen. Es ist also ein besondrer Gebrauchswert, ein bestimmter Artikel, den der Kapitalist vom Arbeiter anfertign lässt. Die Produktion von Gebrauchswerten oder Gütern ändert ihre  allgmeine Natur nicht dadurch, dass sie für den Kapitalisten und unter seiner Kontrolle vorgeht. Der Arbeitsprozess ist daher zunähst unabhängig von jeder bestimmten gesellschaftlichen Form zu betrachent
-  Die Arbeit ist zunächst ein Prozeß zwischen Mensch und Natur, ein
-Prozeß, worin der Mensch seinen Stoffwechsel mit der Natur durch seine
-eigne Tat vermittelt, regelt und kontrolliert. Er tritt dem Naturstoff selbst
-als eine Naturmacht gegenüber. Die seiner Leiblichkeit angehörigen Naturkräfte,
-Arme und Beine, Kopf und Hand, setzt er in Bewegung, um sich den
-Naturstoff in einer für sein eignes Leben brauchbaren Form anzueignen.
-Indem er durch diese Bewegung auf die Natur außer ihm wirkt und sie
-verändert, verändert er zugleich seine eigne Natur. Er entwickelt die in ihr
-schlummernden Potenzen und unterwirft das Spiel ihrer Kräfte seiner eignen
-Botmäßigkeit. Wir haben es hier nicht mit den ersten tierartig instinktmäßigen
-Formen der Arbeit zu tun. Dem Zustand, worin der Arbeiter als
-Verkäufer seiner eignen Arbeitskraft auf dem Warenmarkt auftritt, ist in
-urzeitlichen Hintergrund der Zustand entrückt, worin die menschliche Arbeit
-193
-ihre erste instinktartige Form noch nicht abgestreift hatte. Wir unterstellen
-die Arbeit in einer Form, worin sie dem Menschen ausschließlich angehört.
-Eine Spinne verrichtet Operationen, die denen des Webers ähneln, und eine
-Biene beschämt durch den Bau ihrer Wachszellen manchen menschlichen
-Baumeister. Was aber von vornherein den schlechtesten Baumeister vor der
-besten Biene auszeichnet, ist, daß er die Zelle in seinem Kopf gebaut hat,
-bevor er sie in Wachs baut. Am Ende des Arbeitsprozesses kommt ein Resultat
-heraus, das beim Beginn desselben schon in der Vorstellung des Arbeiters, also
-schon ideell vorhanden war. Nicht daß er nur eine Formveränderung des Natürlichen bewirkt; er verwirklicht im Natürlichen zugleich seinen Zweck, den
-er weiß, der die Art und Weise seines Tuns als Gesetz bestimmt und dem er
-seinen Willen unterordnen muß. Und diese Unterordnung ist kein vereinzelter
-Akt. Außer der Anstrengung der Organe, die arbeiten, ist der zweckmäßige
-Wille, der sich als Aufmerksamkeit äußert, für die ganze Dauer der Arbeit
-erheischt, und um so mehr, je weniger sie durch den eignen Inhalt und
-die Art und Weise ihrer Ausführung den Arbeiter mit sich fortreißt, je weniger
-er sie daher als Spiel seiner eignen körperlichen und geistigen Kräfte
-genießt.
-  Die einfachen Momente des Arbeitsprozesses sind die zweckmäßige
-Tätigkeit oder die Arbeit selbst, ihr Gegenstand und ihr Mittel.
-Die Erde (worunter ökonomisch auch das Wasser einbegriffen), wie sie
-den Menschen ursprünglich mit Proviant, fertigen Lebensmitteln ausrüstet1,
-findet sich ohne sein Zutun als der allgemeine Gegenstand der menschlichen
-Arbeit vor. Alle Dinge, welche die Arbeit nur von ihrem unmittelbaren Zusammenhang
-mit dem Erdganzen loslöst, sind von Natur vorgefundne
-Arbeitsgegenstände. So der Fisch, der von seinem Lebenselement, dem
-Wasser, getrennt, gefangen wird, das Holz, das im Urwald gefällt, das Erz,
-das aus seiner Ader losgebrochen wird. Ist der Arbeitsgegenstand dagegen
-selbst schon sozusagen durch frühere Arbeit filtriert, so nennen wir ihn
-Rohmaterial. Z.B. das bereits losgebrochene Erz, das nun ausgewaschen
-wird. Alles Rohmaterial ist Arbeitsgegenstand, aber nicht jeder Arbeitsgegenstand
-ist Rohmaterial. Rohmaterial ist der Arbeitsgegenstand nur,
-sobald er bereits eine durch Arbeit vermittelte Veränderung erfahren hat.
-1 „Die naturwüchsigen Erzeugnisse der Erde, die in geringen Mengen und ganz
-unabhängig vom Menschen vorkommen, scheinen von der Natur in der gleichen Art
-gegeben zu sein, wie man einem jungen Mann eine knappe Summe gibt, um ihn auf
-den Weg des Fleißes und des Reichwerdens zu führen." (James Steuart, „Principles
-of Polit. Econ.", edit. Dublin 1770, v. I, p. 116.)
-
-194
+  Die Arbeit ist zunächst ein Prozess zwischen Mensch und Natur, ein Prozess, worin der Mensch seinen Stoffwechsel mit der Natur durch seine eigene Tat vermittelt, regelt und kontrolliert. Er tritt dem Naturstoff selbst als eine Naturmacht gegenüber. Die seiner Leiblichkeit angehörigen Naturkräfte, Arme und Beine, Kopf und Hand, setzt er in Bewegung, um sich den Naturstoff in einer für sein eignes Leben brauchbaren Form anzueignen. Indem er durch diese Bewegung auf die Natur außer ihm wirkt und sie verändert, verändert er zugleich seine eigne Natur. Er entwickelt die in ihr schlummernden Potenzen und unterwirft das Spiel ihrer Kräfte seiner eignen Botmäßigkeit. Wir haben es hier nicht mit den ersten tierartig instinktmäßigen Formen der Arbeit zu tun. Dem Zustand, worin der Arbeiter als Verkäufer seiner eignen Arbeitskraft auf dem Warenmarkt auftritt, ist in urzeitlichen Hintergrund der Zustand entrückt, worin die menschliche Arbeit ihre erste instinktartige Form noch nicht abgestreift hatte. Wir unterstellen die Arbeit in einer Form, worin sie dem Menschen ausschließlich angehört. Eine Spinne verrichtet Operationen, die denen des Webers ähneln, und eine Biene beschämt durch den Bau ihrer Wachszellen manchen menschlichen Baumeister. Was aber von vornherein den schlechtesten Baumeister vor der besten Biene auszeichnet, ist, daß er die Zelle in seinem Kopf gebaut hat, bevor er sie in Wachs baut. Am Ende des Arbeitsprozesses kommt ein Resultat heraus, das beim Beginn desselben schon in der Vorstellung des Arbeiters, also schon ideell vorhanden war. Nicht dass er nur eine Formveränderung des Natürlichen bewirkt; er verwirklicht im Natürlichen zugleich seinen Zweck, den er weiß, der die Art und Weise seines Tuns als Gesetz bestimmt und dem er seinen Willen unterordnen muss. Und diese Unterordnung ist kein vereinzelter Akt. Außer der Anstrengung der Organe, die arbeiten, ist der zweckmäßige Wille, der sich als Aufmerksamkeit äußert, für die ganze Dauer der Arbeit erheischt, und um so mehr, je weniger sie durch den eignen Inhalt und die Art und Weise ihrer Ausführung den Arbeiter mit sich fortreißt, je weniger er sie daher als Spiel seiner eignen körperlichen und geistigen Kräfte genießt.
+  Die einfachen Momente des Arbeitsprozesses sind die zweckmäßige Tätigkeit oder die Arbeit selbst, ihr Gegenstand und ihr Mittel. Die Erde (worunter ökonomisch auch das Wasser einbegriffen), wie sie den Menschen ursprünglich mit Proviant, fertigen Lebensmitteln ausrüstet [„Die naturwüchsigen Erzeugnisse der Erde, die in geringen Mengen und ganz unabhängig vom Menschen vorkommen, scheinen von der Natur in der gleichen Art gegeben zu sein, wie man einem jungen Mann eine knappe Summe gibt, um ihn auf den Weg des Fleißes und des Reichwerdens zu führen." (James Steuart, „Principles of Polit. Econ.", edit. Dublin 1770, v. I, p. 116.)], findet sich ohne sein Zutun als der allgemeine Gegenstand der menschlichen Arbeit vor. Alle Dinge, welche die Arbeit nur von ihrem unmittelbaren Zusammenhang mit dem Erdganzen loslöst, sind von Natur vorgefundne Arbeitsgegenstände. So der Fisch, der von seinem Lebenselement, dem Wasser, getrennt, gefangen wird, das Holz, das im Urwald gefällt, das Erz, das aus seiner Ader losgebrochen wird. Ist der Arbeitsgegenstand dagegen selbst schon sozusagen durch frühere Arbeit filtriert, so nennen wir ihn Rohmaterial. Z.B. das bereits losgebrochene Erz, das nun ausgewaschen wird. Alles Rohmaterial ist Arbeitsgegenstand, aber nicht jeder Arbeitsgegenstand ist Rohmaterial. Rohmaterial ist der Arbeitsgegenstand nur, sobald er bereits eine durch Arbeit vermittelte Veränderung erfahren hat.
   Das Arbeitsmittel ist ein Ding oder ein Komplex von Dingen, die der
 Arbeiter zwischen sich und den Arbeitsgegenstand schiebt und die ihm als
 Leiter seiner Tätigkeit auf diesen Gegenstand dienen. Er benutzt die mechanischen,
