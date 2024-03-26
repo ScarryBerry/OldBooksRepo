@@ -102,70 +102,12 @@ Nach 2 Uhr nachmittags..........15 -||-       |
   Oder 5 Stunden 40 Minuten wöchentlich, was mit 50 Arbeitswochen multipliziert, nach Abzug von 2 Wochen für Feiertage oder gelegentliche Unterbrechungen, 27 Arbeitstage gibt."[„Suggestions etc. by Mr. L.Horner, Inspector of Factories",im „FactoriesRegulation Act. Ordered by the House of Commons to be printed 9.Aug. 1859", p.4, 5.]
   „Wird der Arbeitstag täglich 5 Minuten über die Normaldauer verlängert, so gibt das 2 1/2 Produktionstage im Jahr." [„Reports of the Insp. of Fact. for the half year, Oct. 1856", p.35.] „Eine zusätzliche Stunde täglich, dadurch gewonnen, dass bald hier ein Stückchen Zeit erhascht wird, bald dort ein andres Stückchen, macht aus den 12 Monaten des Jahres 13."[„Report etc. 30th April 1858", p.9.]
   Krisen, worin die Produktion unterbrochen und nur „kurze Zeit", nur während einiger Tage in der Woche, gearbeitet wird, ändern natürlich nichts an dem Trieb nach Verlängrung des Arbeitstags. Je weniger Geschäfte gemacht werden, desto größer soll der Gewinn auf das gemachte Geschäft sein. Je weniger Zeit gearbeitet werden kann, desto mehr Surplusarbeitszeit soll gearbeitet werden. So berichten die Fabrikinspektoren über die Periode der Krise von 1857 bis 1858:
-  „Man mag es für eine Inkonsequenz halten, daß irgendwelche Überarbeit zu einer Zeit stattfinde, wo der Handel so schlecht geht, aber sein schlechter Zustand spornt
+  „Man mag es für eine Inkonsequenz halten, daß irgendwelche Überarbeit zu einer Zeit stattfinde, wo der Handel so schlecht geht, aber sein schlechter Zustand spornt rücksichtslose Leute zu Überschreitungen; sie sichern sich so einen Extraprofit..." „Zur selben Zeit", sagt Leonard Horner, „wo 122 Fabriken in meinem Distrikt ganz aufgegeben sind, 143 stillstehn und alle andren kurze Zeit arbeiten, wird die Überarbeit über die gesetzlich bestimmte Zeit fortgesetzt." [„Reports etc.", I.e. p. 10.] „Obgleich", sagt Herr Howell, „in den meisten Fabriken des schlechten Geschäftsstands wegen nur halbe Zeit gearbeitet wird, erhalte ich nach wie vor dieselbe Anzahl von Klagen, dass eine halbe Stunde oder 3/4 Stunden täglich den Arbeitern weggeschnappt (snatched) werden durch Eingriffe in die ihnen gesetzlich gesicherten Fristen für Mahlzeit und Erholung."[„Reports etc.", I.e. p.25.]
 
-256
+  Dasselbe Phänomen wiederholt sich auf kleinerer Stufenleiter während
+der furchtbaren Baumwollkrise von 1861 bis 1865.[„Reports etc. for the half year ending 30th April 1861." Sieh Appendix Nr.2; „Reports etc. 31st Octob. 1862", p.7, 52, 53. Die Überschreitungen werden wieder zahlreicher mit dem letzten Halbjahr 1863. Vgl. „Reports etc. ending 31st Oct. 1863", p.7.]
 
-rücksichtslose Leute zu Überschreitungen; sie sichern sich so einen Extraprofit..."
-„Zur selben Zeit", sagt Leonard Horner, „wo 122 Fabriken in meinem Distrikt ganz
-aufgegeben sind, 143 stillstehn und alle andren kurzeZeit arbeiten, wird die Überarbeit
-über die gesetzlich bestimmte Zeit fortgesetzt." 62 „Obgleich", sagt Herr Howell, „in den
-meisten Fabriken des schlechten Geschäftsstands wegen nur halbe Zeit gearbeitet wird,
-erhalte ich nach wie vor dieselbe Anzahl von Klagen, daß eine halbe Stunde oder
-3/4 Stunden täglich den .Arbeitern weggeschnappt (snatched) werden durch Eingriffe
-in die ihnen gesetzlich gesicherten Fristen für Mahlzeit und Erholung."83
-Dasselbe Phänomen wiederholt sich auf kleinerer Stufenleiter während
-der furchtbaren Baumwollkrise von 1861 bis 1865.54
-„Es wird zuweilen vorgeschützt, wenn wir Arbeiter während der Speisestunden
-oder sonst zu ungesetzlicher Zeit am Werk ertappen, daß sie die Fabrik durchaus nicht
-verlassen wollen und daß es des Zwangs bedarf, um ihre Arbeit" (Reinigen der Maschinen
-usw.) „zu unterbrechen, namentlich Samstag nachmittags. Aber wenn die
-,Hände' nach Stillsetzung der Maschinerie in der Fabrik bleiben, geschieht es nur,
-weil ihnen zwischen 6 Uhr morgens und 6 Uhr abends, in den gesetzlich bestimmten
-Arbeitsstunden, keine Frist zur Verrichtung solcher Geschäfte gestattet worden ist."55
-„Der durch Überarbeit über die gesetzliche Zeit zu machende Extraprofit scheint
-für viele Fabrikanten eine zu große Versuchung, um ihr widerstehn zu können. Sie
-rechnen auf die Chance, nicht ausgefunden zu werden, und berechnen, daß selbst im
-32 „Reports etc.", I.e. p. 10.
-53 „Reports etc.", I.e. p.25.
-54 „Reports etc. for the half year ending 30th April 1861." Sieh Appendix Nr.2;
-„Reports etc. 31st Octob. 1862", p.7, 52, 53. Die Überschreitungen werden wieder
-zahlreicher mit dem letzten Halbjahr 1863. Vgl. „Reports etc. ending 31st Oct. 1863",
-p.7.
-55 „Reports etc. 31 st Oct. 1860", p.23. Mit welchem Fanatismus, nach gerichtlichen
-Aussagen der Fabrikanten, ihre Fabrikhände sich jeder Unterbrechung der
-Fabrikarbeit widersetzen, zeige folgendes Kuriosum: Anfang Juni 1836 gingen den
-Magistrates von Dewsbury (Yorkshire) Denunziationen zu, wonach die Eigner von 8
-großen Fabriken in der Nähe von Batley den Fabrikakt verletzt hätten. Ein Teil dieser
-Herren war angeklagt, 5 Knaben zwischen 12 und 15 Jahren von 6 Uhr morgens des
-Freitags bis 4 Uhr nachmittags des folgenden Samstags abgearbeitet zu haben,
-ohne irgendeine Erholung zu gestatten, außer für Mahlzeiten und eine Stunde Schlaf
-um Mitternacht. Und diese Kinder hatten die rastlose, 30stündige Arbeit zu verrichten
-in dem „shoddyhole", wie die Höhle heißt, worin Wollenlumpen aufgerissen werden
-und wo ein Luftmeer von Staub, Abfällen usw. selbst den erwachsnen Arbeiter zwingt,
-den Mund beständig mit Schnupftüchern zu verbinden, zum Schutz seiner Lunge! Die
-Herren Angeklagten versicherten an Eides Statt - als Quäker waren sie zu skrupulös
-religiöse Männer, einen Eid zu leisten sie hätten in ihrer großen Barmherzigkeit den
-Fall der Entdeckung die Geringfügigkeit der Geldstrafen und Gerichtskosten ihnen
-immer noch eine Gewinnbilanz sichert."56 „Wo die zusätzliche Zeit durch Multiplikation
-kleiner Diebstähle (a multiplication of small thefts) im Laufe des Tages gewonnen
-wird, stehn den Inspektoren fast unüberwindliche Schwierigkeiten der Beweisführung
-im Weg."57
-Diese „kleinen Diebstähle" des Kapitals an der Mahlzeit und Erholungszeit
-der Arbeiter bezeichnen die Fabrikinspektoren auch als „petty pilferings
-of minutes", Mausereien von Minuten58, „snatching a few minutes", Wegschnappen
-von Minuten59, oder wie die Arbeiter es technisch heißen, „nibbling
-and cribbling at meal times"1*.60
-Man sieht, in dieser Atmosphäre ist die Bildung des Mehrwerts durch
-die Mehrarbeit kein Geheimnis.
-„.Wenn Sie mir erlauben', sagte mir ein sehr respektabler Fabrikherr,,täglich nur
-10 Minuten Überzeit arbeiten zu lassen, stecken Sie jährlich 1000 Pfd.St. in meine
-Tasche.'"61 „Zeitatome sind die Elemente des Gewinns."62
-Nichts ist in dieser Hinsicht charakteristischer als die Bezeichnung der
-Arbeiter, die volle Zeit arbeiten, durch „füll times" und die der Kinder
-unter 13 Jahren, die nur 6 Stunden arbeiten dürfen, als „half times"63.
-elenden Kindern 4 Stunden Schlaf erlaubt, aber die Starrköpfe von Kindern wollten
-durchaus nicht zu Bett gehn! Die Herrn Quäker wurden z;u 20 Pfd. St. Geldbuße verurteilt.
+  „Es wird zuweilen vorgeschützt, wenn wir Arbeiter während der Speisestunden oder sonst zu ungesetzlicher Zeit am Werk ertappen, dass sie die Fabrik durchaus nicht verlassen wollen und dass es des Zwangs bedarf, um ihre Arbeit" (Reinigen der Maschinen usw.) „zu unterbrechen, namentlich Samstag nachmittags. Aber wenn die ,Hände' nach Stillsetzung der Maschinerie in der Fabrik bleiben, geschieht es nur, weil ihnen zwischen 6 Uhr morgens und 6 Uhr abends, in den gesetzlich bestimmten Arbeitsstunden, keine Frist zur Verrichtung solcher Geschäfte gestattet worden ist."[„Reports etc. 31 st Oct. 1860", p.23. Mit welchem Fanatismus, nach gerichtlichen Aussagen der Fabrikanten, ihre Fabrikhände sich jeder Unterbrechung der Fabrikarbeit widersetzen, zeige folgendes Kuriosum: Anfang Juni 1836 gingen den Magistrates von Dewsbury (Yorkshire) Denunziationen zu, wonach die Eigner von 8 großen Fabriken in der Nähe von Batley den Fabrikakt verletzt hätten. Ein Teil dieser Herren war angeklagt, 5 Knaben zwischen 12 und 15 Jahren von 6 Uhr morgens des Freitags bis 4 Uhr nachmittags des folgenden Samstags abgearbeitet zu haben, ohne irgendeine Erholung zu gestatten, außer für Mahlzeiten und eine Stunde Schlaf um Mitternacht. Und diese Kinder hatten die rastlose, 30stündige Arbeit zu verrichten in dem „shoddyhole", wie die Höhle heißt, worin Wollenlumpen aufgerissen werden und wo ein Luftmeer von Staub, Abfällen usw. selbst den erwachsnen Arbeiter zwingt, den Mund beständig mit Schnupftüchern zu verbinden, zum Schutz seiner Lunge! Die Herren Angeklagten versicherten an Eides Statt - als Quäker waren sie zu skrupulös religiöse Männer, einen Eid zu leisten sie hätten in ihrer großen Barmherzigkeit den elenden Kindern 4 Stunden Schlaf erlaubt, aber die Starrköpfe von Kindern wollten durchaus nicht zu Bett gehn! Die Herrn Quäker wurden zu 20 Pfd. St. Geldbuße verurteilt.
 Dryden ahnte diese Quäker:
 „Ein Fuchs voller Scheinheiligkeit,
 der wie der Teufel lügt, doch fürchtet sich
@@ -173,108 +115,37 @@ vor'm Eid,
 der wie ein Büßer ausschaut, doch seitwärts
 gier'ge Blicke wirft,
 doch nicht zu sünd'gen wagt, bevor er sein
-Gebet gesagt!" 17°]
-56 „Rep. etc. 31st Oct. 1856", p.34.
-57 I.e. p.35.
-58 I.e. p.48.
-59 I.e.
-60 I.e.
-61 I.e. p.48.
-62 „Moments are the elements of profit." («Rep. of the Insp. etc. 30th April 1860",
-P-56.)
-68 Der Ausdruck hat offizielles Bürgerrecht, wie in der Fabrik, so in den Fabrikberichten.
-„knabbern und knapsen an den Essenspausen"
-17 Marx, Kapital I
-Der Arbeiter ist hier nichts mehr als personifizierte Arbeitszeit. Alle individuellen
-Unterschiede lösen sich auf in die von „Vollzeitler" und
-„Halbzeitler".
-1. Englische Industriezweige ohne legale Schranke
-der Exploitation
-Den Trieb nach Verlängrung des Arbeitstags, den Werwolfsheißhunger
-für Mehrarbeit, beobachteten wir bisher auf einem Gebiet, wo maßlose
-Ausschreitungen- nicht übergipfelt, so sagt ein bürgerlicher englischer
-Ökonom, von den Grausamkeiten der Spanier gegen die Rothäute Amerikas64,
-das Kapital endlich an die Kette gesetzlicher Regulation gelegt haben.
-Werfen wir jetzt den Blick auf einige Produktionszweige, wo die Aussaugung
-der Arbeitskraft entweder noch heute fesselfrei ist oder es gestern
-noch war.
-„Herr Broughton, ein County Magistrate, erklärte als Präsident eines Meetings,
-abgehalten in der Stadthalle von Nottingham, am 14. Januar 1860, daß in dem mit der
-Spitzenfabrikation beschäftigten Teile der städtischen Bevölkerung ein der übrigen
-zivilisierten Welt unbekannter Grad von Leid und Entbehrung vorherrscht... Um 2,
-3, 4 Uhr des Morgens werden Kinder von 9 bis 10 Jahren ihren schmutzigen Betten
-entrissen und gezwungen, für die nackte Subsistenz bis 10, 11, 12 Uhr nachts zu arbeiten,
-während ihre Glieder wegschwinden, ihre Gestalt zusammenschrumpft, ihre Gesichtszügeabstumpfenund
-ihr menschliches Wesen ganz und gar ineinem s'ceinähnlichen
-Torpor erstarrt, dessen bloßer Anblick schauderhaft ist. Wir sind nicht überrascht,
-daß Herr Mallett und andre Fabrikanten auftraten, um Protest gegen jede Diskussion
-einzulegen... Das System, wie der Rev. Montagu Valpy es beschrieb, ist ein System
-unbeschränkter Sklaverei, Sklaverei in sozialer, physischer, moralischer und intellektueller
-Beziehung... Was soll man denken von einer Stadt,die ein öffentliches Meeting
-abhält, um zu petitionieren, daß die Arbeitszeit für Männer täglich auf 18 Stunden beschränkt
-werden solle!... Wir deklamieren gegen die virginischen und karolinischen
-Pflanzer. Ist jedoch ihr Negermarktmit allen Schrecken der Peitsche und dem Schacher
-in Menschenfleisch, abscheulicher als diese langsame Menschenabschlachtung,
-64 „Die Habgier der Fabrikbesitzer, deren Grausamkeiten, bei der Jagd nach Gewinn
-kaum von denjenigen übertroffen wurden, die die Spanier bei der Eroberung Amerikas,
-bei der Jagd nach dem Golde verübten." (John Wade, „History of the Middle and
-Working Classes", 3rd ed. Lond. 1835, p. 114.) Der theoretische Teil dieses Buchs, eine
-Art Grundriß der politischen Ökonomie, enthält für seine Zeit einiges Originelle, z.B.
-über Handelskrisen. Der historische Teil leidet an schamlosem Plagiarismus aus Sir
-M.Edens, „The State of the Poor", London 1797.
-die vor sich geht, damit Schleier und Kragen zum Vorteil von Kapitalisten fabriziert
-werden?"65
-Die Töpferei (Pottery) von Staffordshire hat während der letzten 22 Jahre
-den Gegenstand dreier parlamentarischen Untersuchungen gebildet. Die
-Resultate sind niedergelegt im Bericht des Herrn Scriven von 1841 an die
-„Children's Employment Commissioners", im Bericht des Dr.Greenhow
-von 1860, veröffentlicht auf Befehl des ärztlichen Beamten des Privy Council1711
-(„Public Health, 3rd Report", I, 102-113), endlich im Bericht des
-Herrn Longe von 1863, in „First Report of the Children's Employment
-Commission" vom 13. Juni 1863. Für meine Aufgabe genügt es, den Berichten
-von 1860 und 1863 einige Zeugenaussagen der exploitierten Kinder
-selbst zu entlehnen. Von den Kindern mag man auf die Erwachsenen schließen,
-namentlich Mädchen und Frauen, und zwar in einem Industriezweig,
-woneben Baumwollspinnerei u. dgl. als ein sehr angenehmes und gesundes
-Geschäft erscheint.66
-Wilhelm Wood, neunjährig, „war 7 Jahre 10 Monate alt, als er zu
-arbeiten begann". Er „ran moulds" (trug die fertig geformte Ware in die
-Trockenstube, um nachher die leere Form zurückzubringen) von Anfang
-an. Er kommt jeden Tag in der Woche um 6 Uhr morgens und hört auf ungefähr
-9 Uhr abends. „ Ich arbeite bis 9 Uhr abends jeden Tag in der Woche.
-So z.B. während der letzten 7-8 Wochen." Also fünfzehnstündige Arbeit
-für ein siebenjähriges Kind! J. Murray, ein zwölfjähriger Knabe, sagt aus:
-„I run moulds and turn jigger (drehe das Rad). Ich komme um 6 Uhr, manchmal
-um 4 Uhr morgens. Ich habe während der ganzen letzten Nacht bis diesen Morgen
-6 Uhr gearbeitet. Ich war nicht im Bett seit der letzten Nacht. Außer mir arbeiteten
-8 oder 9 andre Knaben die letzte Nacht durch. Alle außer einem sind diesen Morgen
-wieder gekommen. Ich bekomme wöchentlich 3 sh. 6 d." (1 Taler 5 Groschen). „Ich
-bekomme nicht mehr, wenn ich die ganze Nacht durcharbeite. Ich habe in der letzten
-Woche zwei Nächte durchgearbeitet."
-Fernyhough, ein zehnjähriger Knabe:
-„Ich habe nicht immer eine ganze Stunde für das Mittagessen; oft nur eine halbe
-Stunde; jeden Donnerstag, Freitag und Samstag."67
-65 London „Daily Telegraph" vom 17. Januar 1860.
-66 Vgl. Engels, „Lage etc.", p.249-251.1*
-67 „Children's Employment Commission, First Report etc. 1863", Appendix, p. 16,
-19, 18.
-Dr. Greenhow erklärt die Lebenszeit in den Töpferdistrikten von Stokeupon-
+Gebet gesagt!" {70}]
+  „Der durch Überarbeit über die gesetzliche Zeit zu machende Extraprofit scheint für viele Fabrikanten eine zu große Versuchung, um ihr widerstehn zu können. Sie rechnen auf die Chance, nicht ausgefunden zu werden, und berechnen, dass selbst im Fall der Entdeckung die Geringfügigkeit der Geldstrafen und Gerichtskosten ihnen immer noch eine Gewinnbilanz sichert."[„Rep. etc. 31st Oct. 1856", p.34.] „Wo die zusätzliche Zeit durch Multiplikation kleiner Diebstähle (a multiplication of small thefts) im Laufe des Tages gewonnen wird, stehn den Inspektoren fast unüberwindliche Schwierigkeiten der Beweisführung im Weg."[I.c. p.35.]
+  Diese „kleinen Diebstähle" des Kapitals an der Mahlzeit und Erholungszeit der Arbeiter bezeichnen die Fabrikinspektoren auch als „petty pilferings of minutes", Mausereien von Minuten[I.c. p.48.], „snatching a few minutes", Wegschnappen von Minuten[I.c.], oder wie die Arbeiter es technisch heißen, „nibbling and cribbling at meal times"*(„knabbern und knapsen an den Essenspausen"). [I.c.]
+Man sieht, in dieser Atmosphäre ist die Bildung des Mehrwerts durch die Mehrarbeit kein Geheimnis.
+  „.Wenn Sie mir erlauben', sagte mir ein sehr respektabler Fabrikherr,,täglich nur 10 Minuten Überzeit arbeiten zu lassen, stecken Sie jährlich 1000 Pfd.St. in meine Tasche.'"[I.c. p.48.] „Zeitatome sind die Elemente des Gewinns."[„Moments are the elements of profit." («Rep. of the Insp. etc. 30th April 1860", P-56.)]
+  Nichts ist in dieser Hinsicht charakteristischer als die Bezeichnung der Arbeiter, die volle Zeit arbeiten, durch „füll times" und die der Kinder unter 13 Jahren, die nur 6 Stunden arbeiten dürfen, als „half times"[Der Ausdruck hat offizielles Bürgerrecht, wie in der Fabrik, so in den Fabrikberichten.]. Der Arbeiter ist hier nichts mehr als personifizierte Arbeitszeit. Alle individuellen Unterschiede lösen sich auf in die von „Vollzeitler" und „Halbzeitler".
+
+### 3. Englische Industriezweige ohne legale Schranke der Exploitation
+  Den Trieb nach Verlängrung des Arbeitstags, den Werwolfsheißhunger für Mehrarbeit, beobachteten wir bisher auf einem Gebiet, wo maßlose Ausschreitungen- nicht übergipfelt, so sagt ein bürgerlicher englischer Ökonom, von den Grausamkeiten der Spanier gegen die Rothäute Amerikas[„Die Habgier der Fabrikbesitzer, deren Grausamkeiten, bei der Jagd nach Gewinn kaum von denjenigen übertroffen wurden, die die Spanier bei der Eroberung Amerikas, bei der Jagd nach dem Golde verübten." (John Wade, „History of the Middle and Working Classes", 3rd ed. Lond. 1835, p. 114.) Der theoretische Teil dieses Buchs, eine Art Grundriß der politischen Ökonomie, enthält für seine Zeit einiges Originelle, z.B. über Handelskrisen. Der historische Teil leidet an schamlosem Plagiarismus aus Sir M.Edens, „The State of the Poor", London 1797.], das Kapital endlich an die Kette gesetzlicher Regulation gelegt haben. Werfen wir jetzt den Blick auf einige Produktionszweige, wo die Aussaugung der Arbeitskraft entweder noch heute fesselfrei ist oder es gestern noch war.
+  „Herr Broughton, ein County Magistrate, erklärte als Präsident eines Meetings, abgehalten in der Stadthalle von Nottingham, am 14. Januar 1860, dass in dem mit der Spitzenfabrikation beschäftigten Teile der städtischen Bevölkerung ein der übrigen zivilisierten Welt unbekannter Grad von Leid und Entbehrung vorherrscht... Um 2, 3, 4 Uhr des Morgens werden Kinder von 9 bis 10 Jahren ihren schmutzigen Betten entrissen und gezwungen, für die nackte Subsistenz bis 10, 11, 12 Uhr nachts zu arbeiten, während ihre Glieder wegschwinden, ihre Gestalt zusammenschrumpft, ihre Gesichtszügeabstumpfenund ihr menschliches Wesen ganz und gar in einem steinähnlichen Torpor erstarrt, dessen bloßer Anblick schauderhaft ist. Wir sind nicht überrascht, dass Herr Mallett und andre Fabrikanten auftraten, um Protest gegen jede Diskussion einzulegen... Das System, wie der Rev. Montagu Valpy es beschrieb, ist ein System unbeschränkter Sklaverei, Sklaverei in sozialer, physischer, moralischer und intellektueller Beziehung... Was soll man denken von einer Stadt,die ein öffentliches Meeting abhält, um zu petitionieren, dass die Arbeitszeit für Männer täglich auf 18 Stunden beschränkt werden solle!... Wir deklamieren gegen die virginischen und karolinischen Pflanzer. Ist jedoch ihr Negermarkt mit allen Schrecken der Peitsche und dem Schacher in Menschenfleisch, abscheulicher als diese langsame Menschenabschlachtung, die vor sich geht, damit Schleier und Kragen zum Vorteil von Kapitalisten fabriziert werden?"[London „Daily Telegraph" vom 17. Januar 1860.]
+  Die Töpferei (Pottery) von Staffordshire hat während der letzten 22 Jahre den Gegenstand dreier parlamentarischen Untersuchungen gebildet. Die Resultate sind niedergelegt im Bericht des Herrn Scriven von 1841 an die „Children's Employment Commissioners", im Bericht des Dr.Greenhow von 1860, veröffentlicht auf Befehl des ärztlichen Beamten des Privy Council {71} („Public Health, 3rd Report", I, 102-113), endlich im Bericht des Herrn Longe von 1863, in „First Report of the Children's Employment Commission" vom 13. Juni 1863. Für meine Aufgabe genügt es, den Berichten von 1860 und 1863 einige Zeugenaussagen der exploitierten Kinder selbst zu entlehnen. Von den Kindern mag man auf die Erwachsenen schließen, namentlich Mädchen und Frauen, und zwar in einem Industriezweig, woneben Baumwollspinnerei u. dgl. als ein sehr angenehmes und gesundes Geschäft erscheint. [Vgl. Engels, „Lage etc.", p.249-251.*(Siehe Band 2 unserer Ausgabe, S.423-425)]
+  Wilhelm Wood, neunjährig, „war 7 Jahre 10 Monate alt, als er zu arbeiten begann". Er „ran moulds" (trug die fertig geformte Ware in die Trockenstube, um nachher die leere Form zurückzubringen) von Anfang an. Er kommt jeden Tag in der Woche um 6 Uhr morgens und hört auf ungefähr 9 Uhr abends. „ Ich arbeite bis 9 Uhr abends jeden Tag in der Woche. So z.B. während der letzten 7-8 Wochen." Also fünfzehnstündige Arbeit für ein siebenjähriges Kind! J. Murray, ein zwölfjähriger Knabe, sagt aus:
+  „I run moulds and turn jigger (drehe das Rad). Ich komme um 6 Uhr, manchmal um 4 Uhr morgens. Ich habe während der ganzen letzten Nacht bis diesen Morgen 6 Uhr gearbeitet. Ich war nicht im Bett seit der letzten Nacht. Außer mir arbeiteten 8 oder 9 andre Knaben die letzte Nacht durch. Alle außer einem sind diesen Morgen wieder gekommen. Ich bekomme wöchentlich 3 sh. 6 d." (1 Taler 5 Groschen). „Ich bekomme nicht mehr, wenn ich die ganze Nacht durcharbeite. Ich habe in der letzten Woche zwei Nächte durchgearbeitet."
+  Fernyhough, ein zehnjähriger Knabe:
+  „Ich habe nicht immer eine ganze Stunde für das Mittagessen; oft nur eine halbe Stunde; jeden Donnerstag, Freitag und Samstag."[„Children's Employment Commission, First Report etc. 1863", Appendix, p. 16, 19, 18.]
+  Dr. Greenhow erklärt die Lebenszeit in den Töpferdistrikten von Stokeupon-
 Trent und Wolstanton für außerordentlich kurz. Obgleich im Distrikt
 Stoke nur 36,6% und in Wolstanton nur 30,4% der männlichen Bevölkerung
 über 20 Jahre in den Töpfereien beschäftigt sind, fällt unter
 Männern dieser Kategorie im ersten Distrikt mehr als die Hälfte, im zweiten
 ungefähr 2/5 der Todesfälle infolge von Brustkrankheiten auf die Töpfer.
 Dr.Boothroyd, praktischer Arzt zu Hanley, sagt aus:
-„Jede sukzessive Generation der Töpfer ist zwerghafter und schwächer als die vorhergehende."
-Ebenso ein andrer Arzt, Herr McBean:
-„Seit ich vor 25 Jahren meine Praxis unter den Töpfern begann, hat sich die auffallende
+  „Jede sukzessive Generation der Töpfer ist zwerghafter und schwächer als die vorhergehende."
+  Ebenso ein andrer Arzt, Herr McBean:
+  „Seit ich vor 25 Jahren meine Praxis unter den Töpfern begann, hat sich die auffallende
 Entartung dieser Klasse fortschreitend in Abnahme von Gestalt und Gewicht
 gezeigt."
-Diese Aussagen sind dem Bericht des Dr. Greenhow von 1860: entnommen.
-68
-Aus dem Bericht der Kommissäre von 1863 folgendes: Dr. J. T. Arledge,
+  Diese Aussagen sind dem Bericht des Dr. Greenhow von 1860: entnommen. 68
+  Aus dem Bericht der Kommissäre von 1863 folgendes: Dr. J. T. Arledge,
 Oberarzt des North Staffordshire Krankenhauses, sagt:
-„Als eine Klasse repräsentieren die Töpfer, Männer und Frauen . . . , eine entartete
+  „Als eine Klasse repräsentieren die Töpfer, Männer und Frauen . . . , eine entartete
 Bevölkerung, physisch und moralisch. Sie sind in der Regel verzwergt, schlecht gebaut,
 und oft an der Brust verwachsen. Sie altern vorzeitig und sind kurzlebig; phlegmatisch
 und blutlos, verraten sie die Schwäche ihrer Konstitution durch hartnäckige Anfälle
@@ -286,23 +157,25 @@ oder andre Körperteile angreift, ist eine Krankheit von mehr als zwei Dritteln
 der Töpfer. Daß die Entartung (degenerescence) der Bevölkerung dieses Distrikts nicht
 noch viel größer ist, verdankt sie ausschließlich der Rekrutierung aus den umliegenden
 Landdistrikten und den Zwischenheiraten mit gesundren Racen."
-Herr Charles Parsons, vor kurzem noch House Surgeon1* derselben
+  Herr Charles Parsons, vor kurzem noch House Surgeon1* derselben
 Krankenanstalt, schreibt in einem Briefe an den Kommissär Longe u.a.:
-„Ich kann nur aus persönlicher Beobachtung, nicht statistisch sprechen, aber ich
+  „Ich kann nur aus persönlicher Beobachtung, nicht statistisch sprechen, aber ich
 stehe nicht an zu versichern, daß meine Empörung wieder und wieder aufkochte bei
 dem Anblick dieser armen Kinder, deren Gesundheit geopfert wurde, um der Habgier
 ihrer Eltern und Arbeitgeber zu frönen."
 68 „Public Health, 3rd Report etc.", p. 103, 105.
 Anstaltsarzt
-Er zählt die Ursachen der Töpferkrankheiten auf und schließt sie kulminierend
+
+
+  Er zählt die Ursachen der Töpferkrankheiten auf und schließt sie kulminierend
 ab mit „long hours" („langen Arbeitsstunden"). Der Kommissionsbericht
 hofft, daß
-„eine Manufaktur von so hervorragender Stellung in den Augen der Welt nicht lange
+  „eine Manufaktur von so hervorragender Stellung in den Augen der Welt nicht lange
 mehr den Makel tragen wird, daß ihr großer Erfolg begleitet ist von physischer Entartung,
 vielverzweigten körperlichen Leiden und frühem Tode der Arbeiterbevölkerung,
 durch deren Arbeit und Geschick so große Resultate erzielt worden sind."69
-Was von den Töpfereien in England, gilt von denen in Schottland.70
-Die Manufaktur von Zündhölzern datiert von 1833, von der Erfindung,
+  Was von den Töpfereien in England, gilt von denen in Schottland.70
+  Die Manufaktur von Zündhölzern datiert von 1833, von der Erfindung,
 den Phosphor auf die Zündrute selbst anzubringen. Seit 1845 hat sie sich
 rasch in England entwickelt und von den dicht bevölkerten Teilen Londons
 namentlich auch nach Manchester, Birmingham, Liverpool, Bristol, Norwich,
@@ -319,51 +192,51 @@ Arbeitstags von 12 auf 14 und 15 Stunden, Nachtarbeit, unregelmäßige
 Mahlzeiten, meist in den Arbeitsräumen selbst, die vom Phosphor verpestet
 sind. Dante wird in dieser Manufaktur seine grausamsten Hollenphantasien
 übertroffen finden.
-In der Tapetenfabrik werden die gröberen Sorten mit Maschiren die
+  In der Tapetenfabrik werden die gröberen Sorten mit Maschiren die
 feineren mit der Hand (block printing) gedruckt. Die lebhaftesten Geschäftsmonate
 fallen zwischen Anfang Oktober und Ende April. Während
 dieser Periode dauert diese Arbeit häufig und fast ohne Unterbrechung
 von 6 Uhr vormittags bis 10 Uhr abends und tiefer in die Nacht.
-J.Leach sagt aus:
-„Letzten Winter" (1862) „blieben von 19 Mädchen 6 weg infolge durch Überarbeitung
+  J.Leach sagt aus:
+  „Letzten Winter" (1862) „blieben von 19 Mädchen 6 weg infolge durch Überarbeitung
 zugezogner Krankheiten. Um sie wach zu halten, muß ich sie anschreien."
 W.Duffy: „Die Kinder konnten oft vor Müdigkeit die Augen nicht aufhalten, in der
 Tat, wir selbst können es oft kaum." J. Lightbourne: „ Ich bin 13 Jahre a l t . . . Wir arbei-
 69 „Children's Employm. Commission, 1863", p.24, 22 u. XL
 70 I.e. p.XLVII.
 71 I.e. p.LIV.
+
+
 teten letzten Winter bis 9 Uhr abends und den Winter vorher bis 10 Uhr. Ich pflegte
 letzten Winter fast jeden Abend vom Schmerz wunder Füße zu schreien." G. Aspden:
 „Diesen meinen Jungen pflegte ich, als er 7 Jahre alt war, auf meinem Rücken hin und
 her über den Schnee zu tragen, und er pflegte 16 Stunden zu arbeiten!... Ich habe oft
 niedergekniet, um ihn zu füttern, während er an der Maschine stand, denn er durfte
-sie nicht verlassen oder stillsetzen." Smith, der geschäftsführende Associe einer Man-
-T . p 1 '1 W7* " / * . " T f» 1 H 1* f.. Sl\ 1 1 T T
-ehester Fabrik: „ Wir (er meim seine „nanae , aie iur „uns ) „ameiten onne Unterbrechung
-für Mahlzeiten, so daß die Tagesarbeit von 101/2 Stunden um 4x/2 Uhr nachmittags
+sie nicht verlassen oder stillsetzen." Smith, der geschäftsführende Associe einer Manchester Fabrik: „ Wir (er meint seine "Hände", die für "uns") "arbeiten ohne Unterbrechung
+für Mahlzeiten, so daß die Tagesarbeit von 10 1/2 Stunden um 4 1/2 Uhr nachmittags
 fertig ist, und alles spätere ist Uberzeit."72 (Ob dieser Herr Smith wohl keine
 Mahlzeit während IOV2 Stunden zu sich nimmt?) „Wir" (derselbe Smith) „hören selten
 auf vor 6 Uhr abends" (er meint mit der Konsumtion „unsrer" Arbeitskraftmaschinen),
-„so daß wir" (iterumCrispinust72]) „in der Tat das ganze Jahr durch Uberzeit arbeiten...
+„so daß wir" (iterumCrispinust{72}) „in der Tat das ganze Jahr durch Uberzeit arbeiten...
 Die Kinder und Erwachsnen (152 Kinder und junge Personen unter 18 Jahren und
 140 Erwachsne) „haben gleichmäßig während der letzten 18 Monate im Durchschnitt
 allermindestens 7 Tage und 5 Stunden in der Woche gearbeitet oder 781/2 Stunden
 wöchentlich. Für die 6 Wochen, endend am 2.Mai dieses Jahres" (1863), „war der
 Durchschnitt höher - 8 Tage oder 84 Stunden in der Woche!"
-Doch fügt derselbe Herr Smith, der dem pluralis majestatis so sehr ergeben
+  Doch fügt derselbe Herr Smith, der dem pluralis majestatis so sehr ergeben
 ist, schmunzelnd hinzu: „Maschinenarbeit ist leicht." Und so sagen
 die Anwender des block printing: „Handarbeit ist gesunder als Maschinenarbeit."
 Im ganzen erklären sich die Herrn Fabrikanten mit Entrüstung
 gegen den Vorschlag, „die Maschinen wenigstens während der Mahlzeiten
 stillzusetzen".
-„Ein Gesetz", sagt Herr Ottley, der Manager einer Tapetenfabrik im Borough (in
+  „Ein Gesetz", sagt Herr Ottley, der Manager einer Tapetenfabrik im Borough (in
 London), »das Arbeitsstunden von 6 Uhr morgens bis 9 Uhr abends erlaubte, würde
 uns (!) sehr wohl zusagen, aber die Stunden des Factory Act von 6 Uhr morgens bis
 6 Uhr abends passen uns (!) nicht... Unsre Maschine wird während des Mittagessens"
 (welche Großmut) „stillgesetzt. Das Stillsetzen verursacht keinen nennenswerten Verlust
 an Papier und Farbe." „Aber", fügt er sympathetisch hinzu, „ich kann verstehn,
 daß der damit verbundne Verlust nicht geliebt wird."
-Der Kommissionsbericht meint naiv, die Furcht einiger „leitenden Firmen",
+  Der Kommissionsbericht meint naiv, die Furcht einiger „leitenden Firmen",
 Zeit, d.h. Aneignungszeit fremder Arbeit, und dadurch „Profit zu
 72 Dies ist nicht in unsrem Sinn der Surplusarbeitszeit zu nehmen. Diese Herrn
 betrachten die 10V2Stündige Arbeit als Normalarbeitstag, der also auch die normale
@@ -373,19 +246,21 @@ während des sogenannten Normaltages unter dem Werte bezahlt wird, so daß die
 „Überzeit" ein bloßer Kapitalistenpfiff ist, um mehr „Mehrarbeit" auszupressen, was
 es übrigens selbst dann bleibt, wenn die während des „Normaltages" verwandte
 Arbeitskraft wirklich voll bezahlt wird.
+
+
 verlieren", sei kein „hinreichender Grund", um Kinder unter 13 und junge
 Personen unter 18 Jahren während 12-16 Stunden ihr Mittagsmahl „verlieren
 zu lassen" oder es ihnen zuzusetzen, wie man der Dampfmaschine
 Kohle und Wasser, der Wolle Seife, dem Rad Ol usw. zusetzt - während
 des Produktionsprozesses selbst, als bloßen Hilfsstoff des Arbeitsmittels.73
-Kein Industriezweig in England - (wir sehn von dem erst neuerdings
+  Kein Industriezweig in England - (wir sehn von dem erst neuerdings
 sich Bahn brechenden Maschinenbrot ab) - hat so altertümliche, ja, wie
 man aus den Dichtern der römischen Kaiserzeit ersehn kann, vorchristliche
 Produktionsweise bis heute beibehalten als die Bäckerei. Aber das Kapital,
 wie früher bemerkt, ist zunächst gleichgültig gegen den technischen Charakter
 des Arbeitsprozesses, dessen es sich bemächtigt. Es nimmt ihn zunächst,
 wie es ihn vorfindet.
-Die unglaubliche Brotverfälschung, namentlich in London, wurde zuerst
+  Die unglaubliche Brotverfälschung, namentlich in London, wurde zuerst
 enthüllt durch das Komitee des Unterhauses „über die Verfälschung
 von Nahrungsmitteln" (1855-1856) und Dr. Hassalls Schrift „Adulterations
 detected".74 Die Folge dieser Enthüllungen war das Gesetz vom 6. August
@@ -408,12 +283,16 @@ Ruß im „kommerziellen" Sinn oder „gefälschter" Ruß im „gesetzlichen" Si
 Die „amis du commerce"5* entschieden, es sei „wirklicher" kommerzieller Ruß, und
 wiesen den klagenden Pächter ab, der noch obendrein die Prozeßkosten zu zahlen
 hatte.
-1* „Bäckerstoff" - 2* „zur Verhinderung der Verfälschung von Lebensmitteln und Getränken"
-- 3* „einen ehrlichen Penny zu machen" - 4* „Geschworene" - 5* „Freunde des
-Handels"
-machen, und besser als die Eleaten1731, den bloßen Schein alles Realen ad
+1* „Bäckerstoff" 
+2* „zur Verhinderung der Verfälschung von Lebensmitteln und Getränken"
+3* „einen ehrlichen Penny zu machen" 
+4* „Geschworene" 
+5* „Freunde des Handels"
+
+
+machen, und besser als die Eleaten{73}, den bloßen Schein alles Realen ad
 oculos zu demonstrieren.76
-Jedenfalls hatte das Komitee die Augen des Publikums auf sein „tägliches
+  Jedenfalls hatte das Komitee die Augen des Publikums auf sein „tägliches
 Brot" und damit auf die Bäckerei gelenkt. Gleichzeitig erseholl in
 öffentlichen Meetings und Petitionen an das Parlament der Schrei der Londoner
 Bäckergesellen über Überarbeitung usw. Der Schrei wurde so dringend,
@@ -433,10 +312,12 @@ daher die anhero „freie" Bäckerei der Aufsicht von Staatsinspektoren unterwor
 die Arbeitszeit von 9 Uhr abends bis 5 Uhr morgens für Bäckergesellen
 unter 18 Jahren verboten. Die letztre Klausel spricht Bände über die Überarbeitung
 in diesem uns so altvaterisch anheimelnden Geschäftszweig.
-„Die Arbeit eines Londoner Backergesellen beginnt in der Regel um 11 Uhr
+  „Die Arbeit eines Londoner Backergesellen beginnt in der Regel um 11 Uhr
 nachts. Zu dieser Stunde macht er den Teig, ein sehr mühsamer Prozeß, der 1/2 bis
 3/i Stunden währt, je nach der Größe des Gebäcks und seiner Feinheit. Er legt sich
 dann nieder auf das Knetbrett, das zugleich als Deckel des Trogs dient, worin der Teig
+
+
 76 Der französische Chemiker Chevallier, in einer Abhandlung über die „sophistications"
 1* der Waren, zählt unter 600 und einigen Artikeln, die er Revue passieren
 läßt, für viele derselben 10, 20, 30 verschiedne Methoden der Fälschung auf. Er fügt
@@ -448,7 +329,9 @@ nicht. Sieh Rouard de Card, „De la fdlsification des substanccs sacramentelles
 1856.
 77 „Report etc. relating to the Grievances complained of by the Journeymen Bakers
 etc.", London 1862, und „Second Report etc.", London 1863.
-„Verfälschungen"
+*1„Verfälschungen"
+
+
 gemacht wird, und schläft ein paar Stunden mit einem Mehlsack unter dem Kopf und
 einem andren Mehlsack auf dem Leib. Dann beginnt eine rasche und ununterbrochne
 Arbeit von 5 Stunden, Werfen, Wägen, Formen, in den Ofen schieben, aus dem Ofen
@@ -478,18 +361,20 @@ ihre Meister, die Lieferung an kleine Kramladen ausgenommen, nur in der eignen
 Boutique verkaufen. Gegen Ende der Woche . . . d . h . am Donnerstag, beginnt hier die
 Arbeit um 10 Uhr in der Nacht und dauert mit nur geringer Unterbrechung bis tief
 in Sonntag nacht hinein."7"
-Von den „underselling masters" begreift selbst der bürgerliche Standpunkt:
+  Von den „underselling masters" begreift selbst der bürgerliche Standpunkt:
 „die unbezahlte Arbeit der Gesellen (the unpaid labour of the men)
 bildet die Grundlage ihrer Konkurrenz."80 Und der „füll priced baker"
 denunziert seine „underselling" Konkurrenten der Untersuchungskommission
 als Diebe fremder Arbeit und Fälscher.
-„Sie reüssieren nur durch den Betrug des Publikums und dadurch, daß sie 18 Stunden
+  „Sie reüssieren nur durch den Betrug des Publikums und dadurch, daß sie 18 Stunden
 aus ihren Gesellen für einen Lohn von 12 Stunden herausschlagen."81
-^Tc. „First Report etc." p.VI/VII.
+78 l.c. „First Report etc." p.VI/VII.
 79 I.e. p.LXXI.
 80 George Read, „The History of Bakmg", London 1848, p. 16.
 81 „Report (First) etc.Evidence." Aussage des „füll priced baker" Cheesman, p. 108.
-x* Fahrenheit
+1* Fahrenheit
+
+
 Die Brotfälschung und die Bildung einer Bäckerklasse, die das Brot
 unter dem vollen Preis verkauft, entwickelten sich in England seit Anfang
 des 18. Jahrhunderts, sobald der Zunftcharakter des Gewerbs verfiel und
@@ -2627,3 +2512,355 @@ einigermaßen von seiner naturwüchsigen Brutalität als bloßer Verkörperung d
 Kapitals befreit und ihm Zeit zu einiger „Bildung" gegeben habe. Vorher „hatte der
 Unternehmer für nichts anderes als Geld, der Arbeiter für nichts andres als Arbeit
 Zeit". (Lc. p.48.)
+
+
+
+Kapitel Neun
+NEUNTES KAPITEL
+Rate und Masse des Mehrwerts
+Wie bisher wird in diesem Kapitel der Wert der Arbeitskraft, also der
+zur Reproduktion oder Erhaltung der Arbeitskraft notwendige Teil des
+Arbeitstags, als gegebne, konstante Größe unterstellt.
+Dies also vorausgesetzt, ist mit der Rate zugleich die Masse des Mehr-»
+werts gegeben, die der einzelne Arbeiter dem Kapitalisten in bestimmter
+Zeitperiode liefert. Beträgt z. B. die notwendige Arbeit täglich 6 Stunden,
+ausgedrückt in einem Goldquantum von 3 sh. = 1 Taler, so ist der Taler der
+Tages wert einer Arbeitskraft oder der im Ankauf einer Arbeitskraft vorgeschoßne
+Kapital wert. Ist ferner die Rate des Mehrwerts 100%, so produziert
+dies variable Kapital von 1 Taler eine Masse Mehrwert von 1 Taler,
+oder der Arbeiter liefert täglich eine Masse Mehrarbeit von 6 Stunden.
+Das variable Kapital ist aber der Geldausdruck für den Gesamtwert
+aller Arbeitskräfte, die der Kapitalist gleichzeitig verwendet. Sein Wert ist
+also gleich dem Durchschnittswert einer Arbeitskraft, multipliziert mit der
+Anzahl der verwandten Arbeitskräfte. Bei gegebnem Wert der Arbeitskraft
+steht also die Größe des variablen Kapitals in direktem Verhältnis zur An-i
+zahl der gleichzeitig beschäftigten Arbeiter. Ist der Tageswert einer Arbeitskraft
+— 1 Taler, so ist also ein Kapital vorzuschießen von 100 Talern, um
+100, von n Talern, um n Arbeitskräfte täglich zu exploitieren.
+Ebenso: Produziert ein variables Kapital von 1 Taler, der Tages wert
+einer Arbeitskraft, einen täglichen Mehrwert von 1 Taler, so ein variables
+Kapital von 100 Talern einen täglichen Mehrwert von 100, und eins von
+n Talern einen täglichen Mehrwert von 1 Taler x n. Die Masse des produzierten
+Mehrwerts ist also gleich dem Mehrwert, den der Arbeitstag des
+einzelnen Arbeiters liefert, multipliziert mit der Anzahl der angewandten
+Arbeiter. Da aber ferner die Masse Mehrwert, die der einzelne Arbeiter produziert,
+bei gegebnem Wert der Arbeitskraft, durch die Rate des Mehrwerts
+bestimmt ist, so folgt dies erste Gesetz: Die Masse des produzierten Mehr-
+21 Marx, Kapital I
+werts ist gleich der Größe des vorgeschoßnen variablen Kapitals multipliziert
+mit der Rate des Mehrwerts oder ist bestimmt durch das zusammengesetzte
+Verhältnis zwischen der Anzahl der von demselben Kapitalisten gleichzeitig
+exploitierten Arbeitskräfte und dem Exploitationsgrad der einzelnen
+Arbeitskraft.1*
+Nennen wir also die Masse des Mehrwerts M, den vom einzelnen Arbeiter
+im Tagesdurchschnitt gelieferten Mehrwert m, das im Ankauf der
+einzelnen Arbeitskraft täglich vorgeschoßne variable Kapital v, die Gesamtsumme
+des variablen Kapitals V, den Wert einer Durchschnitts-Arbeitskraft
+k, ihren Exploitationsgrad ^ (Ku^t^g^A^Ugu) und die Anzahl der
+angewandten Arbeiter n, so erhalten wir:
+M
+XV
+k X — X n
+Es wird fortwährend unterstellt, nicht nur daß der Wert einer Durchschnitts-
+Arbeitskraft konstant ist, sondern daß die von einem Kapitalisten
+angewandten Arbeiter auf Durchschnitts-Arbeiter reduziert sind. Es gibt
+Ausnahmefälle, wo der produzierte Mehrwert nicht verhältnismäßig zur
+Anzahl der exploitierten Arbeiter wächst, aber dann bleibt auch der Wert
+der Arbeitskraft nicht konstant.
+In der Produktion einer bestimmten Masse Mehrwert kann daher die
+Abnahme des einen Faktors durch Zunahme des andren ersetzt werden.
+Wird das variable Kapital vermindert und gleichzeitig in demselben Verhältnis
+die Rate des Mehrwerts erhöht, so bleibt die Masse des produzierten
+Mehrwerts unverändert. Muß unter den frühern Annahmen der Kapitalist
+100 Taler vorschießen, um 100 Arbeiter täglich zu exploitieren,
+und beträgt die Rate des Mehrwerts 50%, so wirft dies variable Kapital
+von 100 einen Mehrwert von 50 Talern ab oder von 100 x 3 Arbeitsstunden.
+Wird die Rate des Mehrwerts verdoppelt, oder der Arbeitstag, statt
+von 6 zu 9, von 6 zu 12 Stunden verlängert, so wirft das um die Hälfte verminderte
+variable Kapital von 50 Talern ebenfalls einen Mehrwert von
+50 Talern ab oder von 50 x 6 Arbeitsstunden. Verminderung des variablen
+In der autorisierten französischen Ausgabe wurde der zweite Teil dieses Satzes wie
+folgt wiedergegeben: „oder aber sie ist gleich dem Wert einer Arbeitskraft multipliziert mit
+dem Grad ihrer Exploitation und multipliziert mit der Anzahl der gleichzeitig exploitierten
+Arbeitskräfte."
+Kapitals ist also ausgleichbar durch proportioneile Erhöhung im Exploitationsgrad
+der Arbeitskraft oder die Abnahme in der Anzahl der beschäftigten
+Arbeiter durch proportionelle Verlängerung des Arbeitstags. Innerhalb
+gewisser Grenzen wird die vom Kapital erpreß bare Zufuhr der Arbeit also
+unabhängig von der Arbeiterzufuhr.202 Umgekehrt läßt Abnahme in der
+Rate des Mehrwerts die Masse des produzierten Mehrwerts unverändert,
+wenn proportionell die Größe des variablen Kapitals oder die Anzahl der
+beschäftigten Arbeiter wächst.
+Indes hat der Ersatz von Arbeiteranzahl oder Größe des variablen Kapitals
+durch gesteigerte Rate des Mehrwerts oder Verlängerung des Arbeitstags
+unüberspringbare Schranken. Welches immer der Wert der Arbeitskraft
+sei, ob daher die zur Erhaltung des Arbeiters notwendige Arbeitszeit
+2 oder 10 Stunden betrage, der Gesamtwert, den ein Arbeiter tagaus, tagein
+produzieren kann, ist immer kleiner als der Wert, worin sich 24 Arbeitsstunden
+vergegenständlichen, kleiner als 12 sh. oder 4 Taler, wenn dies der
+Geldausdruck von 24 vergegenständlichten Arbeitsstunden. Unter unsrer
+frühern Annahme, wonach täglich 6 Arbeitsstunden erheischt, um die
+Arbeitskraft selbst zu reproduzieren oder den in ihrem Ankauf vorgeschoßnen
+Kapitalwert zu ersetzen, produziert ein variables Kapital von 500 Talern,
+das 500 Arbeiter zur Mehrwertsrate von 100% oder mit zwölfstündigem
+Arbeitstag verwendet, täglich einen Mehrwert von 500 Talern oder 6 X 500
+Arbeitsstunden. Ein Kapital von 100 Talern, das 100 Arbeiter täglich verwendet
+zur Mehrwertsrate von 200% oder mit 1 ßstündigem Arbeitstag,
+produziert nur eine Mehrwertsmasse von 200 Talern oder 12 X 100 Arbeitsstunden.
+Und sein gesamtes Wertprodukt, Äquivalent des vorgeschoßnen
+variablen Kapitals plus Mehrwert, kann tagaus, tagein niemals die Summe
+von 400 Talern oder 24 X100 Arbeitsstunden erreichen. Die absolute
+Schranke des durchschnittlichen Arbeitstags, der von Natur immer kleiner
+ist als 24 Stunden, bildet eine absolute Schranke für den Ersatz von vermindertem
+variablen Kapital durch gesteigerte Rate des Mehrwerts oder
+von verringerter exploitierten Arbeiteranzahl durch erhöhten Exploitationsgrad
+der Arbeitskraft. Dies handgreifliche zweite Gesetz ist wichtig zur Erklärung
+vieler Erscheinungen, entspringend aus der später zu entwickelnden
+Tendenz des Kapitals, die von ihm beschäftigte Arbeiteranzahl oder seinen
+202 Dies Elementargesetz scheint den Herren von der Vulgärökonomie unbekannt
+die, umgekehrte Archimedes, in der Bestimmung der Marktpreise der Arbeit durch
+Nachfrage und Zufuhr den Punkt gefunden zu haben glauben, nicht um die Weit aus
+den Angeln zu heben, sondern um sie stillzusetzen.
+variablen in Arbeitskraft umgesetzten Bestandteil soviel als immer möglich
+zu reduzieren, im Widerspruch zu seiner andren Tendenz, die möglichst
+große Masse von Mehrwert zu produzieren. Umgekehrt. Wächst die Masse
+der verwandten Arbeitskräfte oder die Größe des variablen Kapitals, aber
+nicht verhältnismäßig zur Abnahme in der Rate des Mehrwerts, so sinkt die
+Masse des produzierten Mehrwerts.
+Ein drittes Gesetz ergibt sich aus der Bestimmung der Masse des produzierten
+Mehrwerts durch die zwei Faktoren, Rate des Mehrwerts und Größe
+des vorgeschoßnen variablen Kapitals. Die Rate des Mehrwerts oder den
+Exploitationsgrad der Arbeitskraft, und den Wert der Arbeitskraft oder die
+Größe der notwendigen Arbeitszeit gegeben, ist es selbstverständlich, daß, je
+größer das variable Kapital, desto größer die Masse des produzierten Werts
+und Mehrwerts. Ist die Grenze des Arbeitstags gegeben, ebenso die Grenze
+seines notwendigen Bestandteils, so hängt die Masse von Wert und Mehrwert,
+die ein einzelner Kapitalist produziert, offenbar ausschließlich ab von
+der Masse Arbeit, die er in Bewegung setzt. Diese aber hängt, unter den gegebnen
+Annahmen, ab von der Masse Arbeitskraft oder der Arbeiteranzahl,
+die er exploitiert, und diese Anzahl ihrerseits ist bestimmt durch die Größe
+des von ihm vorgeschoßnen variablen Kapitals. Bei gegebner Rate des Mehrwerts
+und gegebnem Wert der Arbeitskraft verhalten sich also die Massen
+des produzierten Mehrwerts direkt wie die Größen der vorgeschoßnen
+variablen Kapitale. Nun weiß man aber, daß der Kapitalist sein Kapital in
+zwei Teile teilt. Einen Teil legt er aus in Produktionsmitteln. Dies ist der
+konstante Teil seines Kapitals. Den andren Teil setzt er um in lebendige
+Arbeitskraft. Dieser Teil bildet sein variables Kapital. Auf Basis derselben
+Produktionsweise findet in verschiednen Produktionszweigen verschiedne
+Teilung des Kapitals in konstanten und variablen Bestandteil statt. Innerhalb
+desselben Produktionszweigs wechselt dies Verhältnis mit wechselnder
+technischer Grundlage und gesellschaftlicher Kombination des Produktionsprozesses.
+Wie aber ein gegebnes Kapital immer zerfalle in konstanten und
+variablen Bestandteil, ob der letztre sich zum erstren verhalte wie i:2,
+1:10 oder 1: x, das eben aufgestellte Gesetz wird nicht davon berührt, da
+früherer Analyse gemäß der Wert des konstanten Kapitals im Produktenwert
+zwar wiedererscheint, aber nicht in das neugebildete Wertprodukt eingeht.
+Um 1000 Spinner zu verwenden, sind natürlich mehr Rohmaterialen,
+Spindeln usw. erheischt, als um 100 zu verwenden. Der Wert dieser zuzusetzenden
+Produktionsmittel aber mag steigen, fallen, unverändert bleiben,
+groß oder klein sein, er bleibt ohne irgendeinen Einfluß auf den Verwertungsprozeß
+der sie bewegenden Arbeitskräfte. Das oben konstatierte Gesetz
+nimmt also die Form an: Die von verschiednen Kapitalen produzierten
+Massen von Wert und Mehrwert verhalten sich bei gegebnem Wert und
+gleich großem Exploitationsgrad der Arbeitskraft direkt wie die Größen der
+variablen Bestandteile dieser Kapitale, d. h. ihrer in lebendige Arbeitskraft
+umgesetzten Bestandteile.
+Dies Gesetz widerspricht offenbar aller auf den Augenschein gegründeten
+Erfahrung, jedermann weiß, daß ein Baumwollspinner, der, die Prozentteile
+des angewandten Gesamtkapitals berechnet, relativ viel konstantes
+und wenig variables Kapital anwendet, deswegen keinen kleinren Gewinn
+oder Mehrwert erbeutet als ein Bäcker, der relativ viel variables und wenig
+konstantes Kapital in Bewegung setzt. Zur Losung dieses scheinbaren
+Widerspruchs bedarf es noch vieler Mittelglieder, wie es vom Standpunkt
+. v ... ' o
+der elementaren Algebra vieler Mittelglieder bedarf, um zu verstehn, daß q
+eine wirkliche Größe darstellen kann. Obgleich sie das Gesetz nie formuliert
+hat, hängt die klassische Ökonomie instinktiv daran fest, weil es eine
+notwendige Konsequenz des Wertgesetzes überhaupt ist. Sie sucht es durch
+gewaltsame Abstraktion vor den Widersprüchen der Erscheinung zu retten.
+Man wird später203 sehn, wie die Ricardosche Schule an diesem Stein des
+Anstoßes gestolpert ist. Die Vulgärökonomie, die „wirklich auch nichts
+gelernt hat"[100], pocht hier, wie überall, auf den Schein gegen das Gesetz
+der Erscheinung. Sie glaubt im Gegensatz zu Spinoza, daß „die Unwissenheit
+ein hinreichender Grund ist"[101).
+Die Arbeit, die vom Gesamtkapital einer Gesellschaft tagaus, tagein in
+Bewegung gesetzt wird, kann als ein einziger Arbeitstag betrachtet werden.
+Ist z.B. die Zahl der Arbeiter eine Million und beträgt der Durchschnittsarbeitstag
+eines Arbeiters 10 Stunden, so besteht der gesellschaftliche
+Arbeitstag aus 10 Millionen Stünden. Bei gegebner Länge dieses Arbeitstags,
+seien seine Grenzen physisch oder sozial gezogen, kann die Masse des
+Mehrwerts nur vermehrt werden durch Vermehrung der Arbeiteranzahl,
+d. h. der Arbeiterbevölkerung. Das Wachstum der Bevölkrung bildet hier
+die mathematische Grenze für Produktion des Mehrwerts durch das gesellschaftliche
+Gesamtkapital. Umgekehrt. Bei gegebner Größe der Bevölkrung
+wird diese Grenze gebildet durch die mögliche Verlängerung des Arbeitstags.
+204 Man wird im folgenden Kapitel sehn, daß dies Gesetz nur für die
+bisher behandelte Form des Mehrwerts gilt.
+203 Näheres darüber im „Vierten Buch".
+204 „Die Arbeit einer Gesellschaft, das ist die in der Wirtschaft verwandte Zeit,
+Aus der bisherigen Betrachtung der Produktion des Mehrwerts ergibt
+sich, daß nicht jede beliebige Geld- oder Wertsumme in Kapital verwandelbar,
+zu dieser Verwandlung vielmehr ein bestimmtes Minimum von Geld
+oder Tauschwert in der Hand des einzelnen Geld- oder Warenbesitzers
+vorausgesetzt ist. Das Minimum von variablem Kapital ist der Kostenpreis
+einer einzelnen Arbeitskraft, die das ganze Jahr durch, tagaus, tagein, Zur
+Gewinnung vors Mehrwert vefnutzt wird. Wäre dieser Arbeiter im besitz
+seiner eignen Produktionsmittel und begnügte er sich, als Arbeiter zu leben,
+so genügte ihm die zur Reproduktion seiner Lebensmittel notwendige
+Arbeitszeit, sage von 8 Stunden täglich. Er brauchte also auch nur Produktionsmittel
+für 8 Arbeitsstunden. Der Kapitalist dagegen, der ihn außer diesen
+8 Stunden sage 4. Stunden Mehrarbeit verrichten läßt, bedarf einer zusätzlichen
+Geldsumme zur Beschaffung der zusätzlichen Produktionsmittel.
+Unter unsrer Annahme jedoch müßte er schon zwei Arbeiter anwenden,
+um von dem täglich angeeigneten Mehrwert wie ein Arbeiter leben, d.h.
+seine notwendigen Bedürfnisse befriedigen zu können. In diesem Fall wäre
+bloßer Lebensunterhalt der Zweck seiner Produktion, nicht Vermehrung
+des Reichtums, und das letztre ist unterstellt bei der kapitalistischen Produktion.
+Damit er nur doppelt so gut lebe wie ein gewöhnlicher Arbeiter
+und die Hälfte des produzierten Mehrwerts in Kapital zurückverwandle,
+müßte er zugleich mit der Arbeiterzahl das Minimum des vorgeschoßnen
+Kapitals um das Achtfache steigern. Allerdings kann er selbst, gleich seinem
+Arbeiter, unmittelbar Hand im Produktionsprozesse anlegen, aber ist dann
+auch nur ein Mittelding zwischen Kapitalist und Arbeiter, ein „kleiner
+Meister '. Ein gewisser Höhegrad der kapitalistischen Produktion bedingt,
+daß der Kapitalist die ganze Zeit, während deren er als Kapitalist, d.h. als
+personifiziertes Kapital funktioniert, zur Aneignung und daher Kontrolle
+fremder Arbeit und zum Verkauf der Produkte dieser Arbeit verwenden
+könne.205 Die Verwandlung des Handwerksmeisters in den Kapitalisten
+stellt eine gegebene Größe dar, sagen wir 10 Stunden täglich von einer Million Menschen
+oder 10 Millionen Stunden . . . Das Kapital ist in seinem Wachstum begrenzt. In
+jeder gegebenen Periode besteht diese Grenze in dem wirklichen Ausmaß der in der
+Wirtschaft verwandten Zeit." („An Essay on the Political Economy of Nations", London
+1821, p. 47, 49.)
+20a „Der Pächter darf nicht auf seiner eigenen Arbeit aufbauen; und wenn er es
+tut, so wird er meiner Meinung nach dadurch verlieren. Seine Tätigkeit sollte in der
+Beaufsichtigung des Ganzen bestehen: er muß auf seinen Drescher achten, denn
+sonst wird bald der Lohn hinausgeworfen sein für Getreide, das nicht ausgedroschen
+ist; ebenso müssen seine Mäher, Schnitter usw. überwacht werden; er muß ständig
+suchte das Zunftwesen des Mittelalters dadurch gewaltsam zu verhindern,
+daß es die Arbeiteranzahl, die ein einzelner Meister beschäftigen durfte,
+auf ein sehr geringes Maximum beschränkte. Der Geld- oder Warenbesitzer
+verwandelt sich erst wirklich in einen Kapitalisten, wo die für die Produktion
+vorgeschoßne Minimalsumme weit über dem mittelaltrigen Maximum
+steht. Hier, wie in der Naturwissenschaft, bewährt sich die Richtigkeit des
+von Hegel in seiner „Logik" entdeckten Gesetzes, daß bloß quantitative
+Verändrungen auf einem gewissen Punkt in qualitative Unterschiede umschlagen.
+2053
+Das Minimum der Wertsumme, worüber der einzelne Geld- oder
+Warenbesitzer verfügen muß, um sich in einen Kapitalisten zu entpuppen,
+wechselt auf verschiednen Entwicklungsstufen der kapitalistischen Produktion
+und ist, bei gegebner Entwicklungsstufe, verschieden in verschiednen
+Produktionssphären, je nach ihren besondren technischen Bedingungen.
+Gewisse Produktionssphären erheischen schon in den Anfängen der kapiseine
+Zäune nachsehen; er muß aufpassen, ob nichts vernachlässigt wird; das würde
+der Fall sein, wenn er sich auf einen Punkt beschranken würde." ([J.Arbuthnot,]
+„An Enquiry into the Connection between the Price of Provisions, and the Size of
+Farms etc." By a Farmer, London 1773, p. 12.) Diese Schrift ist sehr interessant.
+Man kann darin die Genesis des „capitalist farmer" oder „merchant farmer"3*, wie er
+ausdrücklich genannt wird, studieren und seiner Selbstverherrlichung gegenüber dem
+„small farmer"2*, dem es wesentlich um die Subsistenz zu tun ist, zuhören. „Die
+Kapitalistenklasse wird zuerst teilweise und schließlich ganz und gar entbunden von
+der Notwendigkeit der Handarbeit." („Textbook of Lectures on the Polit. Economy
+of Nations". By the Rev. Richard Jones, Hertford 1852, Lecture III, p.39.)
+205a £)ie in der modernen Chemie angewandte, von Laurent und Gerhardt zuerst
+wissenschaftlich entwickelte Molekulartheorie beruht auf keinem andren Gesetze.
+{Zusatz zur 3.Ausg.} - Wir bemerken zur Erklärung dieser für den Nichtchemiker
+ziemlich dunklen Anmerkung, daß der Verfasser hier von den von C.Gerhardt 1843
+zuerst so benannten „homologen Reihen" von Kohlenwasserstoffverbindungen spricht,
+von denen jede eine eigne algebraische Zusammensetzungsformel hat. So die Reihe der
+Paraffine: CnH2n+2; die der normalen Alkohole: CnH2n+20; die der normalen
+fetten Säuren: CnH2n02 und viele andre. In obigen Beispielen wird durch einfachen
+quantitativen Zusatz von CH2 zur Molekularformel jedesmal ein qualitativ verschiedner
+Körper gebildet. Über die, von Marx überschätzte, Teilnahme Laurents und Gerhardts
+an der Feststellung dieser wichtigen Tatsache vgl. Kopp, „Entwicklung der Chemie",
+München 1873, S. 709 und 716, und Schorlemmer, „Rise and Progress of Organic
+Chemistry", London 1879, p. 54. - F.E.
+1* „kapitalistischen Pächters" oder „kaufmännischen Pächters" - 2* „kleinen Pächter"
+talistischen Produktion ein Minimum von Kapital, das sich noch nicht in
+der Hand einzelner Individuen vorfindet. Dies veranlaßt teils Staatssubsidien
+an solche Private, wie in Frankreich zur Zeit Colberts und wie in
+manchen deutschen Staaten bis in unsre Epoche hinein, teils die Bildung
+von Gesellschaften mit gesetzlichem Monopol für den Betrieb gewisser
+Industrie- und Handelszweige206 - die Vorläufer der modernen Aktien-
+Gesellschaften.
+Wir halten uns nicht beim Detail der Verändrungen auf, die das Verhältnis
+von Kapitalist und Lohnarbeiter im Verlaute des Produktionsprozesses
+erfuhr, also auch nicht bei den weitren Fortbestimmungen des
+Kapitals selbst. Nur wenige Hauptpunkte seien hier betont.
+Innerhalb des Produktionsprozesses entwickelte sich das Kapital zum
+Kommando über die Arbeit, d.h. über die sich betätigende Arbeitskraft
+oder den Arbeiter selbst. Das personifizierte Kapital, der Kapitalist, paßt
+auf, daß der Arbeiter sein Werk ordentlich und mit dem gehörigen Grad
+von Intensität verrichte.
+Das Kapital entwickelte sich ferner zu einem Zwangsverhältnis, welches
+die Arbeiterklasse nötigt, mehr Arbeit zu verrichten, als der enge Umkreis
+ihrer eignen Lebensbedürfnisse vorschrieb. Und als Produzent fremder
+Arbeitsamkeit, als Auspumper von Mehrarbeit und Exploiteur von Arbeitskraft
+übergipfelt es an Energie, Maßlosigkeit und Wirksamkeit alle frühern
+auf direkter Zwangsarbeit beruhenden Produktionssysteme.
+Das Kapital ordnet sich zunächst die Arbeit unter mit den technischen
+Bedingungen, worin es sie historisch vorfindet. Es verändert daher nicht
+unmittelbar die Produktionsweise. Die Produktion von Mehrwert in der bisher
+betrachteten Form, durch einfache Verlängrung des Arbeitstags, erschien
+daher von jedem Wechsel der Produktionsweise selbst unabhängig.
+Sie war in der altmodischen Bäckerei nicht minder wirksam als in der modernen
+Baumwollspinnerei.
+Betrachten wir den Produktionsprozeß unter dem Gesichtspunkt des
+Arbeitsprozesses, so verhielt sich der Arbeiter zu den Produktionsmitteln
+nicht als Kapital, sondern als bloßem Mittel und Material seiner zweckmäßigen
+produktiven Tätigkeit. In einer Gerberei z.B. behandelt er die
+Felle als seinen bloßen Arbeitsgegenstand. Es ist nicht der Kapitalist, dem
+er das Fell gerbt. Anders, sobald wir den Produktionsprozeß unter dem
+206 „Die Gesellschaft Monopolia" nennt Martin Luther derartige Institute.
+Gesichtspunkt des Verwertungsprozesses betrachteten. Die Produktionsmittel
+verwandelten sich sofort in Mittel Zur Einsaugung fremder Arbeit.
+Es ist nicht mehr der Arbeiter, der die Produktionsmittel anwendet, sondern
+es sind die Produktionsmittel, die den Arbeiter anwenden. Statt von ihm als
+stoffliche Elemente seiner produktiven Tätigkeit verzehrt zu werden, verzehren
+sie ihn als Ferment ihres eignen Lebensprozesses, und der Lebensprozeß
+des Kapitals besteht nur in seiner Bewegung als sich selbst verwertender
+Wert. Schmelzöfen und Arbeitsgebäude, die des Nachts ruhn
+und keine lebendige Arbeit einsaugen, sind „reiner Verlust" („mere loss")
+für den Kapitalisten. Darum konstituieren Schmelzöfen und Arbeitsgebäude
+einen „Anspruch auf die Nachtarbeit" der Arbeitskräfte. Die bloße
+Verwandlung des Geldes in gegenständliche Faktoren des Produktionsprozesses,
+in Produktionsmittel, verwandelt letztre in Rechtstitel und
+Zwangstitel auf fremde Arbeit und Mehrarbeit. Wie diese der kapitalistischen
+Produktion eigentümliche und sie charakterisierende Verkehrung, ja
+Verrückung des Verhältnisses von toter und lebendiger Arbeit, von Wert
+und wertschöpferischer Kraft, sich im Bewußtsein der Kapitalistenköpfe
+abspiegelt, zeige schließlich noch ein Beispiel. Während der englischen
+Fabrikantenrevolte von 1848-1850 schrieb
+„der Chef der Leinen- und Baumwollspinnerei zu Paisley, einer der ältesten und re«
+spektabelsten Firmen von Westschottland, der Kompagnie Carlile, Söhne und Co., die
+seit 1752 besteht und Generation nach Generation von derselben Familie geführt
+wird" -
+dieser äußerst intelligente Gentleman also schrieb in die „Glasgow Daily
+Mail" vom 25.April 1849 einen Brief207 unter dem Titel: „Das Relaissystem",
+worin u.a. folgende grotesk naive Stelle unterläuft:
+„Laßt uns nun die Übel betrachten, die aus einer Reduktion der Arbeitszeit von
+12 auf 10 Stunden fließen... Sie .belaufen* sich auf die aüerernsthafteste Beschädigung
+der Aussichten und des Eigentums des Fabrikanten. Arbeitete er" (d. h. seine „Hände")
+„12 Stunden und wird er auf 10 beschränkt, dann schrumpfen je 12 Maschinen oder
+Spindeln seines Etablissements auf 10 zusammen (then every 12 machines or spindles,
+in his establishment, shrink to 10), und wollte er seine Fabrik verkaufen, so würden sie
+nur als 10 gewertschätzt werden, so daß so ein sechster Teil vom Wert einer jeden
+Fabrik im ganzen Lande abgezogen würde."208
+207 „Reports of Insp. of Fact. for 30th April 1849", p.59,
+208 I.e. p.60. Fabrikinspektor Stuart, selbst Schotte, und im Gegensatz zu den
+englischen Fabrikinspektoren ganz in kapitalistischer Denkart befangen, bemerkt
+ausdrücklich, dieser Brief, den er seinem Bericht einverleibt, „sei die allernützlichste
+Diesem erbangestammten Kapitalhirn von Westschottland verschwimmt
+der Wert der Produktionsmittel, Spindeln usw., so sehr mit ihrer Kapitaleigenschaft,
+sich selbst zu verwerten oder täglich ein bestimmtes Quantum
+fremder Gratisarbeit einzuschlucken, daß der Chef des Hauses Carlile und
+Co. in der Tat wähnt, beim Verkauf seiner Fabrik werde ihm nicht nur
+der Wert der Spindeln gezahlt, sondern obendrein ihre Verwertung, nicht
+nur die Arbeit, die in ihnen steckt und zur Produktion von Spindeln derselben
+Art nötig ist, sondern auch die Mehrarbeit, die sie täglich aus den
+braven Westschotten von Paisley auspumpen helfen, und ebendeshalb,
+meint er, schrumpfe mit der Verkürzung des Arbeitstags um zwei Stunden
+der Verkaufspreis von je 12 Spinnmaschinen auf den von je iu zusammen!
+Mitteilung, die irgendeiner der Fabrikanten, welche das Relaissystem anwenden, gemacht,
+und ganz besonders darauf berechnet, die Vorurteile und Bedenken gegen jenes
+System zu beseitigen".
