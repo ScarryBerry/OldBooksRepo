@@ -2717,314 +2717,20 @@ System zu beseitigen".
 ## Elftes Kapitel
 ### Kooperation
 
-Die kapitalistische Produktion beginnt, wie wir sahen, in der Tat erst,
-wo dasselbe individuelle Kapital eine größere Anzahl Arbeiter gleichzeitig
-beschäftigt, der Arbeitsprozeß also seinen Umfang erweitert und Produkt
-auf größrer quantitativer Stufenleiter liefert. Das Wirken einer größern
-Arbeiteranzahl zur selben Zeit, in demselben Raum (oder, wenn man will,
-auf demselben Arbeitsfeld), zur Produktion derselben Warensorte, unter
-dem Kommando desselben Kapitalisten, bildet historisch und begrifflich
-den Ausgangspunkt der kapitalistischen Produktion. Mit Bezug auf die
-Produktionsweise selbst unterscheidet sich z.B. die Manufaktur in ihren
-Anfängen kaum anders von der zünftigen Handwerksindustrie als durch
-die größere Zahl der gleichzeitig von demselben Kapital beschäftigten Arbeiter.
-Die Werkstatt des Zunftmeisters ist nur erweitert.
-Der Unterschied ist also zunächst bloß quantitativ. Man sah, daß die
-Masse des Mehrwerts, welche ein gegebnes Kapital produziert, gleich dem
-Mehrwert, den der einzelne Arbeiter liefert, multipliziert mit der Anzahl der
-gleichzeitig beschäftigten Arbeiter. Diese Anzahl ändert an und für sich
-nichts an der Rate des Mehrwerts oder dem Exploitationsgrad der Arbeitskraft,
-und mit Bezug auf die Produktion von Warenwert überhaupt scheint
-jede qualitative Verändrung des Arbeitsprozesses gleichgültig. Es folgt
-dies aus der Natur des Werts. Vergegenständlicht sich ein zwölfstündiger
-Arbeitstag in 6 sh.j so 1200 solcher Arbeitstage in 6 sh. X1200. In dem
-einen Fall haben sich 12 X1200, in dem andren 12 Arbeitsstunden den Produkten
-einverleibt. In der Wertproduktion zählen viele immer nur als viele
-einzelne. Für die Wertproduktion macht es also keinen Unterschied, ob
-1200 Arbeiter vereinzelt produzieren oder vereint unter dem Kommando
-desselben Kapitals.
-Indes findet doch innerhalb gewisser Grenzen eine Modifikation statt.
-In Wert vergegenständlichte Arbeit ist Arbeit von gesellschaftlicher Durchschnittsqualität,
-also die Äußerung einer durchschnittlichen Arbeitskraft.
-Eine Durchschnittsgröße existiert aber immer nur als Durchschnitt
-vieler verschiedner Größenindividuen derselben Art. In jedem Industriezweig
-weicht der individuelle Arbeiter, Peter oder Paul, mehr oder minder
-vom Durchschnittsarbeiter ab. Diese individuellen Abweichungen, welche
-mathematisch „Fehler" heißen, kompensieren sich und verschwinden, sobald
-man eine größere Anzahl Arbeiter zusammennimmt. Der berühmte
-Sophist und Sykophant Edmund Burke will aus seinen praktischen Erfahrungen
-als Pächter sogar wissen, daß schon „für ein so geringes Peloton"
-wie 5 Ackerknechte aller individuelle Unterschied der Arbeit verschwindet,
-also die ersten besten im Mannesalter befindlichen fünf englischen Ackerknechte
-zusammengenommen in derselben Zeit grad soviel Arbeit verrichten
-als beliebige andre fünf englische Acker knechte.8 Wie dem auch sei,
-es ist klar, daß der Gesamtarbeitstag einer größren Anzahl gleichzeitig beschäftigter
-Arbeiter, dividiert durch die Anzahl der Arbeiter, an und für
-sich ein Tag gesellschaftlicher Durchschnittsarbeit ist. Der Arbeitstag des
-einzelnen sei z.B. zwölfstündig. So bildet der Arbeitstag von 12 gleichzeitig
-beschäftigten Arbeitern einen Gesamtarbeitstag von 144 Stunden,
-und obgleich die Arbeit eines jeden des Dutzend mehr oder minder von der
-gesellschaftlichen Durchschnittsarbeit abweichen, der einzelne daher etwas
-mehr oder weniger Zeit zu derselben Verrichtung brauchen mag, besitzt
-der Arbeitstag jedes einzelnen als ein Zwölftel des Gesamtarbeitstags von
-144 Stunden die gesellschaftliche Durchschnittsqualität. Für den Kapitalisten
-aber, der ein Dutzend beschäftigt, existiert der Arbeitstag als Gesamtarbeitstag
-des Dutzend. Der Arbeitstag jedes einzelnen existiert als
-aliquoter Teil des Gesamtarbeitstags, ganz unabhängig davon, ob die zwölf
-einander in die Hand arbeiten oder ob der ganze Zusammenhang ihrer
-Arbeiten nur darin besteht, daß sie für denselben Kapitalisten arbeiten.
-8 „Ohne Frage besteht ein beträchtlicher Unterschied zwischen dem Wert der
-Arbeit eines Mannes und dem der Arbeit eines andren durch unterschiedliche Kraft,
-Geschicklichkeit und redlichen Fleiß. Aber ich bin auf Grund meiner sorgfältigen
-Beobachtung völlig sicher, daß beliebige fünf Mann in ihrer Gesamtheit eine gleiche
-Menge Arbeit liefern wie fünf andre, die in den erwähnten Lebensperioden stehen.
-Das heißt, daß sich unter diesen fünf Mann einer befindet, der alle Eigenschaften
-eines guten Arbeiters hat, einer ein schlechter Arbeiter ist, während die andren
-drei mittelmäßig sind und sich dem ersten und letzten annähern. So wird man also
-schon in einer so kleinen Gruppe von selbst fünf Mann die Gesamtheit all dessen
-finden, was fünf Mann leisten können." (E.Burke, I.e. p. 15, 16.) Cf. Quetelet über
-das Durchschnittsindividuum.
-Werden dagegen von den 12 Arbeitern je zwei von einem kleinen Meister
-beschäftigt, so wird es zufällig, ob jeder einzelne Meister dieselbe Wertmasse
-produziert und daher die allgemeine Rate des Mehrwerts realisiert.
-Es fänden individuelle Abweichungen statt. Verbrauchte ein Arbeiter bedeutend
-mehr Zeit in der Produktion einer Ware, als gesellschaftlich erheischt
-ist, wiche die für ihn individuell notwendige Arbeitszeit bedeutend
-ab von der gesellschaftlich notwendigen oder der Durchschnittsarbeitszeit,
-so gälte seine Arbeit nicht als Durchschnittsarbeit, seine Arbeitskraft nicht
-als durchschnittliche Arbeitskraft. Sie verkaufte sich gar nicht oder nur
-unter dem Durchschnittswert der Arbeitskraft. Ein bestimmtes Minimum
-der Arbeitsfertigkeit ist also vorausgesetzt, und wir werden später sehn, daß
-die kapitalistische Produktion Mittel findet, dies Minimum zu messen.
-Nichtsdestoweniger weicht das Minimum vom Durchschnitt ab, obgleich
-auf der andren Seite der Durchschnittswert der Arbeitskraft gezahlt werden
-muß. Von den sechs Kleinmeistern würde der eine daher mehr, der andre
-weniger als die allgemeine Rate des Mehrwerts herausschlagen. Die Ungleichheiten
-würden sich für die Gesellschaft kompensieren» aber nicht für
-den einzelnen Meister. Das Gesetz der Verwertung überhaupt realisiert
-sich also für den einzelnen Produzenten erst vollständig, sobald er als
-Kapitalist produziert, viele Arbeiter gleichzeitig anwendet, also von vornherein
-gesellschaftliche Durchschnittsarbeit in Bewegung setzt.9
-Auch bei gleichbleibender Arbeitsweise bewirkt die gleichzeitige Anwendung
-einer größren Arbeiteranzahl eine Revolution in den gegenständlichen
-Bedingungen des Arbeitsprozesses. Baulichkeiten, worin viele arbeiten,
-Lager für Rohmaterial usw., Gefäße, Instrumente, Apparate usw., die
-vielen gleichzeitig oder abwechselnd dienen, kurz, einTeil der Produktionsmittel
-wird jetzt gemeinsam im Arbeitsprozeß konsumiert. Einerseits wird
-der Tauschwert von Waren, also auch von Produktionsmitteln, durchaus
-nicht erhöht durch irgendwelche erhöhte Ausbeutung ihres Gebrauchswerts.
-Andrerseits wächst der Maßstab der gemeinsam gebrauchten Produktionsmittel.
-Ein Zimmer, worin 20 Weber mit ihren 20 Webstühlen
-arbeiten, muß weiter gestreckt sein als das Zimmer eines unabhängigen
-9 Herr Professor Roscher will entdeckt haben, daß eine Nähmamsell, die während
-zwei Tagen von der Frau Professorin beschäftigt wird, mehr Arbeit liefert, als zwei
-Nähmamsellen, welche die Frau Professorin am selben Tage beschäftigt J102l Der Herr
-Professor stelle seine Beobachtungen über den kapitalistischen Produktionsprozeß nicht
-in der Kinderstube an und nicht unter Umständen, worin die Hauptperson fehlt, der
-Kapitalist.
-Webers mit zwei Gesellen. Aber die Produktion einer Werkstatt für 20 Personen
-kostet weniger Arbeit als die von 10 Werkstätten für je zwei Personen,
-und so wächst überhaupt der Wert massenweise konzentrierter und gemeinsamer
-Produktionsmittel nicht verhältnismäßig mit ihrem Umfang und
-ihrem Nutzeffekt. Gemeinsam vernutzte Produktionsmittel geben geringren
-Wertbestandteil an das einzelne Produkt ab, teils weil der Gesamtwert,
-den sie abgeben, sich gleichzeitig auf eine größre Produktenmasse verteilt,
-teils weil sie, im Vergleich zu vereinzelten Produktionsmitteln, zwar mit absolut
-größrem, aber, ihren Wirkungskreis betrachtet, mit relativ kleinrem
-Wert in den Produktionsprozeß eintreten. Damit sinkt ein Wertbestandteil
-des konstanten Kapitals, also proportioneil zu seiner Größe auch der Gesamtwert
-der Ware. Die Wirkung ist dieselbe, als ob die Produktionsmittel
-der Ware wohlfeiler produziert würden. Diese Ökonomie in der Anwendung
-der Produktionsmittel entspringt nur aus ihrem gemeinsamen Konsum im
-Arbeitsprozeß vieler. Und sie erhalten diesen Charakter als Bedingungen
-gesellschaftlicher Arbeit oder gesellschaftliche Bedingungen der Arbeit im
-Unterschied von den zersplitterten und relativ kostspieligen Produktionsmitteln
-vereinzelter selbständiger Arbeiter oder Kleinmeister, selbst wenn
-die vielen nur räumlich zusammen, nicht miteinander arbeiten. Ein Teil
-der Arbeitsmittel erwirbt diesen gesellschaftlichen Charakter, bevor ihn der
-Arbeitsprozeß selbst erwirbt.
-Die Ökonomie der Produktionsmittel ist überhaupt von doppeltem Gesichtspunkt
-zu betrachten. Das eine Mal, soweit sie Waren verwohlfeilert
-und dadurch den Wert der Arbeitskraft senkt. Das andre Mal, soweit sie
-das Verhältnis des Mehrwerts zum vorgeschoßnen Gesamtkapital, d. h. zur
-Wertsumme seiner konstanten und variablen Bestandteile, verändert. Der
-letztre Punkt wird erst im ersten Abschnitt des Dritten Buchs dieses Werks
-erörtert, wohin wir des Zusammenhangs wegen auch manches schon hierher
-Gehörige verweisen. Der Gang der Analyse gebietet diese Zerreißung
-des Gegenstands, die zugleich dem Geist der kapitalistischen Produktion
-entspricht. Da hier nämlich die Arbeitsbedingungen dem Arbeiter selbständig
-gegenübertreten, erscheint auch ihre Ökonomie als eine besondre
-Operation, die ihn nichts angeht und daher getrennt ist von den Methoden,
-welche seine persönliche Produktivität erhöhen.
-Die Form der Arbeit vieler, die in demselben Produktionsprozeß oder
-in verschiednen, aber zusammenhängenden Produktionsprozessen planmäßig
-neben- und miteinander arbeiten, heißt Kooperation.10
-16 „Concours de forces." (Destutt de Tracy. I.e. p.80.)
-Wie die Angriffskraft einer Kavallerieschwadron oder die Widerstandskraft
-eines Infanterieregiments wesentlich verschieden ist von der Summe
-der von jedem Kavalleristen und Infanteristen vereinzelt entwickelten Angriffs-
-und Widerstandskräfte, so die mechanische Kraftsumme vereinzelter
-Arbeiter von der gesellschaftlichen Kraftpotenz, die sich entwickelt, wenn
-viele Hände gleichzeitig in derselben ungeteilten Operation zusammenwirken,
-z.B. wenn es gilt, eine Last zu heben, eine Kurbel zu drehn oder
-einen Widerstand aus dem Weg zu räumen.11 Die Wirkung der kombinierten
-Arbeit könnte hier von der vereinzelten gar nicht oder nur in viel längren
-Zeiträumen oder nur auf einem Zwergmaßstab hervorgebracht werden. Es
-handelt sich hier nicht nur um Erhöhung der individuellen Produktivkraft
-durch die Kooperation, sondern um die Schöpfung einer Produktivkraft,
-die an und für sich Massenkraft sein muß.l la
-Abgesehn von der neuen Kraftpotenz, die aus der Verschmelzung vieler
-Kräfte in eine Gesamtkraft entspringt, erzeugt bei den meisten produktiven
-Arbeiten der bloße gesellschaftliche Kontakt einen Wetteifer und eine eigne
-Erregung der Lebensgeister (animal spirits), welche die individuelle
-Leistungsfähigkeit der einzelnen erhöhen, so daß ein Dutzend Personen zusammen
-in einem gleichzeitigen Arbeitstag von 144 Stunden ein viel größres
-Gesamtprodukt liefern als zwölf vereinzelte Arbeiter, von denen jeder 12
-Stunden, oder als ein Arbeiter, der 12 Tage nacheinander arbeitet12 Dies
-11 „Es gibt zahlreiche Verrichtungen von so einfacher Art, daß sie keine Zerlegung
-in Teile zulassen, die jedoch nur durch das Zusammenwirken vieler Paare von Händen
-ausgeführt werden können. So das Heben eines großen Baumstamms auf einen
-Wagen . . . kurz, alles, was nicht getan werden kann, ohne daß sich eine große Zahl
-von Händepaaren gegenseitig und gleichzeitig bei derselben ungeteilten Beschäftigung
-helfen." (E.G.Wakefield, „A View of the Art of Colonization", London 1849,
-p.168.)
-l l a „Während ein Mann nicht fähig ist, eine Tonnenlast zu heben, und 10 Mann
-sich dabei anstrengen müssen, können es einhundert Mann aber mit der Kraft nur je
-eines ihrer Finger tun." (John Bellers, „Proposais for raising a colledge of industry",
-London 1696, p.21.)
-12 „Man hat auch" (wenn dieselbe Arbeiterzahl von einem Pächter auf 300, statt
-von 10 Pächtern auf je 30 acres angewandt wird) „in der relativen Zahl der Knechte
-einen Vorteil, der nicht so leicht zu erkennen ist, außer von Männern der Praxis. Man
-sagt natürlich, daß sich 1: 4 wie 3 : 1 2 verhält; aber dies bewährt sich nicht in der Praxis.
-Denn in der Erntezeit und bei vielen andrenVerrichtungen, die ähnliche Eile erfordern,
-wird durch Zusammenfassen vieler Arbeitskräfte die Arbeit besser und schneller geschafft.
-Z.B. bewältigen bei der Ernte 2 Fuhrleute, 2 Auflader, 2 Zureicher, 2 Recher,
-dazu der Rest beim Schober oder in der Scheune zusammen doppelt soviel Arbeit wie
-rührt daher, daß der Mensch von Natur, wenn nicht, wie Aristoteles meint,
-ein politisches13, jedenfalls ein gesellschaftliches Tier ist.
-Obgleich viele dasselbe oder Gleichartiges gleichzeitig miteinander verrichten,
-kann die individuelle Arbeit eines jeden dennoch als Teil der Gesamtarbeit
-verschiedne Phasen des Arbeitsprozesses selbst darstellen, die
-der Arbeitsgegenstand, infolge der Kooperation, rascher durchläuft. Z. B.
-wenn Maurer eine Reihe von Händen bilden, um Bausteine vom Fuß eines
-Gestells bis zu seiner Spitze zu befördern, tut jeder von ihnen dasselbe,
-aber dennoch bilden die einzelnen Verrichtungen kontinuierliche Teile einer
-Gesamtverrichtung, besondre Phasen, die jeder Baustein im Arbeitsprozeß
-durchlaufen muß und wodurch ihn etwa die 24 Hände des Gesamtarbeiters
-rascher fördern als die zwei Hände jedes einzelnen Arbeiters, der das Gerüst
-auf- und abstiege.14 Der Arbeitsgegenstand durchläuft denselben Raum
-in kürzerer Zeit. Andrerseits findet Kombination der Arbeit statt, wenn ein
-Bau z.B. von verschiednen Seiten gleichzeitig angegriffen wird,obgleich
-die Kooperierenden dasselbe oder Gleichartiges tun. Der kombinierte
-Arbeitstag von 144 Stunden, der den Arbeitsgegenstand vielseitig im Raum
-angreift, weil der kombinierte Arbeiter oder Gesamtarbeiter vorn und hinten
-Augen und Hände hat und in gewissem Grad Allgegenwart besitzt,
-fördert das Gesamtprodukt rascher als 12 zwölfstündige Arbeitstage mehr
-oder minder vereinzelter Arbeiter, die ihr Werk einseitiger angreifen müssen.
-In derselben Zeit reifen verschiedne Raumteile des Produkts.
-Wir betonten, daß die vielen, die einander ergänzen, dasselbe oder Gleichartiges
-tun, weil diese einfachste Form gemeinsamer Arbeit auch in der ausdie
-gleiche Anzahl, wenn sie in verschiedne Gruppen und auf verschiedne Pachten aufgeteilt
-wäre." [(J.Arbuthnot.l „An Enquiry into the Connection between the present
-price of provisions and the size of farms." By a Farmer, London 1773, p.7, 8.)
-13 Aristoteles' Definition ist eigentlich die, daß der Mensch von Natur Stadtbürger.
-Sie ist für das klassische Altertum ebenso charakteristisch als Franklins Definition, daß
-der Mensch von Natur Instrumentenmacher, für das Yankeeturn.
-14 „Ferner muß man feststellen, daß diese partielle Arbeitsteilung auch da erfolgen
-kann, wo die Arbeiter mit einer gleichen Verrichtung beschäftigt sind. Maurer
-z.B., die Ziegel von Hand zu Hand zu einem höheren Gerüst wandern lassen, tun
-alle die gleiche Arbeit, und dennoch existiert unter ihnen eine Art von Arbeitsteilung,
-die darin besteht, daß jeder von ihnen den Ziegel ein bestimmtes Stück weiterwandern
-läßt und alle zusammen ihn viel schneller an den gegebnen Ort kommen
-lassen, als wenn jeder von ihnen seinen Ziegel einzeln bis zum höheren Gerüst hinauftrüge."
-(F.Skarbek, „Theorie des richesses sociales", 2eme ed., Paris 1839, t.I,
-p.97,98.)
-gebildetsten Gestalt der Kooperation eine große Rolle spielt. Ist der
-Arbeitsprozeß kompliziert, so erlaubt die bloße Masse der Zusammenarbeitenden,
-die verschiednen Operationen unter verschiedne Hände zu verteilen,
-daher gleichzeitig zu verrichten und dadurch die zur Herstellung des
-Gesamtprodukts nötige Arbeitszeit zu verkürzen-15
-In vielen Produktionszweigen gibt es kritische Momente, d.h. durch
-die Natur des Arbeitsprozesses selbst bestimmte Zeitepochen, während
-deren bestimmte Arbeitsresultate erzielt werden müssen. Soll z.B. eine
-Herde Schafe geschoren oder eine Morgenanziahl Kornland gemäht und geherbstet
-werden, so hängt Quantität und Qualität des Produkts davon ab,
-daß die Operation zu einer gewissen Zeit begonnen und zu einer gewissen
-Zeit beendet wird. Der Zeitraum, den der Arbeitsprozeß einnehmen darf,
-ist hier vorgeschrieben, wie etwa beim Heringsfang. Der einzelne kann aus
-einem Tag nur einen Arbeitstag herausschneiden, sage von 12 Stunden, aber
-die Kooperation von 100 z. B. erweitert einen zwölfstündigen Tag zu einem
-Arbeitstag von 1200 Stunden. Die Kürze der Arbeitsfrist wird kompensiert
-durch die Größe der Arbeitsmasse, die im entscheidenden Augenblick auf
-das Produktionsfeld geworfen wird. Die rechtzeitige Wirkung hängt hier ab
-von der gleichzeitigen Anwendung vieler kombinierten Arbeitstage, der
-Umfang des Nutzeffekts von der Arbeiteranzahl, die jedoch stets kleiner
-bleibt als die Anzahl der Arbeiter, die vereinzelt in demselben Zeitraum denselben
-Wirkungsraum ausfüllen würden.16 Es ist der Mangel dieser Kooperation,
-wodurch im Westen der Vereinigten Staaten eine Masse Korn
-und in den Teilen Ostindiens, wo englische Herrschaft das alte Gemeinwesen
-zerstört hat, eine Masse Baumwolle jährlich verwüstet wird.17
-15 „Wenn es sich um die Ausführung einer komplizierten Arbeit handelt, müssen
-verschiedene Dinge gleichzeitig getan werden. Der eine macht das eine, während der
-andere etwas andres macht, und alle tragen zu einer Wirkung bei, die ein einzelner
-Mensch nicht hätte erzeugen können.Der eine rudert, während der andere steuertund
-ein dritter das Netz auswirft oder den Fisch harpuniert, und der Fischfang hat einen
-Erfolg, der ohne diese Kooperation unmöglich wäre." (Destutt de Tracy, I.e.
-P-78.)
-16 „Ihre" (der Arbeit in der Agrikultur) „Ausführung im entscheidenden Augenblick
-hat um so größere Wirkung." ([J.Arbuthnot,] „An Inquiry into the Connection
-between the present price etc.", p.7.) „In der Agrikultur gibt es keinen wichtigeren
-Faktor als den Faktor der Zeit." (Liebig, „Über Theorie und Praxis in der Landwirthschaft",
-1856, p.23.)
-17 „Das nächste Übel, das man schwerlich in einem Lande zu finden erwartet, welches
-mehr Arbeit exportiert als irgendein andres der Welt, abgesehen vielleicht von
-Auf der einen Seite erlaubt die Kooperation, die Raumsphäre der Arbeit
-auszurecken, und wird daher für gewisse Arbeitsprozesse schon durch den
-räumlichen Zusammenhang des Arbeitsgegenstandes erheischt, wie bei
-Trockenlegung von Land, Eindämmung, Bewäßrung, Kanal-, Straßen-,
-Eisenbahnbauten usw. Andrerseits ermöglicht sie, verhältnismäßig zur
-Stufenleiter der Produktion, räumliche Verengung des Produktionsgebiets.
-Diese Beschränkung der Raumsphäre der Arbeit bei gleichzeitiger Ausdehnung
-ihrer Wirkungssphäre, wodurch eine Masse falscher Kosten (faux
-frais) erspart werden, entspringt aus der Konglomeration der Arbeiter, dem
-Zusammenrücken verschiedner Arbeitsprozesse und der Konzentration der
-Produktionsmittel.18
-Verglichen mit einer gleich großen Summe vereinzelter individueller
-Arbeitstage, produziert der kombinierte Arbeitstag größre Massen von Gebrauchswert
-und vermindert daher die zur Produktion eines bestimmten
-Nutzeffekts nötige Arbeitszeit. Ob er im gegebnen Fall diese gesteigerte
-Produktivkraft erhält, weil er die mechanische Kraftpotenz der Arbeit erhöht
-oder ihre räumliche Wirkungssphäre ausdehnt oder das räumliche
-Produktionsfeld im Verhältnis zur Stufenleiter der Produktion verengt oder
-im kritischen Moment viel Arbeit in wenig Zeit flüssig macht oder den
-Wetteifer der einzelnen erregt und ihre Lebensgeister spannt oder den
-gleichartigen Verrichtungen vieler den Stempel der Kontinuität und Vielseitigkeit
-aufdrückt, oder verschiedne Operationen gleichzeitig verrichtet
-oder die Produktionsmittel durch ihren gemeinschaftlichen Gebrauch öko-
-China und England, besteht in der Unmöglichkeit, eine genügende Anzahl von Händen
-zur Baumwollernte zu beschaffen. Infolgedessen bleiben große Mengen Baumwolle ungepflüclct,
-während ein andrer Teil von der Erde aufgesammelt wird, wenn er abgefallen
-und selbstverständlich verfärbt und teilweise verfault ist, so daß wegen Arbeitermangels
-zur richtigen Jahreszeit der Pflanzer tatsächlich gezwungen ist, sich mit dem
-Verlust eines großen Teils jener Baumwollernte abzufinden, auf die England so sehr
-wartet." („Bengal Hurkaru. Bi-Monthly Overland Summary of News", 22nd July
-1861.)
-18 „Beim Fortschritt in der Bodenbebauung wird alles Kapital und alle Arbeit, die
-früher zerstreut auf 500 acres verwandt wurden, ja vielleicht noch mehr, jetzt auf die
-gründlichere Bearbeitung von 100 acres konzentriert." Obgleich „im Verhältnis zum
-angewandten Betrage von Kapital und Arbeit der Raum enger geworden ist, stellt er
-doch eine erweiterte Produktionssphäre dar, im Vergleich zu der Produktionssphäre,
-die früher von einem einzigen, unabhängigen Produzenten besessen oder bebaut
-worden war". (R.Jones, „An Essay on the Distribution of Wealth", „On Rent",
-London 1831, p. 191.)
-nomisiert oder der individuellen Arbeit den Charakter gesellschaftlicher
-Durchschnittsarbeit verleiht, unter allen Umständen ist die spezifische
-Produktivkraft des kombinierten Arbeitstags gesellschaftliche Produktivkraft
-der Arbeit oder Produktivkraft gesellschaftlicher Arbeit. Sie entspringt aus
-der Kooperation selbst. Im planmäßigen Zusammenwirken mit andern
-streift der Arbeiter seine individuellen Schranken ab und entwickelt sein
-Gattungsvermögen.19
-Wenn Arbeiter überhaupt nicht unmittelbar zusammenwirken können,
+  Die kapitalistische Produktion beginnt, wie wir sahen, in der Tat erst, wo dasselbe individuelle Kapital eine größere Anzahl Arbeiter gleichzeitig beschäftigt, der Arbeitsprozeß also seinen Umfang erweitert und Produkt auf größrer quantitativer Stufenleiter liefert. Das Wirken einer größern Arbeiteranzahl zur selben Zeit, in demselben Raum (oder, wenn man will, auf demselben Arbeitsfeld), zur Produktion derselben Warensorte, unter dem Kommando desselben Kapitalisten, bildet historisch und begrifflich den Ausgangspunkt der kapitalistischen Produktion. Mit Bezug auf die Produktionsweise selbst unterscheidet sich z.B. die Manufaktur in ihren Anfängen kaum anders von der zünftigen Handwerksindustrie als durch die größere Zahl der gleichzeitig von demselben Kapital beschäftigten Arbeiter. Die Werkstatt des Zunftmeisters ist nur erweitert.
+  Der Unterschied ist also zunächst bloß quantitativ. Man sah, daß die Masse des Mehrwerts, welche ein gegebnes Kapital produziert, gleich dem Mehrwert, den der einzelne Arbeiter liefert, multipliziert mit der Anzahl der gleichzeitig beschäftigten Arbeiter. Diese Anzahl ändert an und für sich nichts an der Rate des Mehrwerts oder dem Exploitationsgrad der Arbeitskraft, und mit Bezug auf die Produktion von Warenwert überhaupt scheint jede qualitative Verändrung des Arbeitsprozesses gleichgültig. Es folgt dies aus der Natur des Werts. Vergegenständlicht sich ein zwölfstündiger Arbeitstag in 6 sh, so 1200 solcher Arbeitstage in 6 sh. X1200. In dem einen Fall haben sich 12 X 1200, in dem andren 12 Arbeitsstunden den Produkten einverleibt. In der Wertproduktion zählen viele immer nur als viele einzelne. Für die Wertproduktion macht es also keinen Unterschied, ob 1200 Arbeiter vereinzelt produzieren oder vereint unter dem Kommando desselben Kapitals.
+  Indes findet doch innerhalb gewisser Grenzen eine Modifikation statt. In Wert vergegenständlichte Arbeit ist Arbeit von gesellschaftlicher Durchschnittsqualität, also die Äußerung einer durchschnittlichen Arbeitskraft. Eine Durchschnittsgröße existiert aber immer nur als Durchschnitt vieler verschiedner Größenindividuen derselben Art. In jedem Industriezweig weicht der individuelle Arbeiter, Peter oder Paul, mehr oder minder vom Durchschnittsarbeiter ab. Diese individuellen Abweichungen, welche mathematisch „Fehler" heißen, kompensieren sich und verschwinden, sobald man eine größere Anzahl Arbeiter zusammennimmt. Der berühmte Sophist und Sykophant Edmund Burke will aus seinen praktischen Erfahrungen als Pächter sogar wissen, daß schon „für ein so geringes Peloton" wie 5 Ackerknechte aller individuelle Unterschied der Arbeit verschwindet, also die ersten besten im Mannesalter befindlichen fünf englischen Ackerknechte zusammengenommen in derselben Zeit grad soviel Arbeit verrichten als beliebige andre fünf englische Acker knechte.[„Ohne Frage besteht ein beträchtlicher Unterschied zwischen dem Wert der Arbeit eines Mannes und dem der Arbeit eines andren durch unterschiedliche Kraft, Geschicklichkeit und redlichen Fleiß. Aber ich bin auf Grund meiner sorgfältigen Beobachtung völlig sicher, dass beliebige fünf Mann in ihrer Gesamtheit eine gleiche Menge Arbeit liefern wie fünf andre, die in den erwähnten Lebensperioden stehen. Das heißt, dass sich unter diesen fünf Mann einer befindet, der alle Eigenschaften eines guten Arbeiters hat, einer ein schlechter Arbeiter ist, während die andren drei mittelmäßig sind und sich dem ersten und letzten annähern. So wird man also schon in einer so kleinen Gruppe von selbst fünf Mann die Gesamtheit all dessen finden, was fünf Mann leisten können." (E.Burke, I.e. p. 15, 16.) Cf. Quetelet über das Durchschnittsindividuum.] Wie dem auch sei, es ist klar, dass der Gesamtarbeitstag einer größren Anzahl gleichzeitig beschäftigter Arbeiter, dividiert durch die Anzahl der Arbeiter, an und für sich ein Tag gesellschaftlicher Durchschnittsarbeit ist. Der Arbeitstag des einzelnen sei z.B. zwölfstündig. So bildet der Arbeitstag von 12 gleichzeitig beschäftigten Arbeitern einen Gesamtarbeitstag von 144 Stunden, und obgleich die Arbeit eines jeden des Dutzend mehr oder minder von der gesellschaftlichen Durchschnittsarbeit abweichen, der einzelne daher etwas mehr oder weniger Zeit zu derselben Verrichtung brauchen mag, besitzt der Arbeitstag jedes einzelnen als ein Zwölftel des Gesamtarbeitstags von 144 Stunden die gesellschaftliche Durchschnittsqualität. Für den Kapitalisten aber, der ein Dutzend beschäftigt, existiert der Arbeitstag als Gesamtarbeitstag des Dutzend. Der Arbeitstag jedes einzelnen existiert als aliquoter Teil des Gesamtarbeitstags, ganz unabhängig davon, ob die zwölf einander in die Hand arbeiten oder ob der ganze Zusammenhang ihrer Arbeiten nur darin besteht, dass sie für denselben Kapitalisten arbeiten. Werden dagegen von den 12 Arbeitern je zwei von einem kleinen Meister beschäftigt, so wird es zufällig, ob jeder einzelne Meister dieselbe Wertmasse produziert und daher die allgemeine Rate des Mehrwerts realisiert. Es fänden individuelle Abweichungen statt. Verbrauchte ein Arbeiter bedeutend mehr Zeit in der Produktion einer Ware, als gesellschaftlich erheischt ist, wiche die für ihn individuell notwendige Arbeitszeit bedeutend ab von der gesellschaftlich notwendigen oder der Durchschnittsarbeitszeit, so gälte seine Arbeit nicht als Durchschnittsarbeit, seine Arbeitskraft nicht als durchschnittliche Arbeitskraft. Sie verkaufte sich gar nicht oder nur unter dem Durchschnittswert der Arbeitskraft. Ein bestimmtes Minimum der Arbeitsfertigkeit ist also vorausgesetzt, und wir werden später sehn, dass die kapitalistische Produktion Mittel findet, dies Minimum zu messen. Nichtsdestoweniger weicht das Minimum vom Durchschnitt ab, obgleich auf der andren Seite der Durchschnittswert der Arbeitskraft gezahlt werden muss. Von den sechs Kleinmeistern würde der eine daher mehr, der andre weniger als die allgemeine Rate des Mehrwerts herausschlagen. Die Ungleichheiten würden sich für die Gesellschaft kompensieren» aber nicht für den einzelnen Meister. Das Gesetz der Verwertung überhaupt realisiert sich also für den einzelnen Produzenten erst vollständig, sobald er als Kapitalist produziert, viele Arbeiter gleichzeitig anwendet, also von vornherein gesellschaftliche Durchschnittsarbeit in Bewegung setzt.[Herr Professor Roscher will entdeckt haben, daß eine Nähmamsell, die während zwei Tagen von der Frau Professorin beschäftigt wird, mehr Arbeit liefert, als zwei Nähmamsellen, welche die Frau Professorin am selben Tage beschäftigt.{102} Der Herr Professor stelle seine Beobachtungen über den kapitalistischen Produktionsprozeß nicht in der Kinderstube an und nicht unter Umständen, worin die Hauptperson fehlt, der Kapitalist.]
+  Auch bei gleichbleibender Arbeitsweise bewirkt die gleichzeitige Anwendung einer größren Arbeiteranzahl eine Revolution in den gegenständlichen Bedingungen des Arbeitsprozesses. Baulichkeiten, worin viele arbeiten, Lager für Rohmaterial usw., Gefäße, Instrumente, Apparate usw., die vielen gleichzeitig oder abwechselnd dienen, kurz, ein Teil der Produktionsmittel wird jetzt gemeinsam im Arbeitsprozeß konsumiert. Einerseits wird der Tauschwert von Waren, also auch von Produktionsmitteln, durchaus nicht erhöht durch irgendwelche erhöhte Ausbeutung ihres Gebrauchswerts. Andrerseits wächst der Maßstab der gemeinsam gebrauchten Produktionsmittel. Ein Zimmer, worin 20 Weber mit ihren 20 Webstühlen arbeiten, muss weiter gestreckt sein als das Zimmer eines unabhängigen Webers mit zwei Gesellen. Aber die Produktion einer Werkstatt für 20 Personen kostet weniger Arbeit als die von 10 Werkstätten für je zwei Personen, und so wächst überhaupt der Wert massenweise konzentrierter und gemeinsamer Produktionsmittel nicht verhältnismäßig mit ihrem Umfang und ihrem Nutzeffekt. Gemeinsam vernutzte Produktionsmittel geben geringren Wertbestandteil an das einzelne Produkt ab, teils weil der Gesamtwert, den sie abgeben, sich gleichzeitig auf eine größre Produktenmasse verteilt, teils weil sie, im Vergleich zu vereinzelten Produktionsmitteln, zwar mit absolut größrem, aber, ihren Wirkungskreis betrachtet, mit relativ kleinrem Wert in den Produktionsprozeß eintreten. Damit sinkt ein Wertbestandteil des konstanten Kapitals, also proportion eil zu seiner Größe auch der Gesamtwert der Ware. Die Wirkung ist dieselbe, als ob die Produktionsmittel der Ware wohlfeiler produziert würden. Diese Ökonomie in der Anwendung der Produktionsmittel entspringt nur aus ihrem gemeinsamen Konsum im Arbeitsprozeß vieler. Und sie erhalten diesen Charakter als Bedingungen gesellschaftlicher Arbeit oder gesellschaftliche Bedingungen der Arbeit im Unterschied von den zersplitterten und relativ kostspieligen Produktionsmitteln vereinzelter selbständiger Arbeiter oder Kleinmeister, selbst wenn die vielen nur räumlich zusammen, nicht miteinander arbeiten. Ein Teil der Arbeitsmittel erwirbt diesen gesellschaftlichen Charakter, bevor ihn der Arbeitsprozeß selbst erwirbt.
+  Die Ökonomie der Produktionsmittel ist überhaupt von doppeltem Gesichtspunkt zu betrachten. Das eine Mal, soweit sie Waren verwohlfeilert und dadurch den Wert der Arbeitskraft senkt. Das andre Mal, soweit sie das Verhältnis des Mehrwerts zum vorgeschoßnen Gesamtkapital, d. h. zur Wertsumme seiner konstanten und variablen Bestandteile, verändert. Der letztre Punkt wird erst im ersten Abschnitt des Dritten Buchs dieses Werks erörtert, wohin wir des Zusammenhangs wegen auch manches schon hierher Gehörige verweisen. Der Gang der Analyse gebietet diese Zerreißung des Gegenstands, die zugleich dem Geist der kapitalistischen Produktion entspricht. Da hier nämlich die Arbeitsbedingungen dem Arbeiter selbständig gegenübertreten, erscheint auch ihre Ökonomie als eine besondre Operation, die ihn nichts angeht und daher getrennt ist von den Methoden, welche seine persönliche Produktivität erhöhen.
+  Die Form der Arbeit vieler, die in demselben Produktionsprozeß oder in verschiednen, aber zusammenhängenden Produktionsprozessen planmäßig neben- und miteinander arbeiten, heißt Kooperation.[„Concours de forces." (Destutt de Tracy. I.e. p.80.)]
+  Wie die Angriffskraft einer Kavallerieschwadron oder die Widerstandskraft eines Infanterieregiments wesentlich verschieden ist von der Summe der von jedem Kavalleristen und Infanteristen vereinzelt entwickelten Angriffs- und Widerstandskräfte, so die mechanische Kraftsumme vereinzelter Arbeiter von der gesellschaftlichen Kraftpotenz, die sich entwickelt, wenn viele Hände gleichzeitig in derselben ungeteilten Operation zusammenwirken, z.B. wenn es gilt, eine Last zu heben, eine Kurbel zu drehn oder einen Widerstand aus dem Weg zu räumen.[„Es gibt zahlreiche Verrichtungen von so einfacher Art, daß sie keine Zerlegung in Teile zulassen, die jedoch nur durch das Zusammenwirken vieler Paare von Händen ausgeführt werden können. So das Heben eines großen Baumstamms auf einen Wagen . . . kurz, alles, was nicht getan werden kann, ohne daß sich eine große Zahl von Händepaaren gegenseitig und gleichzeitig bei derselben ungeteilten Beschäftigung helfen." (E.G.Wakefield, „A View of the Art of Colonization", London 1849, p.168.)] Die Wirkung der kombinierten Arbeit könnte hier von der vereinzelten gar nicht oder nur in viel längren Zeiträumen oder nur auf einem Zwergmaßstab hervorgebracht werden. Es handelt sich hier nicht nur um Erhöhung der individuellen Produktivkraft durch die Kooperation, sondern um die Schöpfung einer Produktivkraft, die an und für sich Massenkraft sein muss.[„Während ein Mann nicht fähig ist, eine Tonnenlast zu heben, und 10 Mann sich dabei anstrengen müssen, können es einhundert Mann aber mit der Kraft nur je eines ihrer Finger tun." (John Bellers, „Proposais for raising a colledge of industry", London 1696, p.21.)]
+  Abgesehn von der neuen Kraftpotenz, die aus der Verschmelzung vieler Kräfte in eine Gesamtkraft entspringt, erzeugt bei den meisten produktiven Arbeiten der bloße gesellschaftliche Kontakt einen Wetteifer und eine eigne Erregung der Lebensgeister (animal spirits), welche die individuelle Leistungsfähigkeit der einzelnen erhöhen, so daß ein Dutzend Personen zusammen in einem gleichzeitigen Arbeitstag von 144 Stunden ein viel größres Gesamtprodukt liefern als zwölf vereinzelte Arbeiter, von denen jeder 12 Stunden, oder als ein Arbeiter, der 12 Tage nacheinander arbeitet.[„Man hat auch" (wenn dieselbe Arbeiterzahl von einem Pächter auf 300, statt von 10 Pächtern auf je 30 acres angewandt wird) „in der relativen Zahl der Knechte einen Vorteil, der nicht so leicht zu erkennen ist, außer von Männern der Praxis. Man sagt natürlich, daß sich 1: 4 wie 3 : 12 verhält; aber dies bewährt sich nicht in der Praxis. Denn in der Erntezeit und bei vielen andren Verrichtungen, die ähnliche Eile erfordern, wird durch Zusammenfassen vieler Arbeitskräfte die Arbeit besser und schneller geschafft. Z.B. bewältigen bei der Ernte 2 Fuhrleute, 2 Auflader, 2 Zureicher, 2 Recher, dazu der Rest beim Schober oder in der Scheune zusammen doppelt soviel Arbeit wie die gleiche Anzahl, wenn sie in verschiedne Gruppen und auf verschiedne Pachten aufgeteilt wäre." [(J.Arbuthnot.l „An Enquiry into the Connection between the present price of provisions and the size of farms." By a Farmer, London 1773, p.7, 8.)] Dies rührt daher, dass der Mensch von Natur, wenn nicht, wie Aristoteles meint, ein politisches[Aristoteles' Definition ist eigentlich die, daß der Mensch von Natur Stadtbürger. Sie ist für das klassische Altertum ebenso charakteristisch als Franklins Definition, daß der Mensch von Natur Instrumentenmacher, für das Yankeeturn.], jedenfalls ein gesellschaftliches Tier ist.
+  Obgleich viele dasselbe oder Gleichartiges gleichzeitig miteinander verrichten, kann die individuelle Arbeit eines jeden dennoch als Teil der Gesamtarbeit verschiedne Phasen des Arbeitsprozesses selbst darstellen, die der Arbeitsgegenstand, infolge der Kooperation, rascher durchläuft. Z. B. wenn Maurer eine Reihe von Händen bilden, um Bausteine vom Fuß eines Gestells bis zu seiner Spitze zu befördern, tut jeder von ihnen dasselbe, aber dennoch bilden die einzelnen Verrichtungen kontinuierliche Teile einer Gesamtverrichtung, besondre Phasen, die jeder Baustein im Arbeitsprozeß durchlaufen muß und wodurch ihn etwa die 24 Hände des Gesamtarbeiters rascher fördern als die zwei Hände jedes einzelnen Arbeiters, der das Gerüst auf- und abstiege.[„Ferner muß man feststellen, daß diese partielle Arbeitsteilung auch da erfolgen kann, wo die Arbeiter mit einer gleichen Verrichtung beschäftigt sind. Maurer z.B., die Ziegel von Hand zu Hand zu einem höheren Gerüst wandern lassen, tun alle die gleiche Arbeit, und dennoch existiert unter ihnen eine Art von Arbeitsteilung, die darin besteht, daß jeder von ihnen den Ziegel ein bestimmtes Stück weiterwandern läßt und alle zusammen ihn viel schneller an den gegebnen Ort kommen lassen, als wenn jeder von ihnen seinen Ziegel einzeln bis zum höheren Gerüst hinauftrüge." (F.Skarbek, „Theorie des richesses sociales", 2eme ed., Paris 1839, t.I, p.97,98.)] Der Arbeitsgegenstand durchläuft denselben Raum in kürzerer Zeit. Andrerseits findet Kombination der Arbeit statt, wenn ein Bau z.B. von verschiednen Seiten gleichzeitig angegriffen wird,obgleich die Kooperierenden dasselbe oder Gleichartiges tun. Der kombinierte Arbeitstag von 144 Stunden, der den Arbeitsgegenstand vielseitig im Raum angreift, weil der kombinierte Arbeiter oder Gesamtarbeiter vorn und hinten Augen und Hände hat und in gewissem Grad Allgegenwart besitzt, fördert das Gesamtprodukt rascher als 12 zwölfstündige Arbeitstage mehr oder minder vereinzelter Arbeiter, die ihr Werk einseitiger angreifen müssen. In derselben Zeit reifen verschiedne Raumteile des Produkts.
+  Wir betonten, daß die vielen, die einander ergänzen, dasselbe oder Gleichartiges tun, weil diese einfachste Form gemeinsamer Arbeit auch in der aus gebildetsten Gestalt der Kooperation eine große Rolle spielt. Ist der Arbeitsprozeß kompliziert, so erlaubt die bloße Masse der Zusammenarbeitenden, die verschiednen Operationen unter verschiedne Hände zu verteilen, daher gleichzeitig zu verrichten und dadurch die zur Herstellung des Gesamtprodukts nötige Arbeitszeit zu verkürzen. [„Wenn es sich um die Ausführung einer komplizierten Arbeit handelt, müssen verschiedene Dinge gleichzeitig getan werden. Der eine macht das eine, während der andere etwas andres macht, und alle tragen zu einer Wirkung bei, die ein einzelner Mensch nicht hätte erzeugen können. Der eine rudert, während der andere steuertund ein dritter das Netz auswirft oder den Fisch harpuniert, und der Fischfang hat einen Erfolg, der ohne diese Kooperation unmöglich wäre." (Destutt de Tracy, I.e. P-78.)]
+  In vielen Produktionszweigen gibt es kritische Momente, d.h. durch die Natur des Arbeitsprozesses selbst bestimmte Zeitepochen, während deren bestimmte Arbeitsresultate erzielt werden müssen. Soll z.B. eine Herde Schafe geschoren oder eine Morgenanzahl Kornland gemäht und geherbstet werden, so hängt Quantität und Qualität des Produkts davon ab, daß die Operation zu einer gewissen Zeit begonnen und zu einer gewissen Zeit beendet wird. Der Zeitraum, den der Arbeitsprozeß einnehmen darf, ist hier vorgeschrieben, wie etwa beim Heringsfang. Der einzelne kann aus einem Tag nur einen Arbeitstag herausschneiden, sage von 12 Stunden, aber die Kooperation von 100 z. B. erweitert einen zwölfstündigen Tag zu einem Arbeitstag von 1200 Stunden. Die Kürze der Arbeitsfrist wird kompensiert durch die Größe der Arbeitsmasse, die im entscheidenden Augenblick auf das Produktionsfeld geworfen wird. Die rechtzeitige Wirkung hängt hier ab von der gleichzeitigen Anwendung vieler kombinierten Arbeitstage, der Umfang des Nutzeffekts von der Arbeiteranzahl, die jedoch stets kleiner bleibt als die Anzahl der Arbeiter, die vereinzelt in demselben Zeitraum denselben Wirkungsraum ausfüllen würden.[„Ihre" (der Arbeit in der Agrikultur) „Ausführung im entscheidenden Augenblick hat um so größere Wirkung." ([J.Arbuthnot,] „An Inquiry into the Connection between the present price etc.", p.7.) „In der Agrikultur gibt es keinen wichtigeren Faktor als den Faktor der Zeit." (Liebig, „Über Theorie und Praxis in der Landwirthschaft", 1856, p.23.)] Es ist der Mangel dieser Kooperation, wodurch im Westen der Vereinigten Staaten eine Masse Korn und in den Teilen Ostindiens, wo englische Herrschaft das alte Gemeinwesen zerstört hat, eine Masse Baumwolle jährlich verwüstet wird.[„Das nächste Übel, das man schwerlich in einem Lande zu finden erwartet, welches mehr Arbeit exportiert als irgendein andres der Welt, abgesehen vielleicht von China und England, besteht in der Unmöglichkeit, eine genügende Anzahl von Händen zur Baumwollernte zu beschaffen. Infolgedessen bleiben große Mengen Baumwolle ungepflüclct, während ein andrer Teil von der Erde aufgesammelt wird, wenn er abgefallen und selbstverständlich verfärbt und teilweise verfault ist, so daß wegen Arbeitermangels zur richtigen Jahreszeit der Pflanzer tatsächlich gezwungen ist, sich mit dem Verlust eines großen Teils jener Baumwollernte abzufinden, auf die England so sehr wartet." („Bengal Hurkaru. Bi-Monthly Overland Summary of News", 22nd July 1861.)]
+  Auf der einen Seite erlaubt die Kooperation, die Raumsphäre der Arbeit auszurecken, und wird daher für gewisse Arbeitsprozesse schon durch den räumlichen Zusammenhang des Arbeitsgegenstandes erheischt, wie bei Trockenlegung von Land, Eindämmung, Bewäßrung, Kanal-, Straßen-,Eisenbahnbauten usw. Andrerseits ermöglicht sie, verhältnismäßig zur Stufenleiter der Produktion, räumliche Verengung des Produktionsgebiets. Diese Beschränkung der Raumsphäre der Arbeit bei gleichzeitiger Ausdehnung ihrer Wirkungssphäre, wodurch eine Masse falscher Kosten (faux frais) erspart werden, entspringt aus der Konglomeration der Arbeiter, dem Zusammenrücken verschiedner Arbeitsprozesse und der Konzentration der Produktionsmittel.[„Beim Fortschritt in der Bodenbebauung wird alles Kapital und alle Arbeit, die früher zerstreut auf 500 acres verwandt wurden, ja vielleicht noch mehr, jetzt auf die gründlichere Bearbeitung von 100 acres konzentriert." Obgleich „im Verhältnis zum angewandten Betrage von Kapital und Arbeit der Raum enger geworden ist, stellt er doch eine erweiterte Produktionssphäre dar, im Vergleich zu der Produktionssphäre, die früher von einem einzigen, unabhängigen Produzenten besessen oder bebaut worden war". (R.Jones, „An Essay on the Distribution of Wealth", „On Rent", London 1831, p. 191.)]
+  Verglichen mit einer gleich großen Summe vereinzelter individueller Arbeitstage, produziert der kombinierte Arbeitstag größre Massen von Gebrauchswert und vermindert daher die zur Produktion eines bestimmten Nutzeffekts nötige Arbeitszeit. Ob er im gegebnen Fall diese gesteigerte Produktivkraft erhält, weil er die mechanische Kraftpotenz der Arbeit erhöht oder ihre räumliche Wirkungssphäre ausdehnt oder das räumliche Produktionsfeld im Verhältnis zur Stufenleiter der Produktion verengt oder im kritischen Moment viel Arbeit in wenig Zeit flüssig macht oder den Wetteifer der einzelnen erregt und ihre Lebensgeister spannt oder den gleichartigen Verrichtungen vieler den Stempel der Kontinuität und Vielseitigkeit aufdrückt, oder verschiedne Operationen gleichzeitig verrichtet oder die Produktionsmittel durch ihren gemeinschaftlichen Gebrauch ökonomisiert oder der individuellen Arbeit den Charakter gesellschaftlicher Durchschnittsarbeit verleiht, unter allen Umständen ist die spezifische Produktivkraft des kombinierten Arbeitstags gesellschaftliche Produktivkraft der Arbeit oder Produktivkraft gesellschaftlicher Arbeit. Sie entspringt aus der Kooperation selbst. Im planmäßigen Zusammenwirken mit andern streift der Arbeiter seine individuellen Schranken ab und entwickelt sein Gattungsvermögen.[„Die Kraft des einzelnen Menschen ist ganz gering, aber die Vereinigung der ganz geringen Kräfte ergibt eine Gesamtkraft, die größer ist als die Summe aller Teilkräfte, so daß schon die bloße Vereinigung der Kräfte die Zeit verringern und den Raum ihrer Wirkung vergrößern kann." (G,R.Carli, Note zu P.Verri, I.e., t.XV, p. 196.)]
+  Wenn Arbeiter überhaupt nicht unmittelbar zusammenwirken können,
 ohne Zusammen zu sein, ihre Konglomeration auf bestimmtem Raum daher
 Bedingung ihrer Kooperation ist, können Lohnarbeiter nicht kooperieren,
 ohne daß dasselbe Kapital, derselbe Kapitalist sie gleichzeitig anwendet,
@@ -3039,7 +2745,7 @@ hängt also Zunächst ab von der Größe des Kapitals, das der
 einzelne Kapitalist im Ankauf von Arbeitskraft auslegen kann, d.h. von
 dem Umfang, worin je ein Kapitalist über die Lebensmittel vieler Arbeiter
 verfügt.
-Und wie mit dem variablen, verhält es sich mit dem konstanten Kapital.
+  Und wie mit dem variablen, verhält es sich mit dem konstanten Kapital.
 Die Auslage für Rohmaterial Z.B. ist 30mal größer für den einen Kapitalisten,
 der 300, als f ü r jeden der 30 Kapitalisten, der je 10 Arbeiter beschäftigt.
 Wertumfang und Stoffmasse der gemeinsam benutzten Arbeitsmittel
@@ -3051,10 +2757,7 @@ Kooperation, oder die Stufenleiter der Produktion, hängt ab vom Umfang
 dieser Konzentration.
 Ursprünglich erschien eine gewisse Minimalgröße des individuellen
 Kapitals notwendig, damit die Anzahl der gleichzeitig ausgebeuteten
-19 „Die Kraft des einzelnen Menschen ist ganz gering, aber die Vereinigung der
-ganz geringen Kräfte ergibt eine Gesamtkraft, die größer ist als die Summe aller Teilkräfte,
-so daß schon die bloße Vereinigung der Kräfte die Zeit verringern und den Raum
-ihrer Wirkung vergrößern kann." (G,R.Carli, Note zu P.Verri, I.e., t.XV, p. 196.)
+19 
 Arbeiter, daher die Masse des produzierten Mehrwerts hinreiche, den
 Arbeitsanwender selbst von der Handarbeit Zu entbinden, aus einem Kleinmeister
 einen Kapitalisten zu machen und so das Kapitalverhältnis formell
