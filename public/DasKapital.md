@@ -2730,205 +2730,17 @@ System zu beseitigen".
   In vielen Produktionszweigen gibt es kritische Momente, d.h. durch die Natur des Arbeitsprozesses selbst bestimmte Zeitepochen, während deren bestimmte Arbeitsresultate erzielt werden müssen. Soll z.B. eine Herde Schafe geschoren oder eine Morgenanzahl Kornland gemäht und geherbstet werden, so hängt Quantität und Qualität des Produkts davon ab, daß die Operation zu einer gewissen Zeit begonnen und zu einer gewissen Zeit beendet wird. Der Zeitraum, den der Arbeitsprozeß einnehmen darf, ist hier vorgeschrieben, wie etwa beim Heringsfang. Der einzelne kann aus einem Tag nur einen Arbeitstag herausschneiden, sage von 12 Stunden, aber die Kooperation von 100 z. B. erweitert einen zwölfstündigen Tag zu einem Arbeitstag von 1200 Stunden. Die Kürze der Arbeitsfrist wird kompensiert durch die Größe der Arbeitsmasse, die im entscheidenden Augenblick auf das Produktionsfeld geworfen wird. Die rechtzeitige Wirkung hängt hier ab von der gleichzeitigen Anwendung vieler kombinierten Arbeitstage, der Umfang des Nutzeffekts von der Arbeiteranzahl, die jedoch stets kleiner bleibt als die Anzahl der Arbeiter, die vereinzelt in demselben Zeitraum denselben Wirkungsraum ausfüllen würden.[„Ihre" (der Arbeit in der Agrikultur) „Ausführung im entscheidenden Augenblick hat um so größere Wirkung." ([J.Arbuthnot,] „An Inquiry into the Connection between the present price etc.", p.7.) „In der Agrikultur gibt es keinen wichtigeren Faktor als den Faktor der Zeit." (Liebig, „Über Theorie und Praxis in der Landwirthschaft", 1856, p.23.)] Es ist der Mangel dieser Kooperation, wodurch im Westen der Vereinigten Staaten eine Masse Korn und in den Teilen Ostindiens, wo englische Herrschaft das alte Gemeinwesen zerstört hat, eine Masse Baumwolle jährlich verwüstet wird.[„Das nächste Übel, das man schwerlich in einem Lande zu finden erwartet, welches mehr Arbeit exportiert als irgendein andres der Welt, abgesehen vielleicht von China und England, besteht in der Unmöglichkeit, eine genügende Anzahl von Händen zur Baumwollernte zu beschaffen. Infolgedessen bleiben große Mengen Baumwolle ungepflüclct, während ein andrer Teil von der Erde aufgesammelt wird, wenn er abgefallen und selbstverständlich verfärbt und teilweise verfault ist, so daß wegen Arbeitermangels zur richtigen Jahreszeit der Pflanzer tatsächlich gezwungen ist, sich mit dem Verlust eines großen Teils jener Baumwollernte abzufinden, auf die England so sehr wartet." („Bengal Hurkaru. Bi-Monthly Overland Summary of News", 22nd July 1861.)]
   Auf der einen Seite erlaubt die Kooperation, die Raumsphäre der Arbeit auszurecken, und wird daher für gewisse Arbeitsprozesse schon durch den räumlichen Zusammenhang des Arbeitsgegenstandes erheischt, wie bei Trockenlegung von Land, Eindämmung, Bewäßrung, Kanal-, Straßen-,Eisenbahnbauten usw. Andrerseits ermöglicht sie, verhältnismäßig zur Stufenleiter der Produktion, räumliche Verengung des Produktionsgebiets. Diese Beschränkung der Raumsphäre der Arbeit bei gleichzeitiger Ausdehnung ihrer Wirkungssphäre, wodurch eine Masse falscher Kosten (faux frais) erspart werden, entspringt aus der Konglomeration der Arbeiter, dem Zusammenrücken verschiedner Arbeitsprozesse und der Konzentration der Produktionsmittel.[„Beim Fortschritt in der Bodenbebauung wird alles Kapital und alle Arbeit, die früher zerstreut auf 500 acres verwandt wurden, ja vielleicht noch mehr, jetzt auf die gründlichere Bearbeitung von 100 acres konzentriert." Obgleich „im Verhältnis zum angewandten Betrage von Kapital und Arbeit der Raum enger geworden ist, stellt er doch eine erweiterte Produktionssphäre dar, im Vergleich zu der Produktionssphäre, die früher von einem einzigen, unabhängigen Produzenten besessen oder bebaut worden war". (R.Jones, „An Essay on the Distribution of Wealth", „On Rent", London 1831, p. 191.)]
   Verglichen mit einer gleich großen Summe vereinzelter individueller Arbeitstage, produziert der kombinierte Arbeitstag größre Massen von Gebrauchswert und vermindert daher die zur Produktion eines bestimmten Nutzeffekts nötige Arbeitszeit. Ob er im gegebnen Fall diese gesteigerte Produktivkraft erhält, weil er die mechanische Kraftpotenz der Arbeit erhöht oder ihre räumliche Wirkungssphäre ausdehnt oder das räumliche Produktionsfeld im Verhältnis zur Stufenleiter der Produktion verengt oder im kritischen Moment viel Arbeit in wenig Zeit flüssig macht oder den Wetteifer der einzelnen erregt und ihre Lebensgeister spannt oder den gleichartigen Verrichtungen vieler den Stempel der Kontinuität und Vielseitigkeit aufdrückt, oder verschiedne Operationen gleichzeitig verrichtet oder die Produktionsmittel durch ihren gemeinschaftlichen Gebrauch ökonomisiert oder der individuellen Arbeit den Charakter gesellschaftlicher Durchschnittsarbeit verleiht, unter allen Umständen ist die spezifische Produktivkraft des kombinierten Arbeitstags gesellschaftliche Produktivkraft der Arbeit oder Produktivkraft gesellschaftlicher Arbeit. Sie entspringt aus der Kooperation selbst. Im planmäßigen Zusammenwirken mit andern streift der Arbeiter seine individuellen Schranken ab und entwickelt sein Gattungsvermögen.[„Die Kraft des einzelnen Menschen ist ganz gering, aber die Vereinigung der ganz geringen Kräfte ergibt eine Gesamtkraft, die größer ist als die Summe aller Teilkräfte, so daß schon die bloße Vereinigung der Kräfte die Zeit verringern und den Raum ihrer Wirkung vergrößern kann." (G,R.Carli, Note zu P.Verri, I.e., t.XV, p. 196.)]
-  Wenn Arbeiter überhaupt nicht unmittelbar zusammenwirken können, ohne Zusammen zu sein, ihre Konglomeration auf bestimmtem Raum daher
-Bedingung ihrer Kooperation ist, können Lohnarbeiter nicht kooperieren,
-ohne daß dasselbe Kapital, derselbe Kapitalist sie gleichzeitig anwendet,
-also ihre Arbeitskräfte gleichzeitig kauft. Der Gesamtwert dieser Arbeitskräfte
-oder die Lohnsurnme der Arbeiter für den Tag, die Woche usw.,
-muß daher in der Tasche des Kapitalisten vereint sein, bevor die Arbeitskräfte
-selbst im Produktionsprozeß vereint werden. Zahlung von 300 Arbeitern
-auf einmal, auch nur für einen Tag, bedingt mehr Kapitalauslage als
-Zahlung weniger Arbeiter Woche für Woche, während des ganzen Jahrs.
-Die Anzahl der kooperierenden Arbeiter, oder die Stufenleiter der Kooperation,
-hängt also Zunächst ab von der Größe des Kapitals, das der
-einzelne Kapitalist im Ankauf von Arbeitskraft auslegen kann, d.h. von
-dem Umfang, worin je ein Kapitalist über die Lebensmittel vieler Arbeiter
-verfügt.
-  Und wie mit dem variablen, verhält es sich mit dem konstanten Kapital.
-Die Auslage für Rohmaterial Z.B. ist 30mal größer für den einen Kapitalisten,
-der 300, als f ü r jeden der 30 Kapitalisten, der je 10 Arbeiter beschäftigt.
-Wertumfang und Stoffmasse der gemeinsam benutzten Arbeitsmittel
-wachsen zwar nicht in demselben Grad wie die beschäftigte ArbeiteranZahl,
-aber sie wachsen beträchtlich- Konzentration größrer Massen von
-Produktionsmitteln in der Hand einzelner Kapitalisten ist also materielle
-Bedingung für die Kooperation von Lohnarbeitern, und der Umfang der
-Kooperation, oder die Stufenleiter der Produktion, hängt ab vom Umfang
-dieser Konzentration.
-Ursprünglich erschien eine gewisse Minimalgröße des individuellen
-Kapitals notwendig, damit die Anzahl der gleichzeitig ausgebeuteten
-19 
-Arbeiter, daher die Masse des produzierten Mehrwerts hinreiche, den
-Arbeitsanwender selbst von der Handarbeit Zu entbinden, aus einem Kleinmeister
-einen Kapitalisten zu machen und so das Kapitalverhältnis formell
-herzustellen. Sie erscheint jetzt als materielle Bedingung für die Verwandlung
-vieler zersplitterter und voneinander unabhängiger individueller
-Arbeitsprozesse in einen kombinierten gesellschaftlichen Arbeitsprozeß.
-Ebenso erschien ursprünglich das Kommando des Kapitals über die
-Arbeit nur als formelle Folge davon, daß der Arbeiter statt für sich, für den
-Kapitalisten und daher unter dem Kapitalisten arbeitet. Mit der Kooperation
-vieler Lohnarbeiter entwickelt sich das Kommando des Kapitals zum
-Erheischnis für die Ausführung des Arbeitsprozesses selbst, zu einer wirklichen
-Produktionsbedingung. Der Befehl des Kapitalisten auf dem Produktionsfeld
-wird jetzt so unentbehrlich wie der Befehl des Generals auf dem
-Schlachtfeld.
-Alle unmittelbar gesellschaftliche oder gemeinschaftliche Arbeit auf
-größrem Maßstab bedarf mehr oder minder einer Direktion, welche die
-Harmonie der individuellen Tätigkeiten vermittelt und die allgemeinen
-Funktionen vollzieht, die aus der Bewegung des produktiven Gesamtkörpers
-im Unterschied von der Bewegung seiner selbständigen Organe entspringen.
-Ein einzelner Violinspieler dirigiert sich selbst, ein Orchester bedarf des
-Musikdirektors. Diese Funktion der Leitungä 'Jberwachung und Vermittlung,
-wird zur Funktion des Kapitals, sobald die ihm untergeordnete Arbeit
-kooperativ wird. Als spezifische Funktion des Kapitals erhält die Funktion
-der Leitung spezifische Charaktermale.
-Zunächst ist das treibende Motiv und der bestimmende Zweck des
-kapitalistischenProduktionsprozesses möglichst große Selbstverwertung des
-Kapitals20, d.h. möglichst große Produktion von Mehrwert, also möglichst
-große Ausbeutung der Arbeitskraft durch den Kapitalisten. Mit der Masse
-der gleichzeitig beschäftigten Arbeiter wächst ihr Widerstand und damit
-notwendig der Druck des Kapitals zur Bewältigung dieses Widerstands. Die
-Leitung des Kapitalisten ist nicht nur eine aus der Natur des gesellschaftlichen
-Arbeitsprozesses entspringende und ihm angehörige besondre Funktion,
-sie ist zugleich Funktion der Ausbeutung eines gesellschaftlichen
-Arbeitsprozesses und daher bedingt durch den unvermeidlichen Antagonismus
-zwischen dem Ausbeuter und dem Rohmaterial seiner Ausbeutung.
-Ebenso wächst mit dem Umfang der Produktionsmittel, die dem Lohnarbeiter
-als fremdes Eigentum gegenüberstehn, die Notwendigkeit der
-20 „Profite ... sind der einzige Zweck des Geschäfts." (J, Vanderlint, I.e. p. 11.)
-Kontrolle über deren sachgemäße Verwendung.21 Die Kooperation der
-Lohnarbeiter ist ferner bloße Wirkung des Kapitals, das sie gleichzeitig anwendet.
-Der Zusammenhang ihrer Funktionen und ihre Einheit als produktiver
-Gesamtkörper liegen außer ihnen, im Kapital, das sie zusammenbringt
-und zusammenhält. Der Zusammenhang ihrer Arbeiten tritt ihnen
-daher ideell als Plan, praktisch als Autorität des Kapitalisten gegenüber, als
-Macht eines fremden Willens, der ihr Tun seinem Zweck unterwirft.
-Wenn daher die kapitalistische Leitung dem Inhalt nach zwieschlächtig
-ist, wegen der Zwieschlächtigkeit des zu leitenden Produktionsprozesses
-selbst, welcher einerseits gesellschaftlicher Arbeitsprozeß zur Herstellung
-eines Produkts, andrerseits Verwertungsprozeß des Kapitals, so ist sie der
-Form nach despotisch. Mit der Entwicklung der Kooperation auf größrem
-Maßstab entwickelt dieser Despotismus seine eigentümlichen Formen. Wie
-der Kapitalist zunächst entbunden wird von der Handarbeit, sobald sein
-Kapital jene Minimalgröße erreicht hat, womit die eigentlich kapitalistische
-Produktion erst beginnt, so tritt er jetzt die Funktion unmittelbarer und
-fortwährender Beaufsichtigung der einzelnen Arbeiter und Arbeitergruppen
-selbst wieder ab an eine besondre Sorte von Löhnarbeitern. Wie eine Armee
-militärischer, bedarf eine unter dem Kommando desselben Kapitals zusammenwirkende
-Arbeitermasse industrieller Oberoffiziere (Dirigenten,
-managers) und Unteroffiziere (Arbeitsaufseher, foremen, overlookers, contre-
-maitres), die während des Arbeitsprozesses im Namen des Kapitals
-kommandieren. Die Arbeit der Oberaufsicht befestigt sich zu ihrer ausschließlichen
-Funktion. Bei Vergleichung derProduktionsweise unabhängi-
-21 Ein englisches Philisterblatt, der „Spectator" vom 26. Mai 1866, berichtet, daß
-nach Einführung einer Art von Kompagniegeschäft zwischen Kapitalist und Arbeitern
-in der „wirework Company of Manchester"1*: „das erste Ergebnis eine plötzliche Abnahme
-der Materialverschwendung war, da die Arbeiter nicht einsahen, weshalb sie mit
-ihrem Eigentum verschwenderischer umgehen sollten als mit dem der Kapitalisten,
-und Materialverschwendung ist neben schlechten Außenständen vielleicht die größte
-Verlustquelle in den Fabriken". Dasselbe Blatt entdeckt als Grundmangel der Rochdale
-cooperative experimentst103!: „They showed that associations of workmen could manage
-shops, mills, and almost all forms of industry with success, and they immensely
-improved the condition of the men, but then they did not leave a clear place for
-masters." („Sie bewiesen, daß Arbeiterassoziationen Boutiquen, Fabriken und beinahe
-alle Formen der Industrie mit Erfolg handhaben können, und sie verbesserten außerordentlich
-die Lage der Leute selbst, aber! aber, dann ließen sie keinen sichtbaren
-Platz für Kapitalisten offen." Quelle horreur!2*)
-Gesellschaft für Drahtverarbeitung in Manchester - 2* Wie schrecklich!
-ger Bauern oder selbständiger Handwerker mit der auf Sklaverei beruhenden
-Plantagenwirtschaft zählt der politische Ökonom diese Arbeit der
-Oberaufsicht zu den faux frais de production.21a Bei Betrachtung der kapitalistischen
-Produktionsweise identifiziert er dagegen die Funktion der Leitung,
-soweit sie aus der Natur des gemeinschaftlichen Arbeitsprozesses entspringt,
-mit derselben Funktion, soweit sie durch den kapitalistischen und
-daher antagonistischen Charakter dieses Prozesses bedingt wird.22 Der
-Kapitalist ist nicht Kapitalist, weil er industrieller Leiter ist, sondern er wird
-industrieller Befehlshaber, weil er Kapitalist ist. Der Oberbefehl in der Industrie
-wird Attribut des Kapitals, wie zur Feudalzeit der Oberbefehl in
-Krieg und Gericht Attribut des Grundeigentums war.22*
-Eigentümer seiner Arbeitskraft ist der Arbeiter, solange er als Verkäufer
-derselben mit dem Kapitalist marktet, und er kann nur verkaufen, was er
-besitzt, seine individuelle, vereinzelte Arbeitskraft. Dies Verhältnis wird in
-keiner Weise dadurch verändert, daß der Kapitalist 100 Arbeitskräfte statt
-einer kauft oder mit 100 voneinander unabhängigen Arbeitern Kontrakte
-schließt statt mit einem einzelnen. Er kann die 100 Arbeiter anwenden, ohne
-sie kooperieren zu lassen. Der Kapitalist zahlt daher den Wert der 100 selbständigen
-Arbeitskräfte, aber er zahlt nicht die kombinierte Arbeitskraft
-der Hundert. Als unabhängige Personen sind die Arbeiter Vereinzelte, die
-in ein Verhältnis zu demselben Kapital, aber nicht zueinander treten. Ihre
-Kooperation beginnt erst im Arbeitsprozeß, aber im Arbeitsprozeß haben
-sie bereits aufgehört, sich selbst zu gehören. Mit dem Eintritt in denselben
-sind sie dem Kapital einverleibt. Als Kooperierende, als Glieder eines werktätigen
-Organismus, sind sie selbst nur eine besondre Existenzweise des
-2 1 a NachdemProfessor Cairnes die „superintendence ot labour"1* als einen Hauptcharakter
-der Sklavenproduktion in den südlichen Staaten von Nordamerika dargestellt
-hat, fährt er fort: „Da der bäuerliche Eigentümer" (des Nordens) „das ganze Produkt
-seines Bodens2* für sich behält, braucht er keinen besonderen Ansporn zurAnstrengung.
-Überwachung wird hier völlig unnötig." (Cairnes, I.e. p.48, 49.)
-22 Sir James Steuart, überhaupt ausgezeichnet durch offnes Auge für die charakteristisch-
-gesellschaftlichen Unterschiede verschiedner Produktionsweisen, bemerkt:
-„Warum vernichten große Manufakturunternehmungen das Hausgewerbe, wenn nicht
-dadurch, daß sie der Einfachheit der Sklavenarbeit näher kommen?" („Princ. of Pol.
-Econ.", London 1767, v.I, p. 167, 168.)
-2 2 a Auguste Comte und seine Schule hätten daher in derselben Art die ewige Notwendigkeit
-von Feudalherrn beweisen können, wie sie dies für die Kapitalherrn getan.
-„Überwachung der Arbeit" - 2* bei Cairnes: Produkt seiner Arbeit
-Kapitals. Die Produktivkraft, die der Arbeiter als gesellschaftlicher Arbeiter
-entwickelt, ist daher Produktivkraft des Kapitals. Die gesellschaftliche Produktivkraft
-der Arbeit entwickelt sich unentgeltlich, sobald die Arbeiter unter
-bestimmte Bedingungen gestellt sind, und das Kapital stellt sie unter
-diese Bedingungen. Weil die gesellschaftliche Produktivkraft der Arbeit dem
-Kapital nichts kostet, weil sie andrerseits nicht von dem Arbeiter entwickelt
-wird, bevor seine Arbeit selbst dem Kapital gehört, erscheint sie alsProduktivkraft,
-die das Kapital von Natur besitzt, als seine immanente Produktivkraft.
-Kolossal zeigt sich die Wirkung der einfachen Kooperation in den
-Riesenwerken der alten Asiaten, Ägypter, Etrusker usw.
-„Es geschah in vergangnen Zeiten, daß diese asiatischen Staaten nach Bestreitung
-ihrer Zivil- und Militärausgaben sich im Besitz eines Überschusses von Lebensmitteln
-befanden, die sie für Werke der Pracht und des Nutzens verausgaben konnten; Ihr
-Kommando übei die Hände und Arme fast der ganzen nicht ackerbauenden Bevölkrung
-und die ausschließliche Verfügung des Monarchen und der Priesterschaft über
-jenen Überschuß boten ihnen die Mittel zur Errichtung jener mächtigen Monumente,
-womit sie das Land erfüllten... In der Bewegung der kolossalen Statuen und der enörmen
-Massen, deren Transport Staunen erregt, wurde fast nur menschliche Arbeit verschwenderisch
-angewandt. Die Zahl der Arbeiter und die Konzentration ihrer Mühen
-genügte» So sehn wir mächtige Korallenriffe aus den Tiefen des Ozeans zu Inseln anschwellen
-und festes Land bilden, obgleich jeder individuelle Ablagerer (depositary)
-winzig, schwach und verächtlich ist. Die nicht ackerbauenden Arbeiter einer asiatischen
-Monarchie haben außer ihren individuellen körperlichen Bemühungen wenig zum
-Werk zu bringen, aber ihre Zahl ist ihre Kraft, und die Macht der Direktion über diese
-Massen gab jenen Riesenwerken den Ursprung. Es war die Konzentration der Revenuen,
-wovon die Arbeiter leben, in einer Hand oder wenigen Händen, welche solche
-Unternehmungen möglich machte."23
-Diese Macht asiatischer und ägyptischer Könige oder etruskischer Theokraten
-Usw. ist in der modernen Gesellschaft auf den Kapitalisten übergegangen,
-ob er nun als vereinzelter Kapitalist auftritt, oder, wie bei Aktien-'
-gesellschaften, als kombinierter Kapitalist.
-Die Kooperation im Arbeitsprozeß, wie wir sie in den Kulturanfängeri
-der Menschheit, bei Jägervölker n23* oder etwa in der Agrikultur indischer
-23 R.Jones, „Text-book of Lectures etc.", p.77, 78. Die altassyrischen, ägyptischen
-usw. Sammlungen in London und andren europäischen Hauptstädten machen uns zu
-Augenzeugen jener kooperativen Arbeitsprozesse.
-23a Linguet in seiner „Theorie des Lois civiles" hat vielleicht nicht unrecht, wenn
-er die Jagd für die erste Form der Kooperation und Menschenjagd (Krieg) für eine der
-ersten Formen der Jagd erklärt.
-23 Mars, Kapital I
-Gemeinwesen vorherrschend finden, beruht einerseits auf dem Gemeineigentum
-an den Produktionsbedingungen, andrerseits darauf, daß das einzelne
-Individuum sich von der Nabelschnur des Stammes oder des Gemeinwesens
-noch ebensowenig losgerissen hat wie das Bienenindividuum vom
-Bienenstock. Beides unterscheidet sie von der kapitalistischen Kooperation.
-Die sporadische Anwendung der Kooperation auf großem Maßstab in der
-antiken Welt, dem Mittelalter und den modernen Kolonien beruht auf
-unmittelbaren Herrschafts- und Knechtschaftsverhältnissen, zumeist auf
-der Sklaverei. Die kapitalistische Form setzt dagegen von vornherein den
-freien Lohnarbeiter voraus, der seine Arbeitskraft dem Kapital verkauft.
-Historisch jedoch entwickelt sie sich im Gegensatz Zur Bauernwirtschaft
-und zum unabhängigen Handwerksbetrieb, ob dieser zünftige Form besitze
-oder nicht.24 Ihnen gegenüber erscheint die kapitalistische Kooperation
-nicht als eine besondre historische Form der Kooperation, sondern die
-Kooperation selbst als eine dem kapitalistischen Produktionsprozeß eigentümliche
-und ihn spezifisch unterscheidende historische Form.
-Wie die durch die Kooperation entwickelte gesellschaftliche Produktivkraft
+  Wenn Arbeiter überhaupt nicht unmittelbar zusammenwirken können, ohne Zusammen zu sein, ihre Konglomeration auf bestimmtem Raum daher Bedingung ihrer Kooperation ist, können Lohnarbeiter nicht kooperieren, ohne daß dasselbe Kapital, derselbe Kapitalist sie gleichzeitig anwendet, also ihre Arbeitskräfte gleichzeitig kauft. Der Gesamtwert dieser Arbeitskräfte oder die Lohnsumme der Arbeiter für den Tag, die Woche usw., muss daher in der Tasche des Kapitalisten vereint sein, bevor die Arbeitskräfte selbst im Produktionsprozess vereint werden. Zahlung von 300 Arbeitern auf einmal, auch nur für einen Tag, bedingt mehr Kapitalauslage als Zahlung weniger Arbeiter Woche für Woche, während des ganzen Jahrs. Die Anzahl der kooperierenden Arbeiter, oder die Stufenleiter der Kooperation, hängt also Zunächst ab von der Größe des Kapitals, das der einzelne Kapitalist im Ankauf von Arbeitskraft auslegen kann, d.h. von dem Umfang, worin je ein Kapitalist über die Lebensmittel vieler Arbeiter verfügt.
+  Und wie mit dem variablen, verhält es sich mit dem konstanten Kapital. Die Auslage für Rohmaterial Z.B. ist 30 mal größer für den einen Kapitalisten, der 300, als für jeden der 30 Kapitalisten, der je 10 Arbeiter beschäftigt. Wertumfang und Stoffmasse der gemeinsam benutzten Arbeitsmittel wachsen zwar nicht in demselben Grad wie die beschäftigte Arbeiteranzahl, aber sie wachsen beträchtlich- Konzentration größrer Massen von Produktionsmitteln in der Hand einzelner Kapitalisten ist also materielle Bedingung für die Kooperation von Lohnarbeitern, und der Umfang der Kooperation, oder die Stufenleiter der Produktion, hängt ab vom Umfang dieser Konzentration.
+  Ursprünglich erschien eine gewisse Minimalgröße des individuellen Kapitals notwendig, damit die Anzahl der gleichzeitig ausgebeuteten Arbeiter, daher die Masse des produzierten Mehrwerts hinreiche, den Arbeitsanwender selbst von der Handarbeit Zu entbinden, aus einem Kleinmeister einen Kapitalisten zu machen und so das Kapitalverhältnis formell herzustellen. Sie erscheint jetzt als materielle Bedingung für die Verwandlung vieler zersplitterter und voneinander unabhängiger individueller Arbeitsprozesse in einen kombinierten gesellschaftlichen Arbeitsprozess. Ebenso erschien ursprünglich das Kommando des Kapitals über die Arbeit nur als formelle Folge davon, dass der Arbeiter statt für sich, für den Kapitalisten und daher unter dem Kapitalisten arbeitet. Mit der Kooperation vieler Lohnarbeiter entwickelt sich das Kommando des Kapitals zum Erheischnis für die Ausführung des Arbeitsprozesses selbst, zu einer wirklichen Produktionsbedingung. Der Befehl des Kapitalisten auf dem Produktionsfeld wird jetzt so unentbehrlich wie der Befehl des Generals auf dem Schlachtfeld.
+  Alle unmittelbar gesellschaftliche oder gemeinschaftliche Arbeit auf größrem Maßstab bedarf mehr oder minder einer Direktion, welche die Harmonie der individuellen Tätigkeiten vermittelt und die allgemeinen Funktionen vollzieht, die aus der Bewegung des produktiven Gesamtkörpers im Unterschied von der Bewegung seiner selbständigen Organe entspringen. Ein einzelner Violinspieler dirigiert sich selbst, ein Orchester bedarf des Musikdirektors. Diese Funktion der Leitung, Überwachung und Vermittlung, wird zur Funktion des Kapitals, sobald die ihm untergeordnete Arbeit kooperativ wird. Als spezifische Funktion des Kapitals erhält die Funktion der Leitung spezifische Charaktermale.
+  Zunächst ist das treibende Motiv und der bestimmende Zweck des kapitalistischen Produktionsprozesses möglichst große Selbstverwertung des Kapitals[„Profite ... sind der einzige Zweck des Geschäfts." (J, Vanderlint, I.e. p. 11.)], d.h. möglichst große Produktion von Mehrwert, also möglichst große Ausbeutung der Arbeitskraft durch den Kapitalisten. Mit der Masse der gleichzeitig beschäftigten Arbeiter wächst ihr Widerstand und damit notwendig der Druck des Kapitals zur Bewältigung dieses Widerstands. Die Leitung des Kapitalisten ist nicht nur eine aus der Natur des gesellschaftlichen Arbeitsprozesses entspringende und ihm angehörige besondre Funktion, sie ist zugleich Funktion der Ausbeutung eines gesellschaftlichen Arbeitsprozesses und daher bedingt durch den unvermeidlichen Antagonismus zwischen dem Ausbeuter und dem Rohmaterial seiner Ausbeutung. Ebenso wächst mit dem Umfang der Produktionsmittel, die dem Lohnarbeiter als fremdes Eigentum gegenüberstehn, die Notwendigkeit der Kontrolle über deren sachgemäße Verwendung.[Ein englisches Philisterblatt, der „Spectator" vom 26. Mai 1866, berichtet, daß nach Einführung einer Art von Kompagniegeschäft zwischen Kapitalist und Arbeitern in der „wirework Company of Manchester" *(Gesellschaft für Drahtverarbeitung in Manchester): „das erste Ergebnis eine plötzliche Abnahme der Materialverschwendung war, da die Arbeiter nicht einsahen, weshalb sie mit ihrem Eigentum verschwenderischer umgehen sollten als mit dem der Kapitalisten, und Materialverschwendung ist neben schlechten Außenständen vielleicht die größte Verlustquelle in den Fabriken". Dasselbe Blatt entdeckt als Grundmangel der Rochdale cooperative experiments{103}: „They showed that associations of workmen could manage shops, mills, and almost all forms of industry with success, and they immensely improved the condition of the men, but then they did not leave a clear place for masters." („Sie bewiesen, daß Arbeiterassoziationen Boutiquen, Fabriken und beinahe alle Formen der Industrie mit Erfolg handhaben können, und sie verbesserten außerordentlich die Lage der Leute selbst, aber! aber, dann ließen sie keinen sichtbaren Platz für Kapitalisten offen." Quelle horreur! *(Wie schrecklich!))] Die Kooperation der Lohnarbeiter ist ferner bloße Wirkung des Kapitals, das sie gleichzeitig anwendet. Der Zusammenhang ihrer Funktionen und ihre Einheit als produktiver Gesamtkörper liegen außer ihnen, im Kapital, das sie zusammenbringt und zusammenhält. Der Zusammenhang ihrer Arbeiten tritt ihnen daher ideell als Plan, praktisch als Autorität des Kapitalisten gegenüber, als Macht eines fremden Willens, der ihr Tun seinem Zweck unterwirft.
+  Wenn daher die kapitalistische Leitung dem Inhalt nach zwieschlächtig ist, wegen der Zwieschlächtigkeit des zu leitenden Produktionsprozesses selbst, welcher einerseits gesellschaftlicher Arbeitsprozeß zur Herstellung eines Produkts, andrerseits Verwertungsprozeß des Kapitals, so ist sie der Form nach despotisch. Mit der Entwicklung der Kooperation auf größrem Maßstab entwickelt dieser Despotismus seine eigentümlichen Formen. Wie der Kapitalist zunächst entbunden wird von der Handarbeit, sobald sein Kapital jene Minimalgröße erreicht hat, womit die eigentlich kapitalistische Produktion erst beginnt, so tritt er jetzt die Funktion unmittelbarer und fortwährender Beaufsichtigung der einzelnen Arbeiter und Arbeitergruppen selbst wieder ab an eine besondre Sorte von Löhnarbeitern. Wie eine Armee militärischer, bedarf eine unter dem Kommando desselben Kapitals zusammenwirkende Arbeitermasse industrieller Oberoffiziere (Dirigenten, managers) und Unteroffiziere (Arbeitsaufseher, foremen, overlookers, contremaitres), die während des Arbeitsprozesses im Namen des Kapitals kommandieren. Die Arbeit der Oberaufsicht befestigt sich zu ihrer ausschließlichen Funktion. Bei Vergleichung der Produktionsweise unabhängiger Bauern oder selbständiger Handwerker mit der auf Sklaverei beruhenden Plantagenwirtschaft zählt der politische Ökonom diese Arbeit der Oberaufsicht zu den faux frais de production.[Nachdem Professor Cairnes die „superintendence ot labour"*(„Überwachung der Arbeit") als einen Hauptcharakter der Sklavenproduktion in den südlichen Staaten von Nordamerika dargestellt hat, fährt er fort: „Da der bäuerliche Eigentümer" (des Nordens) „das ganze Produkt seines Bodens *(bei Cairnes: Produkt seiner Arbeit) für sich behält, braucht er keinen besonderen Ansporn zur Anstrengung. Überwachung wird hier völlig unnötig." (Cairnes, I.e. p.48, 49.)] Bei Betrachtung der kapitalistischen Produktionsweise identifiziert er dagegen die Funktion der Leitung, soweit sie aus der Natur des gemeinschaftlichen Arbeitsprozesses entspringt, mit derselben Funktion, soweit sie durch den kapitalistischen und daher antagonistischen Charakter dieses Prozesses bedingt wird.[Sir James Steuart, überhaupt ausgezeichnet durch offnes Auge für die charakteristisch-gesellschaftlichen Unterschiede verschiedner Produktionsweisen, bemerkt: „Warum vernichten große Manufakturunternehmungen das Hausgewerbe, wenn nicht dadurch, daß sie der Einfachheit der Sklavenarbeit näher kommen?" („Princ. of Pol. Econ.", London 1767, v.I, p. 167, 168.)] Der Kapitalist ist nicht Kapitalist, weil er industrieller Leiter ist, sondern er wird industrieller Befehlshaber, weil er Kapitalist ist. Der Oberbefehl in der Industrie wird Attribut des Kapitals, wie zur Feudalzeit der Oberbefehl in Krieg und Gericht Attribut des Grundeigentums war.[Auguste Comte und seine Schule hätten daher in derselben Art die ewige Notwendigkeit von Feudalherrn beweisen können, wie sie dies für die Kapitalherrn getan.]
+  Eigentümer seiner Arbeitskraft ist der Arbeiter, solange er als Verkäufer derselben mit dem Kapitalist marktet, und er kann nur verkaufen, was er besitzt, seine individuelle, vereinzelte Arbeitskraft. Dies Verhältnis wird in keiner Weise dadurch verändert, daß der Kapitalist 100 Arbeitskräfte statt einer kauft oder mit 100 voneinander unabhängigen Arbeitern Kontrakte schließt statt mit einem einzelnen. Er kann die 100 Arbeiter anwenden, ohne sie kooperieren zu lassen. Der Kapitalist zahlt daher den Wert der 100 selbständigen Arbeitskräfte, aber er zahlt nicht die kombinierte Arbeitskraft der Hundert. Als unabhängige Personen sind die Arbeiter Vereinzelte, die in ein Verhältnis zu demselben Kapital, aber nicht zueinander treten. Ihre Kooperation beginnt erst im Arbeitsprozeß, aber im Arbeitsprozeß haben sie bereits aufgehört, sich selbst zu gehören. Mit dem Eintritt in denselben sind sie dem Kapital einverleibt. Als Kooperierende, als Glieder eines werktätigen Organismus, sind sie selbst nur eine besondre Existenzweise des Kapitals. Die Produktivkraft, die der Arbeiter als gesellschaftlicher Arbeiter entwickelt, ist daher Produktivkraft des Kapitals. Die gesellschaftliche Produktivkraft der Arbeit entwickelt sich unentgeltlich, sobald die Arbeiter unter bestimmte Bedingungen gestellt sind, und das Kapital stellt sie unter diese Bedingungen. Weil die gesellschaftliche Produktivkraft der Arbeit dem Kapital nichts kostet, weil sie andrerseits nicht von dem Arbeiter entwickelt wird, bevor seine Arbeit selbst dem Kapital gehört, erscheint sie als Produktivkraft, die das Kapital von Natur besitzt, als seine immanente Produktivkraft. Kolossal zeigt sich die Wirkung der einfachen Kooperation in den Riesenwerken der alten Asiaten, Ägypter, Etrusker usw.
+  „Es geschah in vergangnen Zeiten, daß diese asiatischen Staaten nach Bestreitung ihrer Zivil- und Militärausgaben sich im Besitz eines Überschusses von Lebensmitteln befanden, die sie für Werke der Pracht und des Nutzens verausgaben konnten; Ihr Kommando übei die Hände und Arme fast der ganzen nicht ackerbauenden Bevölkrung und die ausschließliche Verfügung des Monarchen und der Priesterschaft über jenen Überschuß boten ihnen die Mittel zur Errichtung jener mächtigen Monumente, womit sie das Land erfüllten... In der Bewegung der kolossalen Statuen und der enörmen Massen, deren Transport Staunen erregt, wurde fast nur menschliche Arbeit verschwenderisch angewandt. Die Zahl der Arbeiter und die Konzentration ihrer Mühen genügte» So sehn wir mächtige Korallenriffe aus den Tiefen des Ozeans zu Inseln anschwellen und festes Land bilden, obgleich jeder individuelle Ablagerer (depositary) winzig, schwach und verächtlich ist. Die nicht ackerbauenden Arbeiter einer asiatischen Monarchie haben außer ihren individuellen körperlichen Bemühungen wenig zum Werk zu bringen, aber ihre Zahl ist ihre Kraft, und die Macht der Direktion über diese Massen gab jenen Riesenwerken den Ursprung. Es war die Konzentration der Revenuen, wovon die Arbeiter leben, in einer Hand oder wenigen Händen, welche solche Unternehmungen möglich machte."[R.Jones, „Text-book of Lectures etc.", p.77, 78. Die altassyrischen, ägyptischen usw. Sammlungen in London und andren europäischen Hauptstädten machen uns zu Augenzeugen jener kooperativen Arbeitsprozesse.]
+  Diese Macht asiatischer und ägyptischer Könige oder etruskischer Theokraten Usw. ist in der modernen Gesellschaft auf den Kapitalisten übergegangen, ob er nun als vereinzelter Kapitalist auftritt, oder, wie bei Aktien-' gesellschaften, als kombinierter Kapitalist.
+  Die Kooperation im Arbeitsprozeß, wie wir sie in den Kulturanfängeri der Menschheit, bei Jägervölkern[Linguet in seiner „Theorie des Lois civiles" hat vielleicht nicht unrecht, wenn er die Jagd für die erste Form der Kooperation und Menschenjagd (Krieg) für eine der ersten Formen der Jagd erklärt.] oder etwa in der Agrikultur indischer Gemeinwesen vorherrschend finden, beruht einerseits auf dem Gemeineigentum an den Produktionsbedingungen, andrerseits darauf, daß das einzelne Individuum sich von der Nabelschnur des Stammes oder des Gemeinwesens noch ebensowenig losgerissen hat wie das Bienenindividuum vom Bienenstock. Beides unterscheidet sie von der kapitalistischen Kooperation. Die sporadische Anwendung der Kooperation auf großem Maßstab in der antiken Welt, dem Mittelalter und den modernen Kolonien beruht auf unmittelbaren Herrschafts- und Knechtschaftsverhältnissen, zumeist auf der Sklaverei. Die kapitalistische Form setzt dagegen von vornherein den freien Lohnarbeiter voraus, der seine Arbeitskraft dem Kapital verkauft. Historisch jedoch entwickelt sie sich im Gegensatz Zur Bauernwirtschaft und zum unabhängigen Handwerksbetrieb, ob dieser zünftige Form besitze oder nicht.[Die kleine Bauernwirtschaft und der unabhängige Handwerksbetrieb, die beide teils die Basis der feudalen Produktionsweise bilden, teils nach deren Auflösung neben dem kapitalistischen Betrieb erscheinen, bilden zugleich die ökonomische Grundlage der klassischen Gemeinwesen zu ihrer besten Zeit, nachdem sich das ursprünglich orientalische Gemeineigentum aufgelöst und bevor sich die Sklaverei der Produktion ernsthaft bemächtigt hat.] Ihnen gegenüber erscheint die kapitalistische Kooperation nicht als eine besondre historische Form der Kooperation, sondern die Kooperation selbst als eine dem kapitalistischen Produktionsprozeß eigentümliche und ihn spezifisch unterscheidende historische Form.
+  Wie die durch die Kooperation entwickelte gesellschaftliche Produktivkraft
 der Arbeit als Produktivkraft des Kapitals erscheint, so die Kooperation
 selbst als eine spezifische Form des kapitalistischen Produktionsprozesses
 im Gegensatz zum Produktionsprozeß vereinzelter unabhängiger
@@ -2945,12 +2757,8 @@ als eine vom Kapital angewandte Methode, um ihn durch Steigerung
 seiner Produktivkraft profitücher auszubeuten.
 In ihrer bisher betrachteten einfachen Gestalt fällt die Kooperation zusammen
 mit der Produktion auf größrer Stufenleiter, bildet aber keine feste
-24 Die kleine Bauernwirtschaft und der unabhängige Handwerksbetrieb, die beide
-teils die Basis der feudalen Produktionsweise bilden, teils nach deren Auflösung neben
-dem kapitalistischen Betrieb erscheinen, bilden zugleich die ökonomische Grundlage
-der klassischen Gemeinwesen zu ihrer besten Zeit, nachdem sich das ursprünglich
-orientalische Gemeineigentum aufgelöst und bevor sich die Sklaverei der Produktion
-ernsthaft bemächtigt hat.
+24 
+
 charakteristische Form einer besondren Entwicklungsepoche der kapitalistischen
 Produktionsweise. Höchstens erscheint sie annähernd so in den noch
 handwerksmäßigen Anfängen der Manufaktur25 und in jeder Art großer
@@ -2967,6 +2775,7 @@ weiterentwickelten Formen erscheint.
 am selben Werk der Weg, es vorwärts zu bringen? Und wäre es sonst England
 möglich gewesen, seine Wollmanufaktur zu einem solchen Grad der Vollendung
 zu bringen?" (Berkeley, „The Querist", Lond. 1750, p.56, § 521.)
+
 ZWÖLFTES KAPITEL
 Teilung der Arbeit und Manufaktur,
 1. Doppelter Ursprung der Manufaktur
